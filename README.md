@@ -35,3 +35,7 @@
     </h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight" alt="nclsbayona's Most-Used Languages Github Stats">
 </div>
+<div id="waka-time">
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</div>
