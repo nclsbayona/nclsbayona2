@@ -17,6 +17,75 @@
         </font>
     </h5>
     <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=true&margin-w=5&margin-h=5&no-bg=true&column=4" alt="nclsbayona's profile trophies">
+    <table>
+        <thead align="center">
+            <tr border: none;>
+            <td><b>🎁 Projects</b></td>
+            <td><b>⭐ Stars</b></td>
+            <td><b>📚 Forks</b></td>
+            <td><b>🛎 Issues</b></td>
+            <td><b>📬 Pull requests</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a href="https://github.com/nclsbayona/nclsbayona">
+                        <b>nclsbayona</b>
+                    </a>
+                </td>
+                <td>
+                    <img alt="Stars" src="https://img.shields.io/github/stars/nclsbayona/nclsbayona?style=flat-square&labelColor=343b41"/>
+                </td>
+                <td>
+                    <img alt="Forks" src="https://img.shields.io/github/forks/nclsbayona/nclsbayona?style=flat-square&labelColor=343b41"/>
+                </td>
+                <td>
+                    <img alt="Issues" src="https://img.shields.io/github/issues/nclsbayona/nclsbayona?style=flat-square&labelColor=343b41"/>
+                </td>
+                <td>
+                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nclsbayona/nclsbayona?style=flat-square&labelColor=343b41"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/nclsbayona/P">
+                        <b>SpaceInvaders-P5.JS</b>
+                    </a>
+                </td>
+                <td>
+                    <img alt="Stars" src="https://img.shields.io/github/stars/nclsbayona/space-invaders-p5js?style=flat-square&labelColor=343b41">
+                </td>
+                <td>
+                    <img alt="Forks" src="https://img.shields.io/github/forks/nclsbayona/space-invaders-p5js?style=flat-square&labelColor=343b41">
+                </td>
+                <td>
+                    <img alt="Issues" src="https://img.shields.io/github/issues/nclsbayona/space-invaders-p5js?style=flat-square&labelColor=343b41">
+                </td>
+                <td>
+                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nclsbayona/space-invaders-p5js?style=flat-square&labelColor=343b41"></td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/nclsbayona/Pyrogram-Trial">
+                        <b>Pyrogram-Trial</b>
+                    </a>
+                </td>
+                <td>
+                    <img alt="Stars" src="https://img.shields.io/github/stars/nclsbayona/Pyrogram-Trial?style=flat-square&labelColor=343b41">
+                </td>
+                <td>
+                    <img alt="Forks" src="https://img.shields.io/github/forks/nclsbayona/Pyrogram-Trial?style=flat-square&labelColor=343b41">
+                </td>
+                <td>
+                    <img alt="Issues" src="https://img.shields.io/github/issues/nclsbayona/Pyrogram-Trial?style=flat-square&labelColor=343b41">
+                </td>
+                <td>
+                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nclsbayona/Pyrogram-Trial?style=flat-square&labelColor=343b41">
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 <hr>
 <h2 align="center"> 🐣 Some of my stats 🐣 </h2>
