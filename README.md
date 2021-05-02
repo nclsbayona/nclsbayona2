@@ -33,7 +33,17 @@
             Programming Languages Stats
         </font>
     </h4>
+    <h5>
+        <font color="#679000">
+            Most Used Languages Stats
+        </font>
+    </h5>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight" alt="nclsbayona's Most-Used Languages Github Stats">
 </div>
+<h5>
+    <font color="#679000">
+        Weekly-stats
+    </font>
+</h5>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
