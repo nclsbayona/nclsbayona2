@@ -1,3 +1,4 @@
+name: README Build
 on:
   push:
     branches: [ master ]
