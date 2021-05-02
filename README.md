@@ -4,13 +4,13 @@
 </div>
 <hr>
 <div id="profile-info" align="center">
-    <h5 align="left">
+    <h5>
         <font color="#67d6b1">
             Visitor count
         </font>
     </h5>
     <img src="https://komarev.com/ghpvc/?username=nclsbayona&label=Profile%20views&color=0e75b6&style=flat" alt="nclsbayona's profile visited count">
-    <h5 align="left">
+    <h5>
         <font color="#67d6b1">
             Profile trophies
         </font>
