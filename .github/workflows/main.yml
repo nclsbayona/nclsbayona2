@@ -16,7 +16,7 @@ jobs:
     name: Update this repo's README with WAKATIME stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: nclsbayona/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Updated user activity graph
