@@ -1,4 +1,4 @@
-<div align="center">
+<div id="greetings" align="center">
     <h2>Hey there👋</h1> 
     <h3>I'm really grateful that you came here</h2>
 </div>
@@ -17,16 +17,6 @@
     </h5>
     <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona" alt="nclsbayona's profile trophies">
 </div>
-<ul>
-    <li>🔭 I’m currently working on ...</li>
-    <li>🌱 I’m currently learning ...</li>
-    <li>👯 I’m looking to collaborate on ...</li>
-    <li>🤔 I’m looking for help with ...</li>
-    <li>💬 Ask me about ...</li>
-    <li>📫 How to reach me: ...</li>
-    <li>😄 Pronouns: ...</li>
-    <li>⚡ Fun fact: ...</li>
-</ul>
 <hr>
 <h2 align="center"> 🐣 Some of my stats 🐣 </h2>
 <div id="general" align="center">
