@@ -1,6 +1,7 @@
 <div id="greetings" align="center">
     <h2>👋 Hey there 👋</h2> 
     <h3>I'm really grateful that you came here 😎</h3>
+    <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&owner=1&pattern=Charlie%20Brown&theme=Dark">
 </div>
 <hr>
 <div id="profile-info" align="center">
