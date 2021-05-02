@@ -1,0 +1,48 @@
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
+
+jobs:
+  build:
+    name: Fully Update Readme
+    runs-on: ubuntu-latest
+    steps:
+        - name: checkout
+            uses: actions/checkout@v1
+
+        - name: setup node
+            uses: actions/setup-node@v1
+            with:
+            node-version: '13.x'
+
+        - name: cache
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+        
+        - name: Install dependencies
+            run: npm install
+
+        - name: Generate README file
+        run: node index.js
+        env:
+          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+
+        - name: Push new README.md
+            uses: nclsbayona/publish-to-github-action@master
+            env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        - name: 
+            uses: nclsbayona/waka-readme@master
+            with:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            COMMIT_MESSAGE: Updated user activity graph
+            SHOW_TITLE: true
