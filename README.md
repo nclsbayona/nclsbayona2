@@ -58,6 +58,7 @@
         </font>
     </h5>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&theme=tokyonight" alt="nclsbayona's Weekly Stats">
+    <span> </span>
     <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
