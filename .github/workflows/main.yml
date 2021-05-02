@@ -36,13 +36,13 @@ jobs:
             OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
 
         - name: Push new README.md
-            uses: nclsbayona/publish-to-github-action@master
-            env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          uses: nclsbayona/publish-to-github-action@master
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
         - name: 
-            uses: nclsbayona/waka-readme@master
-            with:
+          uses: nclsbayona/waka-readme@master
+          with:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             COMMIT_MESSAGE: Updated user activity graph
             SHOW_TITLE: true
