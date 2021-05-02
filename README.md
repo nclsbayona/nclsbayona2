@@ -59,10 +59,10 @@
     </h5>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&theme=tokyonight" alt="nclsbayona's Weekly Stats">
     <!--START_SECTION:waka-->
-    ```text
-    No Activity tracked this Week
-    ```
-    <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 </div>
 <div id="contact">
     <h3>
