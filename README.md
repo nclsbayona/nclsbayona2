@@ -57,7 +57,7 @@
             ⌚General Weekly-Stats 
         </font>
     </h5>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&locale=en&theme=tokyonight" alt="nclsbayona's Weekly Stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&theme=tokyonight" alt="nclsbayona's Weekly Stats">
 </div>
 <!--START_SECTION:waka-->
 ```text
