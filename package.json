@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nclsbayona/nclsbayona/issues"
   },
-  "homepage": "https://github.com/nclsbayona/nclsbayona#readme"
+  "homepage": "https://github.com/nclsbayona/nclsbayona#readme",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
 }
