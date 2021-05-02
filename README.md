@@ -16,7 +16,7 @@
             Profile trophies 🏆
         </font>
     </h5>
-    <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona" alt="nclsbayona's profile trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=true&margin-w=5&margin-h=5&no-bg=true&column=4" alt="nclsbayona's profile trophies">
 </div>
 <hr>
 <h2 align="center"> 🐣 Some of my stats 🐣 </h2>
@@ -81,7 +81,7 @@ No Activity tracked this Week
             Contact me! 
         </font>
     </h3>
-    <a href="https://github.com/nclsbayona" target="_blank"><img alt="Github" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="20" height="20"></a>
+    <a href="https://github.com/nclsbayona" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
     <a href="https://twitter.com/nclsbayona" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277"></a>
+    <a href="https://instagram.com/nclsbayona" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
