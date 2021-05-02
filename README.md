@@ -31,7 +31,7 @@
             😃 General Overview
         </font>
     </h5>
-    <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
 </div>
 <div id="languages" align="center">
     <h4 align="left">
@@ -57,6 +57,7 @@
             ⌚General Weekly-Stats 
         </font>
     </h5>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&locale=en&theme=tokyonight" alt="nclsbayona's Weekly Stats">
 </div>
 <!--START_SECTION:waka-->
 ```text
