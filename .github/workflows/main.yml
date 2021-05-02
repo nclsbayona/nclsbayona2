@@ -8,9 +8,9 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update this repo's README with WAKATIME stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: nclsbayona/nclsbayona@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
