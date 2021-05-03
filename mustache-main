@@ -142,19 +142,14 @@
     </p>
 </div>
 <div id="ig-photos">
-    <h3>
-        {{dir}}
-    </h3>
-    <img src="https://www.flaticon.com/svg/vstatic/svg/3515/3515293.svg?token=exp=1620003816~hmac=e2c9bf38c4f2eb0a8500938354e1c141" width="15"/> Bogota</h3>
     <p>
         <img width="100" src="{{img1}}">
         <img width="100" src="{{img2}}"> 
         <img width="100" src="{{img3}}">
     </p>
     <p>
-        Above are the last 3 pictures I posted on Instagram
+        Above are the last 3 pictures I posted on Instagram. 
             <a href="https://www.instagram.com/{{igAccount}}/" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20">
                 @{{igAccount}}!
             </a>
         <hr>
@@ -177,7 +172,6 @@
             {{city_temperature}}°C, 
             <i>{{city_weather}}</i>
         </b>
-        <hr>
         Today, the sun rises at 
         <b>
             {{sun_rise}}
@@ -188,4 +182,5 @@
         </b>
         .
     </p>
+    <hr>
 </div>
