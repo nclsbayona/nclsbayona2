@@ -138,10 +138,7 @@
             </font>
         </h4>
     <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
     </p>
 </div>
 <div id="ig-photos">
@@ -178,7 +175,7 @@ No Activity tracked this Week
     Currently, the weather in my location is: 
     <p>
         <b> 
-            12°C, 
+            13°C, 
             <i>broken clouds</i>
         </b>
         Today, the sun rises at 
