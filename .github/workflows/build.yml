@@ -48,6 +48,6 @@ jobs:
             SHOW_TITLE: true
         
         - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "3"
-                feed_list: "https://medium.com/feed/@nclsbayona"
+            with: 
+              max_post_count: "3"
+              feed_list: "https://medium.com/feed/@nclsbayona"
