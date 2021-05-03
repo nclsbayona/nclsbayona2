@@ -42,10 +42,13 @@ async function setWeatherInformation() {
 };
 
 async function setInstagramPosts() {
-    const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(igAccount, 3);
-    DATA.img1 = instagramImages[0];
-    DATA.img2 = instagramImages[1];
-    DATA.img3 = instagramImages[2];
+    const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(
+        igAccount, 3
+    ).then(instagramImages => {
+        DATA.img1 = instagramImages[0];
+        DATA.img2 = instagramImages[1];
+        DATA.img3 = instagramImages[2];
+    })
 }
 
 async function generateReadMe() {
@@ -61,13 +64,13 @@ async function action() {
     await setWeatherInformation();
 
     //Get pictures
-    //await setInstagramPosts();
+    await setInstagramPosts();
 
     //Generate README
     await generateReadMe();
 
     //Close resources
-    //await puppeteerService.close();
+    await puppeteerService.close();
 }
 
 action();
