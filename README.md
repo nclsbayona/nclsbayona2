@@ -120,10 +120,11 @@
 </div>
 <div id="ig-photos" align="center">
     <p>
-        Last 3 pictures @cool_wallpapersbg posted on Instagram. 
-            <a href="https://www.instagram.com/cool_wallpapersbg/" target="_blank">
-                @cool_wallpapersbg!
-            </a>
+        Last 3 pictures 
+        <a href="https://www.instagram.com/cool_wallpapersbg/" target="_blank">
+            @cool_wallpapersbg
+        </a>
+         posted on Instagram.
     </p>
     <p>
         <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX8Jfmwd%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D75fc5e2df22b9de00c6268a044cac097%26oe%3D60B55FED%26_nc_sid%3D7bff83" width="300">     
