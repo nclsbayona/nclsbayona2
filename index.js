@@ -5,9 +5,12 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const puppeteerService = require('./puppeteer-service');
 const MUSTACHE_MAIN_DIR = './mustache-main';
+//This might be modified
 var query = "Bogota,CO,"
 var igAccount = 'cool_wallpapersbg'
 var localeString='es-CO'
+var timeZone="America/Bogota"
+//
 let DATA = {
     refresh_date: new Date().toLocaleDateString(localeString, {
         weekday: 'long',
@@ -15,8 +18,7 @@ let DATA = {
         day: 'numeric',
         hour: 'numeric',
         minute: 'numeric',
-        timeZoneName: 'short',
-        timeZone: 'America/Bogota',
+        timeZoneName: 'short'
     }),
 };
 
@@ -32,12 +34,12 @@ async function setWeatherInformation() {
             DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString(localeString, {
                 hour: '2-digit',
                 minute: '2-digit',
-                timeZone: DATA.timeZone,
+                timeZone: timeZone,
             });
             DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString(localeString, {
                 hour: '2-digit',
                 minute: '2-digit',
-                timeZone: DATA.timeZone,
+                timeZone: timeZone,
             });
         });
 };
