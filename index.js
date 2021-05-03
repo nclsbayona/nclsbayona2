@@ -6,6 +6,7 @@ const fs = require('fs');
 const puppeteerService = require('./puppeteer-service');
 const MUSTACHE_MAIN_DIR = './mustache-main';
 var query = "Bogota,CO,"
+var igAccount = 'nclsbayona'
 let DATA = {
     refresh_date: new Date().toLocaleDateString('en-GB', {
         weekday: 'long',
@@ -15,7 +16,6 @@ let DATA = {
         minute: 'numeric',
         timeZoneName: 'short',
         timeZone: 'America/Bogota',
-        igAccount: 'nclsbayona'
     }),
 };
 
@@ -43,8 +43,9 @@ async function setWeatherInformation() {
 
 async function setInstagramPosts() {
     const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(
-        DATA.igAccount, 3
+        igAccount, 3
     );
+    DATA.igAccount = igAccount;
     DATA.img1 = instagramImages[0];
     DATA.img2 = instagramImages[1];
     DATA.img3 = instagramImages[2];
