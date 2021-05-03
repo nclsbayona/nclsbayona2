@@ -117,28 +117,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight" alt="nclsbayona's Most-Used Languages Github Stats">
     </p>
 </div>
-<div id="wakatime" align=center>
-    <h4 align="left">
-        <font color="#32e352">
-            Weekly-Stats 🗓️
-        </font>
-    </h4>
-    <p>
-        <h5>
-            <font color="#679000">
-                ⌚General Weekly-Stats 
-            </font>
-        </h5>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&theme=tokyonight" alt="nclsbayona's Weekly Stats">
-    </p>
-    <p>
-        <h4>
-            <font color="#679000">
-                Overview ✨
-            </font>
-        </h4>
-    </p>
-</div>
 <div id="ig-photos" align="center">
     <p>
         Last 3 pictures @cool_wallpapersbg posted on Instagram. 
@@ -180,15 +158,28 @@
         .
     </p>
 </div>
-<hr>
+<div id="wakatime" align=center>
+    <h4 align="left">
+        <font color="#32e352">
+            Weekly-Stats 🗓️
+        </font>
+    </h4>
+    <p>
+        <h5>
+            <font color="#679000">
+                ⌚General Weekly-Stats 
+            </font>
+        </h5>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&theme=tokyonight" alt="nclsbayona's Weekly Stats">
+    </p>
+    <p>
+        <h4>
+            <font color="#679000">
+                Overview ✨
+            </font>
+        </h4>
+    </p>
+</div>
 <!--START_SECTION:waka-->
-```text
-Week: 25 April, 2021 - 02 May, 2021
-
-JavaScript   2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-Markdown     1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
-YAML         1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-```
-<!--END_SECTION:waka-->
+<--END_SECTION:waka-->
+<hr>
