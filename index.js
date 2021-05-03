@@ -60,7 +60,7 @@ async function action() {
     //await setWeatherInformation();
 
     //Get pictures
-    await setInstagramPosts();
+    //await setInstagramPosts();
 
     //Generate README
     await generateReadMe();
