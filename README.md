@@ -138,26 +138,18 @@
             </font>
         </h4>
     <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
     </p>
 </div>
 <div id="ig-photos">
-    <h3>
-        
-    </h3>
-    <img src="https://www.flaticon.com/svg/vstatic/svg/3515/3515293.svg?token=exp=1620003816~hmac=e2c9bf38c4f2eb0a8500938354e1c141" width="15"/> Bogota</h3>
     <p>
         <img width="100" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C43628341_250778392456653_8343164290205984913_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DpWujaCsTEhAAX-063pH%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D64e227efd1d4a975dc6a3eae5be8cba5%26oe%3D60B3A0FC%26_nc_sid%3D7bff83">
         <img width="100" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C44409682_565037180615562_867197480302321609_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3D31EsfbN0UOsAX9ed9tc%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D9c58734dfbba72bbf13ba1863e135ff9%26oe%3D60B551B1%26_nc_sid%3D7bff83"> 
         <img width="100" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C23416506_128699434565845_4483916646951419904_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DORJyaoneC3AAX9IacfT%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D766353ef7bbaa02489355817baa420ef%26oe%3D60B5B485%26_nc_sid%3D7bff83">
     </p>
     <p>
-        Above are the last 3 pictures I posted on Instagram
+        Above are the last 3 pictures I posted on Instagram. 
             <a href="https://www.instagram.com//" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20">
                 @!
             </a>
         <hr>
@@ -180,7 +172,6 @@ No Activity tracked this Week
             13°C, 
             <i>broken clouds</i>
         </b>
-        <hr>
         Today, the sun rises at 
         <b>
             10:44
@@ -191,4 +182,5 @@ No Activity tracked this Week
         </b>
         .
     </p>
+    <hr>
 </div>
