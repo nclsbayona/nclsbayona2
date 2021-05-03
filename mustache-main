@@ -148,8 +148,34 @@
         </font>
     </h3>
     <h3>Actually at<img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Bogota</h3>
-    <p><img width="200" src="{{img1}}" /> <img width="200" src="{{img2}}" /> <img width="200" src="{{img3}}" /></p>
-    <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/{{igAccount}}/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @{{igAccount}}!</a><br/>Currently, the weather is: <b> {{city_temperature}}°C, <i>{{city_weather}}</i></b></br>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.</p>z
+    <p>
+        <img width="200" src="{{img1}}">
+        <img width="200" src="{{img2}}"> 
+        <img width="200" src="{{img3}}">
+    </p>
+    <p>
+        Above are the last 3 pictures posted by 
+            <a href="https://www.instagram.com/{{igAccount}}/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20">
+                @{{igAccount}}!
+            </a>
+        <hr>
+        Currently, the weather in my location is: 
+        <b> 
+            {{city_temperature}}°C, 
+            <i>{{city_weather}}</i>
+        </b>
+        <hr>
+        Today, the sun rises at 
+        <b>
+            {{sun_rise}}
+        </b> 
+        and sets at 
+        <b>
+            {{sun_set}}
+        </b>
+    .
+    </p>
     <a href="https://github.com/nclsbayona" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
     <a href="https://twitter.com/nclsbayona" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://instagram.com/nclsbayona" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white"></a>
