@@ -93,7 +93,6 @@
             </font>
         </h5>
     </div>
-    ### Blogs posts
     <!-- BLOG-POST-LIST:START -->
     <!-- BLOG-POST-LIST:END -->
     <hr>
@@ -157,6 +156,9 @@
         </a>
         <a href="https://t.me/nclsbayona" target="_blank">
             <img alt="Telegram" src="https://img.shields.io/badge/-TELEGRAM-blue?&style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+        <a href="https://www.medium.com/@nclsbayona" target="_blank">
+            <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
         </a>
         <!--Not so sure that this really works, maybe the link is bad-->
         <a href="https://www.discord.com/channels/@nclsbayona#6681" target="_blank">
