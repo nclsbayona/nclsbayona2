@@ -138,26 +138,22 @@
             </font>
         </h4>
     <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
     </p>
 </div>
-<div id="ig-photos">
-    <p align="center">
-        <img width="50" src="">           
-        <img width="50" src=""> 
-        <img width="50" src="">
-        <img width="50" src=""> 
-        <img width="50" src="">
-    </p>
+<div id="ig-photos" align="center">
     <p>
-        Above are the last 3 pictures I posted on Instagram. 
+        Last 5 pictures I posted on Instagram. 
             <a href="https://www.instagram.com/nclsbayona/" target="_blank">
                 @nclsbayona!
             </a>
-        <hr>
+    </p>
+    <p>
+        <img src="" width="75">     
+        <img src="" width="75">
+        <img src="" width="75">
+        <img src="" width="75">
+        <img src="" width="75">
     </p>
 </div>
 <div id="contact">
