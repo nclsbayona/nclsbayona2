@@ -138,10 +138,7 @@
             </font>
         </h4>
     <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
     </p>
 </div>
 <div id="contact">
@@ -151,7 +148,7 @@ No Activity tracked this Week
         </font>
     </h3>
     <h3>
-        https:&#x2F;&#x2F;api.openweathermap.org&#x2F;data&#x2F;2.5&#x2F;weather?q&#x3D;&amp;{query}&amp;appid&#x3D;${process.env.OPEN_WEATHER_MAP_KEY}&amp;units&#x3D;metric
+        
         Actually at
     </h3>
     <img src="https://www.flaticon.com/svg/vstatic/svg/3515/3515293.svg?token=exp=1620003816~hmac=e2c9bf38c4f2eb0a8500938354e1c141" width="15"/> Bogota</h3>
@@ -169,17 +166,17 @@ No Activity tracked this Week
         <hr>
         Currently, the weather in my location is: 
         <b> 
-            °C, 
-            <i></i>
+            13°C, 
+            <i>broken clouds</i>
         </b>
         <hr>
         Today, the sun rises at 
         <b>
-            
+            10:44
         </b> 
         and sets at 
         <b>
-            
+            23:01
         </b>
     .
     </p>
