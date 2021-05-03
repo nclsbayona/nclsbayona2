@@ -18,14 +18,7 @@
             </font>
         </h5>
         <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=true&margin-w=5&margin-h=5&no-bg=true&column=4" alt="nclsbayona's profile trophies">
-        <h5>
-            <font color="#67d6b1">
-                Latest blog posts
-            </font>
-        </h5>
-        ### Blogs posts
-        <!-- BLOG-POST-LIST:START -->
-        <!-- BLOG-POST-LIST:END --><!--table>
+        <!--table>
             <thead align="center">
                 <tr border: none;>
                 <td><b>🎁 Projects</b></td>
@@ -94,7 +87,15 @@
                 </tr>
             </tbody>
         </table-->
+        <h5>
+            <font color="#67d6b1">
+                Latest blog posts
+            </font>
+        </h5>
     </div>
+    ### Blogs posts
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
     <hr>
     <h2> 🐣 Some of my stats 🐣 </h2>
     <div id="general">
@@ -201,8 +202,8 @@
                 </font>
             </h4>
         </p>
-        <!--Credits to @athul-->
-        <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
     </div>
+    <!--Credits to @athul-->
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
