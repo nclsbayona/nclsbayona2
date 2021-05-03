@@ -144,13 +144,13 @@
 <div id="ig-photos">
     <p align="center">
         <a href="{{img1}}">
-            <img width="100" src="{{img1}}">
+            <img width="300" src="{{img1}}">
         </a>
         <a href="{{img2}}">
-            <img width="100" src="{{img2}}"> 
+            <img width="300" src="{{img2}}"> 
         </a>
         <a href="{{img3}}">
-            <img width="100" src="{{img3}}">
+            <img width="300" src="{{img3}}">
         </a>
     </p>
     <p>
