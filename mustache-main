@@ -142,10 +142,16 @@
     </p>
 </div>
 <div id="ig-photos">
-    <p>
-        <img width="100" src="{{img1}}">
-        <img width="100" src="{{img2}}"> 
-        <img width="100" src="{{img3}}">
+    <p align="center">
+        <a href="{{img1}}">
+            <img width="100" src="{{img1}}">
+        </a>
+        <a href="{{img2}}">
+            <img width="100" src="{{img2}}"> 
+        </a>
+        <a href="{{img3}}">
+            <img width="100" src="{{img3}}">
+        </a>
     </p>
     <p>
         Above are the last 3 pictures I posted on Instagram. 
