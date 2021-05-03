@@ -143,17 +143,15 @@
 </div>
 <div id="ig-photos" align="center">
     <p>
-        Last 5 pictures @{{igAccount}} posted on Instagram. 
+        Last 3 pictures @{{igAccount}} posted on Instagram. 
             <a href="https://www.instagram.com/{{igAccount}}/" target="_blank">
                 @{{igAccount}}!
             </a>
     </p>
     <p>
-        <img src="{{img1}}" width="75">     
-        <img src="{{img2}}" width="75">
-        <img src="{{img3}}" width="75">
-        <img src="{{img4}}" width="75">
-        <img src="{{img5}}" width="75">
+        <img src="{{img1}}" width="300">     
+        <img src="{{img2}}" width="300">
+        <img src="{{img3}}" width="300">
     </p>
 </div>
 <div id="contact">
