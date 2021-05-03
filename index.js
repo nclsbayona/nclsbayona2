@@ -6,7 +6,8 @@ const fs = require('fs');
 const puppeteerService = require('./puppeteer-service');
 const MUSTACHE_MAIN_DIR = './mustache-main';
 var query = "Bogota,CO,"
-var igAccount = 'bt_memes'
+var igAccount = 'cool_wallpapersbg'
+var localeString='es-CO'
 let DATA = {
     refresh_date: new Date().toLocaleDateString('en-GB', {
         weekday: 'long',
@@ -28,12 +29,12 @@ async function setWeatherInformation() {
             DATA.city_temperature = Math.round(r.main.temp);
             DATA.city_weather = r.weather[0].description;
             DATA.city_weather_icon = r.weather[0].icon;
-            DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
+            DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString(localeString, {
                 hour: '2-digit',
                 minute: '2-digit',
                 timeZone: DATA.timeZone,
             });
-            DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
+            DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString(localeString, {
                 hour: '2-digit',
                 minute: '2-digit',
                 timeZone: DATA.timeZone,
