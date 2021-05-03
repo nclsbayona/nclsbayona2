@@ -6,7 +6,7 @@ const fs = require('fs');
 const puppeteerService = require('./puppeteer-service');
 const MUSTACHE_MAIN_DIR = './mustache-main';
 var query = "Bogota,CO,"
-var igAccount = 'nclsbayona'
+var igAccount = 'bt_memes'
 let DATA = {
     refresh_date: new Date().toLocaleDateString('en-GB', {
         weekday: 'long',

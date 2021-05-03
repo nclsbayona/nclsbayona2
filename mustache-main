@@ -143,7 +143,7 @@
 </div>
 <div id="ig-photos" align="center">
     <p>
-        Last 5 pictures I posted on Instagram. 
+        Last 5 pictures @{{igAccount}} posted on Instagram. 
             <a href="https://www.instagram.com/{{igAccount}}/" target="_blank">
                 @{{igAccount}}!
             </a>
