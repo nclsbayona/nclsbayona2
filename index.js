@@ -9,7 +9,7 @@ var query = "Bogota,CO,"
 var igAccount = 'cool_wallpapersbg'
 var localeString='es-CO'
 let DATA = {
-    refresh_date: new Date().toLocaleDateString('en-GB', {
+    refresh_date: new Date().toLocaleDateString(localeString, {
         weekday: 'long',
         month: 'long',
         day: 'numeric',

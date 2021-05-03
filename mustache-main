@@ -139,8 +139,6 @@
         </h4>
     </p>
 </div>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <div id="ig-photos" align="center">
     <p>
         Last 3 pictures @{{igAccount}} posted on Instagram. 
@@ -183,3 +181,5 @@
     </p>
 </div>
 <hr>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
