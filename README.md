@@ -3,7 +3,6 @@
     <h3>I'm really grateful that you came here 😎</h3>
     <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark">
 </div>
-[![README Build](https://github.com/nclsbayona/nclsbayona/actions/workflows/main.yml/badge.svg)](https://github.com/nclsbayona/nclsbayona/actions/workflows/main.yml)
 <hr>
 <div id="profile-info" align="center">
     <h5>
@@ -182,19 +181,7 @@
         </h4>
     </p>
 </div>
+<!--Credits to @athul-->
 <!--START_SECTION:waka-->
-
-Week: 25 April, 2021 - 02 May, 2021
-
-JavaScript   2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-
-Markdown     1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
-
-YAML         1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-
-Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
-
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-
-
 <!--END_SECTION:waka-->
+[![README Build](https://github.com/nclsbayona/nclsbayona/actions/workflows/main.yml/badge.svg)](https://github.com/nclsbayona/nclsbayona/actions/workflows/main.yml)
