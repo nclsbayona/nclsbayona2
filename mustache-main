@@ -2,6 +2,7 @@
     <h2>👋 Hey there 👋</h2> 
     <h3>I'm really grateful that you came here 😎</h3>
     <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark">
+    [![README Build](https://github.com/nclsbayona/nclsbayona/actions/workflows/main.yml/badge.svg)](https://github.com/nclsbayona/nclsbayona/actions/workflows/main.yml)
 </div>
 <hr>
 <div id="profile-info" align="center">
