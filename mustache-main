@@ -143,9 +143,11 @@
 </div>
 <div id="ig-photos">
     <p align="center">
-        <img width="300" src="{{img1}}">           
-        <img width="300" src="{{img2}}"> 
-        <img width="300" src="{{img3}}">
+        <img width="50" src="{{img1}}">           
+        <img width="50" src="{{img2}}"> 
+        <img width="50" src="{{img3}}">
+        <img width="50" src="{{img4}}"> 
+        <img width="50" src="{{img5}}">
     </p>
     <p>
         Above are the last 3 pictures I posted on Instagram. 
