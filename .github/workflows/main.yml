@@ -1,7 +1,7 @@
 name: README Build
 on:
-  pull-request:
-    branches: [ master ]
+  push:
+    branches: [ main ]
 
   workflow_dispatch:
   schedule:
