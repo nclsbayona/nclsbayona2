@@ -146,15 +146,9 @@ No Activity tracked this Week
 </div>
 <div id="ig-photos">
     <p align="center">
-        <a href="">
-            <img width="300" src="">
-        </a>
-        <a href="">
-            <img width="300" src=""> 
-        </a>
-        <a href="">
-            <img width="300" src="">
-        </a>
+        <img width="300" src="">           
+        <img width="300" src=""> 
+        <img width="300" src="">
     </p>
     <p>
         Above are the last 3 pictures I posted on Instagram. 
