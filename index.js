@@ -46,6 +46,9 @@ async function setInstagramPosts() {
     DATA.img1 = instagramImages[0];
     DATA.img2 = instagramImages[1];
     DATA.img3 = instagramImages[2];
+    console.log(DATA.img1)
+    console.log(DATA.img2)
+    console.log(DATA.img3)
 }
 
 async function generateReadMe() {
