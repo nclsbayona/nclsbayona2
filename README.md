@@ -137,7 +137,9 @@
                 Overview ✨
             </font>
         </h4>
-    <!--START_SECTION:waka-->
+    </p>
+</div>
+<!--START_SECTION:waka-->
 ```text
 Week: 25 April, 2021 - 02 May, 2021
 
@@ -148,8 +150,6 @@ Other        1 hr 6 mins     ████▒░░░░░░░░░░░░
 JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 <!--END_SECTION:waka-->
-    </p>
-</div>
 <div id="ig-photos" align="center">
     <p>
         Last 3 pictures @cool_wallpapersbg posted on Instagram. 
@@ -177,8 +177,8 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
     Currently, the weather in my location is: 
     <p>
         <b> 
-            10°C, 
-            <i>broken clouds</i>
+            11°C, 
+            <i>overcast clouds</i>
         </b>
         Today, the sun rises at 
         <b>
