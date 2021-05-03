@@ -151,9 +151,6 @@
         <a href="https://twitter.com/nclsbayona" target="_blank">
             <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
         </a>
-        <a href="https://www.medium.com/@nclsbayona" target="_blank">
-            <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
-        </a>
         <a href="https://instagram.com/nclsbayona" target="_blank">
             <img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white">
         </a>
@@ -163,6 +160,14 @@
         <!--Not so sure that this really works, maybe the link is bad-->
         <a href="https://www.discord.com/channels/@nclsbayona#6681" target="_blank">
             <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-black?&style=for-the-badge&logo=discord&logoColor=white">
+        </a>
+        <a href="https://www.medium.com/@nclsbayona" target="_blank">
+            <h4 align="left">
+                <font color="#32e352">
+                    Follow me on 
+                </font>
+            </h4>
+            <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
         </a>
     </div>
     <div id="weather-info">
