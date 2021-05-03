@@ -141,20 +141,19 @@
     <!--END_SECTION:waka-->
     </p>
 </div>
-<div id="ig-photos">
-    <p align="center">
-        <img width="50" src="{{img1}}">           
-        <img width="50" src="{{img2}}"> 
-        <img width="50" src="{{img3}}">
-        <img width="50" src="{{img4}}"> 
-        <img width="50" src="{{img5}}">
-    </p>
+<div id="ig-photos" align="center">
     <p>
-        Above are the last 3 pictures I posted on Instagram. 
+        Last 5 pictures I posted on Instagram. 
             <a href="https://www.instagram.com/{{igAccount}}/" target="_blank">
                 @{{igAccount}}!
             </a>
-        <hr>
+    </p>
+    <p>
+        <img src="{{img1}}" width="75">     
+        <img src="{{img2}}" width="75">
+        <img src="{{img3}}" width="75">
+        <img src="{{img4}}" width="75">
+        <img src="{{img5}}" width="75">
     </p>
 </div>
 <div id="contact">
