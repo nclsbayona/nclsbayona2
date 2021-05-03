@@ -39,7 +39,7 @@ jobs:
         - name: Push new README.md
           uses: nclsbayona/publish-to-github-action@master
           env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
         - name: 
           uses: nclsbayona/waka-readme@master
