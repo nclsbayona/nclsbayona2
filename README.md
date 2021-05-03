@@ -181,8 +181,9 @@
                 </font>
             </h4>
         </p>
-        <!--Credits to @athul-->
-        <!--START_SECTION:waka-->
+    </div>
+    <!--Credits to @athul-->
+    <!--START_SECTION:waka-->
 
 Week: 25 April, 2021 - 02 May, 2021
 
@@ -198,6 +199,4 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 
 
 <!--END_SECTION:waka-->
-    </div>
-    [![README Build](https://github.com/nclsbayona/nclsbayona/actions/workflows/main.yml/badge.svg)](https://gith
 </div>
