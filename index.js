@@ -3,8 +3,8 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const MUSTACHE_MAIN_DIR = './mustache-main';
 const puppeteerService = require('./puppeteer-service');
+const MUSTACHE_MAIN_DIR = './mustache-main';
 var query = "Bogota,CO,"
 let DATA = {
     refresh_date: new Date().toLocaleDateString('en-GB', {
@@ -20,7 +20,6 @@ let DATA = {
 };
 
 async function setWeatherInformation() {
-    DATA.dir="https://api.openweathermap.org/data/2.5/weather?q=&{query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric";
     let r = await fetch(
         "https://api.openweathermap.org/data/2.5/weather?q=&{query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric"
     );
@@ -62,11 +61,12 @@ async function action() {
     //Get pictures
     //await setInstagramPosts();
 
+    DATA.dir="https://api.openweathermap.org/data/2.5/weather?q=&{query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric";
     //Generate README
     await generateReadMe();
 
     //Close resources
-    await puppeteerService.close();
+    //await puppeteerService.close();
 }
 
 action();
