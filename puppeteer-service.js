@@ -14,7 +14,7 @@ class PuppeteerService {
         '--ignore-certifcate-errors-spki-list',
         '--incognito',
         '--proxy-server=http=194.67.37.90:3128'
-        ],
+      ],
     });
   }
 
@@ -62,7 +62,6 @@ class PuppeteerService {
         const images = document.querySelectorAll(`.post-image`);
         return [].map.call(images, img => img.src);
       });
-
       return nodes.slice(0, 3);
     } catch (error) {
       console.log('Error', error);
@@ -70,3 +69,7 @@ class PuppeteerService {
     }
   }
 }
+
+const puppeteerService = new PuppeteerService();
+
+module.exports = puppeteerService;
