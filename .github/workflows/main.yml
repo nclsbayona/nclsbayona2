@@ -39,6 +39,9 @@ jobs:
           env:
             GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
+        - name: Sleep a bit
+          run: sleep 30s
+
         - name: Update WAKA Readme
           uses: nclsbayona/waka-readme@master
           with:
