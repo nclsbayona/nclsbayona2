@@ -138,25 +138,20 @@
             </font>
         </h4>
     <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
     </p>
 </div>
 <div id="ig-photos" align="center">
     <p>
-        Last 5 pictures @bt_memes posted on Instagram. 
+        Last 3 pictures @bt_memes posted on Instagram. 
             <a href="https://www.instagram.com/bt_memes/" target="_blank">
                 @bt_memes!
             </a>
     </p>
     <p>
-        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C30592772_473776676370104_1268777826509651968_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DZFU32ppRxJQAX-kVvLZ%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da9386009c184f830e444b1c5401de76d%26oe%3D60B3C496%26_nc_sid%3D7bff83" width="75">     
-        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C28766616_116032872522964_8042575979748524032_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3D_M_Mlld5_m8AX92izss%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D2a994ceb340330abe1013a996b3cff71%26oe%3D60B443AD%26_nc_sid%3D7bff83" width="75">
-        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C26325871_165581117547956_4650676560469164032_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3Ddm6OgHkQyA8AX_RQrSD%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dd748fcda739915d87d67166785416c37%26oe%3D60B4F35B%26_nc_sid%3D7bff83" width="75">
-        <img src="" width="75">
-        <img src="" width="75">
+        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C30592772_473776676370104_1268777826509651968_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DZFU32ppRxJQAX-kVvLZ%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da9386009c184f830e444b1c5401de76d%26oe%3D60B3C496%26_nc_sid%3D7bff83" width="300">     
+        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C28766616_116032872522964_8042575979748524032_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3D_M_Mlld5_m8AX92izss%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D2a994ceb340330abe1013a996b3cff71%26oe%3D60B443AD%26_nc_sid%3D7bff83" width="300">
+        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C26325871_165581117547956_4650676560469164032_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3Ddm6OgHkQyA8AX_RQrSD%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dd748fcda739915d87d67166785416c37%26oe%3D60B4F35B%26_nc_sid%3D7bff83" width="300">
     </p>
 </div>
 <div id="contact">
