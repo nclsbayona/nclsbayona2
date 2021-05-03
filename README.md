@@ -166,8 +166,8 @@
     Currently, the weather in my location is: 
     <p>
         <b> 
-            11°C, 
-            <i>overcast clouds</i>
+            13°C, 
+            <i>broken clouds</i>
         </b>
         Today, the sun rises at 
         <b>
@@ -182,13 +182,4 @@
 </div>
 <hr>
 <!--START_SECTION:waka-->
-```text
-Week: 25 April, 2021 - 02 May, 2021
-
-JavaScript   2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-Markdown     1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
-YAML         1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-```
 <!--END_SECTION:waka-->
