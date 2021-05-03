@@ -1,0 +1,19 @@
+{
+  "name": "nclsbayona",
+  "version": "1.0.0",
+  "description": "Dynamic readme.md for profile using puppeteer and wakatime and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nclsbayona/nclsbayona.git"
+  },
+  "author": "nclsbayona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nclsbayona/nclsbayona/issues"
+  },
+  "homepage": "https://github.com/nclsbayona/nclsbayona#readme"
+}
