@@ -138,10 +138,7 @@
             </font>
         </h4>
     <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
     </p>
 </div>
 <div id="ig-photos" align="center">
@@ -172,7 +169,7 @@ No Activity tracked this Week
     <p>
         <b> 
             12°C, 
-            <i>light rain</i>
+            <i>moderate rain</i>
         </b>
         Today, the sun rises at 
         <b>
