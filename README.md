@@ -87,7 +87,15 @@
                 </tr>
             </tbody>
         </table-->
+        <h5>
+            <font color="#67d6b1">
+                Latest blog posts
+            </font>
+        </h5>
     </div>
+    ### Blogs posts
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
     <hr>
     <h2> 🐣 Some of my stats 🐣 </h2>
     <div id="general">
