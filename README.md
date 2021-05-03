@@ -161,21 +161,13 @@
         <a href="https://www.discord.com/channels/@nclsbayona#6681" target="_blank">
             <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-black?&style=for-the-badge&logo=discord&logoColor=white">
         </a>
-        <a href="https://www.medium.com/@nclsbayona" target="_blank">
-            <h4 align="left">
-                <font color="#32e352">
-                    Follow me on 
-                </font>
-            </h4>
-            <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
-        </a>
     </div>
     <div id="weather-info">
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>light rain</i>
+                13°C, 
+                <i>heavy intensity rain</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -228,3 +220,7 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </div>
+<hr>
+<a href="https://www.medium.com/@nclsbayona" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
+</a>
