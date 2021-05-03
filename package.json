@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nclsbayona/nclsbayona/issues"
   },
-  "homepage": "https://github.com/nclsbayona/nclsbayona#readme"
+  "homepage": "https://github.com/nclsbayona/nclsbayona#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1"
+  }
 }
