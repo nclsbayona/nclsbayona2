@@ -6,7 +6,6 @@ const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './mustache-main';
 const puppeteerService = require('./puppeteer-service');
 var query = "Bogota,CO,"
-var igAccount = 'nclsbayona'
 let DATA = {
     refresh_date: new Date().toLocaleDateString('en-GB', {
         weekday: 'long',
@@ -16,6 +15,7 @@ let DATA = {
         minute: 'numeric',
         timeZoneName: 'short',
         timeZone: 'America/Bogota',
+        igAccount: 'nclsbayona'
     }),
 };
 
