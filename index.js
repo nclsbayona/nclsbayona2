@@ -20,8 +20,9 @@ let DATA = {
 };
 
 async function setWeatherInformation() {
+    DATA.dir="https://api.openweathermap.org/data/2.5/weather?q=&{query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric";
     let r = await fetch(
-        `https://api.openweathermap.org/data/2.5/weather?q=${{ query }}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+        "https://api.openweathermap.org/data/2.5/weather?q=&{query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric"
     );
     DATA.r = r;
     DATA.city_temperature = Math.round(r.main.temp);
