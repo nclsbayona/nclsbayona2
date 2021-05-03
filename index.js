@@ -21,7 +21,7 @@ let DATA = {
 
 async function setWeatherInformation() {
     let r = await fetch(
-        "https://api.openweathermap.org/data/2.5/weather?q=&{query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric"
+        `https://api.openweathermap.org/data/2.5/weather?q=${query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     );
     DATA.r = r;
     DATA.city_temperature = Math.round(r.main.temp);
@@ -56,12 +56,11 @@ async function generateReadMe() {
 
 async function action() {
     //Fetch Weather
-    //await setWeatherInformation();
+    await setWeatherInformation();
 
     //Get pictures
     //await setInstagramPosts();
 
-    DATA.dir="https://api.openweathermap.org/data/2.5/weather?q=&{query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric";
     //Generate README
     await generateReadMe();
 
