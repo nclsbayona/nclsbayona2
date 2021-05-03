@@ -18,7 +18,7 @@
             </font>
         </h5>
         <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=true&margin-w=5&margin-h=5&no-bg=true&column=4" alt="nclsbayona's profile trophies">
-        <table>
+        <!--table>
             <thead align="center">
                 <tr border: none;>
                 <td><b>🎁 Projects</b></td>
@@ -86,7 +86,7 @@
                     </td>
                 </tr>
             </tbody>
-        </table>
+        </table-->
     </div>
     <hr>
     <h2> 🐣 Some of my stats 🐣 </h2>
