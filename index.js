@@ -1,4 +1,4 @@
-//Credits to @thmsgrbt --> https://github.com/thmsgbrt
+//Credits to @thmsgbrt --> https://github.com/thmsgbrt
 require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');

@@ -1,6 +1,6 @@
 name: README Build
 on:
-  push:
+  pull-request:
     branches: [ master ]
 
   workflow_dispatch:
