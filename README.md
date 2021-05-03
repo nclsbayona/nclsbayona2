@@ -139,24 +139,28 @@
         </h4>
     <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 April, 2021 - 02 May, 2021
+
+JavaScript   2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
+Markdown     1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
+YAML         1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 <!--END_SECTION:waka-->
     </p>
 </div>
 <div id="ig-photos" align="center">
     <p>
-        Last 5 pictures @bt_memes posted on Instagram. 
-            <a href="https://www.instagram.com/bt_memes/" target="_blank">
-                @bt_memes!
+        Last 3 pictures @cool_wallpapersbg posted on Instagram. 
+            <a href="https://www.instagram.com/cool_wallpapersbg/" target="_blank">
+                @cool_wallpapersbg!
             </a>
     </p>
     <p>
-        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C30592772_473776676370104_1268777826509651968_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DZFU32ppRxJQAX-kVvLZ%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da9386009c184f830e444b1c5401de76d%26oe%3D60B3C496%26_nc_sid%3D7bff83" width="75">     
-        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C28766616_116032872522964_8042575979748524032_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3D_M_Mlld5_m8AX92izss%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D2a994ceb340330abe1013a996b3cff71%26oe%3D60B443AD%26_nc_sid%3D7bff83" width="75">
-        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C26325871_165581117547956_4650676560469164032_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3Ddm6OgHkQyA8AX_RQrSD%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dd748fcda739915d87d67166785416c37%26oe%3D60B4F35B%26_nc_sid%3D7bff83" width="75">
-        <img src="" width="75">
-        <img src="" width="75">
+        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX8Jfmwd%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D75fc5e2df22b9de00c6268a044cac097%26oe%3D60B55FED%26_nc_sid%3D7bff83" width="300">     
+        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C61495793_484987478938671_3919720426745936625_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DT6nDpEDj0Z4AX-7AorH%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dc5dc2a7f73dce18abfc7dfbdda4b3968%26oe%3D60B4EC8F%26_nc_sid%3D7bff83" width="300">
+        <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C61571540_396967031028850_6263162807840286694_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3Dk6E1kY8jCSwAX-Ln-gm%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D12a6ee7373f334485564adc43d7426d2%26oe%3D60B3FF8A%26_nc_sid%3D7bff83" width="300">
     </p>
 </div>
 <div id="contact">
@@ -173,16 +177,16 @@ No Activity tracked this Week
     Currently, the weather in my location is: 
     <p>
         <b> 
-            12°C, 
+            10°C, 
             <i>broken clouds</i>
         </b>
         Today, the sun rises at 
         <b>
-            10:44
+            10:44 a. m.
         </b> 
         and sets at 
         <b>
-            23:01
+            11:01 p. m.
         </b>
         .
     </p>
