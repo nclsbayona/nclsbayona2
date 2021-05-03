@@ -29,10 +29,16 @@ jobs:
         - name: Install dependencies
           run: npm install
 
+        - name: Sleep a bit
+          run: sleep 10s
+
         - name: Generate README file
           run: node --trace-warnings index.js
           env:
             OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+
+        - name: Sleep a bit
+          run: sleep 10s
 
         - name: Push new README.md
           uses: nclsbayona/publish-to-github-action@master
@@ -40,7 +46,7 @@ jobs:
             GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
         - name: Sleep a bit
-          run: sleep 30s
+          run: sleep 10s
 
         - name: Update WAKA Readme
           uses: nclsbayona/waka-readme@master
