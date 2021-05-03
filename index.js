@@ -44,7 +44,7 @@ async function setWeatherInformation() {
 
 async function setInstagramPosts() {
     const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(
-        igAccount, 5
+        igAccount, 3
     );
     DATA.igAccount = igAccount;
     DATA.img1 = instagramImages[0];
