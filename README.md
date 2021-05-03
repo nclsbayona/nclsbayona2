@@ -152,7 +152,6 @@ No Activity tracked this Week
     </h3>
     <h3>
         
-        Actually at
     </h3>
     <img src="https://www.flaticon.com/svg/vstatic/svg/3515/3515293.svg?token=exp=1620003816~hmac=e2c9bf38c4f2eb0a8500938354e1c141" width="15"/> Bogota</h3>
     <p>
@@ -161,13 +160,17 @@ No Activity tracked this Week
         <img width="100" src="">
     </p>
     <p>
-        Above are the last 3 pictures posted by 
+        Above are the last 3 pictures I posted on Instagram
             <a href="https://www.instagram.com//" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20">
                 @!
             </a>
         <hr>
-        Currently, the weather in my location is: 
+    </p>
+</div>
+<div id="weather-info">
+    Currently, the weather in my location is: 
+    <p>
         <b> 
             13°C, 
             <i>broken clouds</i>
@@ -181,7 +184,7 @@ No Activity tracked this Week
         <b>
             23:01
         </b>
-    .
+        .
     </p>
     <a href="https://github.com/nclsbayona" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
     <a href="https://twitter.com/nclsbayona" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
