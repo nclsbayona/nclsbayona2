@@ -19,6 +19,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "mustache": "^4.2.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^9.0.0"
   }
 }
