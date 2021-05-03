@@ -44,5 +44,5 @@ jobs:
           with:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            COMMIT_MESSAGE: Updated user activity graph
+            COMMIT_MESSAGE: Updated user activity graph with week's activity
             SHOW_TITLE: true
