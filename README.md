@@ -219,8 +219,8 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 
 
 <!--END_SECTION:waka-->
+    <hr>
+    <a href="https://www.medium.com/@nclsbayona" target="_blank">
+        <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
+    </a>
 </div>
-<hr>
-<a href="https://www.medium.com/@nclsbayona" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
-</a>
