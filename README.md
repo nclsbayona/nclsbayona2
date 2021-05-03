@@ -159,8 +159,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>drizzle</i>
+                15°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
