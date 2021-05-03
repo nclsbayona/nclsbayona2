@@ -120,10 +120,11 @@
 </div>
 <div id="ig-photos" align="center">
     <p>
-        Last 3 pictures @{{igAccount}} posted on Instagram. 
-            <a href="https://www.instagram.com/{{igAccount}}/" target="_blank">
-                @{{igAccount}}!
-            </a>
+        Last 3 pictures 
+        <a href="https://www.instagram.com/{{igAccount}}/" target="_blank">
+            @{{igAccount}}
+        </a>
+        posted on Instagram.
     </p>
     <p>
         <img src="{{img1}}" width="300">     
