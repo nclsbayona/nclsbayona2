@@ -32,7 +32,7 @@ jobs:
           run: npm install
 
         - name: Generate README file
-          run: node index.js
+          run: node --trace-warnings index.js
           env:
             OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
 
@@ -41,7 +41,7 @@ jobs:
           env:
             GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-        - name: 
+        - name: Update WAKA Readme
           uses: nclsbayona/waka-readme@master
           with:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
