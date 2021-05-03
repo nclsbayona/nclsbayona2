@@ -3,13 +3,14 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
+var unirest = require("unirest");
 const puppeteerService = require('./puppeteer-service');
 const MUSTACHE_MAIN_DIR = './mustache-main';
 //This might be modified
 var query = "Bogota,CO,"
 var igAccount = 'cool_wallpapersbg'
-var localeString='es-CO'
-var timeZone="America/Bogota"
+var localeString = 'es-CO'
+var timeZone = "America/Bogota"
 //
 let DATA = {
     refresh_date: new Date().toLocaleDateString(localeString, {
@@ -27,7 +28,6 @@ async function setWeatherInformation() {
         `https://api.openweathermap.org/data/2.5/weather?q=${query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     ).then(r => r.json())
         .then(r => {
-            DATA.r = r;
             DATA.city_temperature = Math.round(r.main.temp);
             DATA.city_weather = r.weather[0].description;
             DATA.city_weather_icon = r.weather[0].icon;
@@ -54,6 +54,15 @@ async function setInstagramPosts() {
     DATA.img3 = instagramImages[2];
 }
 
+async function getCocktail() {
+    await fetch(
+        `https://api.openweathermap.org/data/2.5/weather?q=${query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    ).then(r => r.json())
+    .then(r => {
+        DATA.r=r
+    });
+}
+
 async function generateReadMe() {
     await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
@@ -68,6 +77,9 @@ async function action() {
 
     //Get pictures
     await setInstagramPosts();
+
+    //Get cocktail
+    await getCocktail();
 
     //Generate README
     await generateReadMe();
