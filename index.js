@@ -57,7 +57,7 @@ async function generateReadMe() {
 
 async function action() {
     //Fetch Weather
-    await setWeatherInformation();
+    //await setWeatherInformation();
 
     //Get pictures
     await setInstagramPosts();
