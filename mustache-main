@@ -118,7 +118,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight" alt="nclsbayona's Most-Used Languages Github Stats">
         </p>
     </div>
-    <div id="ig-photos">
+    <!--div id="ig-photos">
         <p>
             Last 3 pictures 
             <a href="https://www.instagram.com/{{igAccount}}/" target="_blank">
@@ -131,7 +131,7 @@
             <img src="{{img2}}" width="300">
             <img src="{{img3}}" width="300">
         </p>
-    </div>
+    </div-->
     <div id="contact">
         <h3>
             <font color="#679000">
