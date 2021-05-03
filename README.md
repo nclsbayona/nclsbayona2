@@ -146,20 +146,20 @@ No Activity tracked this Week
 </div>
 <div id="ig-photos">
     <p align="center">
-        <a href="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C43628341_250778392456653_8343164290205984913_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DpWujaCsTEhAAX-063pH%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D64e227efd1d4a975dc6a3eae5be8cba5%26oe%3D60B3A0FC%26_nc_sid%3D7bff83">
-            <img width="100" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C43628341_250778392456653_8343164290205984913_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DpWujaCsTEhAAX-063pH%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D64e227efd1d4a975dc6a3eae5be8cba5%26oe%3D60B3A0FC%26_nc_sid%3D7bff83">
+        <a href="">
+            <img width="300" src="">
         </a>
-        <a href="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C44409682_565037180615562_867197480302321609_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3D31EsfbN0UOsAX9ed9tc%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D9c58734dfbba72bbf13ba1863e135ff9%26oe%3D60B551B1%26_nc_sid%3D7bff83">
-            <img width="100" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C44409682_565037180615562_867197480302321609_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3D31EsfbN0UOsAX9ed9tc%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D9c58734dfbba72bbf13ba1863e135ff9%26oe%3D60B551B1%26_nc_sid%3D7bff83"> 
+        <a href="">
+            <img width="300" src=""> 
         </a>
-        <a href="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C23416506_128699434565845_4483916646951419904_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DORJyaoneC3AAX9IacfT%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D766353ef7bbaa02489355817baa420ef%26oe%3D60B5B485%26_nc_sid%3D7bff83">
-            <img width="100" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C23416506_128699434565845_4483916646951419904_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DORJyaoneC3AAX9IacfT%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D766353ef7bbaa02489355817baa420ef%26oe%3D60B5B485%26_nc_sid%3D7bff83">
+        <a href="">
+            <img width="300" src="">
         </a>
     </p>
     <p>
         Above are the last 3 pictures I posted on Instagram. 
-            <a href="https://www.instagram.com//" target="_blank">
-                @!
+            <a href="https://www.instagram.com/nclsbayona/" target="_blank">
+                @nclsbayona!
             </a>
         <hr>
     </p>
@@ -178,7 +178,7 @@ No Activity tracked this Week
     Currently, the weather in my location is: 
     <p>
         <b> 
-            13°C, 
+            12°C, 
             <i>broken clouds</i>
         </b>
         Today, the sun rises at 
@@ -191,5 +191,5 @@ No Activity tracked this Week
         </b>
         .
     </p>
-    <hr>
 </div>
+<hr>
