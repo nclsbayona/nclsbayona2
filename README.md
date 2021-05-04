@@ -11,29 +11,37 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wpspsy1468875747.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;2dwae41504885321.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Egg Nog #4
+                Name: Malibu Twister
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Optional alcohol
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a small mixer bowl beat egg yolks till blended. Gradually add 1&#x2F;4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1&#x2F;4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups.
+                Ingredients:  Malibu rum  -- Tropicana  -- Cranberry juice  
             </font>
         </h4>
-        Ingredients: * Egg yolk  * Sugar  * Milk  * Light rum  * Bourbon  * Vanilla extract  * Salt  * Whipping cream  * Egg white  * Sugar  * Nutmeg  
-        Measures: * 6   * 1&#x2F;4 cup   * 2 cups   * 1&#x2F;2 cup   * 1&#x2F;2 cup   * 1 tsp   * 1&#x2F;4 tsp   * 1 cup   * 6   * 1&#x2F;4 cup   * Ground   
+        <h4>
+            <font color="#F0A0FF">
+                Measures:  2 parts   -- 2 parts   -- 1 part   
+            </font>
+        </h4>
+        <h4>
+            <font color="#F0A0FF">
+                Instructions: Add rum &amp; trister then, add cranberry jucie,stir
+            </font>
+        </h4>        
     </div>
     <div id="profile-info">
         <h5>
@@ -196,7 +204,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                20°C, 
+                19°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -234,21 +242,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
