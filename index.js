@@ -44,6 +44,15 @@ async function setWeatherInformation() {
         });
 };
 
+async function getAffirmation() {
+    await fetch(
+        `https://www.affirmations.dev/`
+    ).then(r => r.json())
+        .then(r => {
+            DATA.affirmation=r.affirmation;
+        });
+};
+
 async function setInstagramPosts() {
     const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(
         igAccount, 3
