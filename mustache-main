@@ -19,7 +19,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic name: {{drink.alcoholic_name}}
+                Alcoholic category: {{drink.alcoholic_name}}
             </font>
         </h4>
         <h4>
@@ -32,16 +32,8 @@
                 Instructions: {{drink.instructions}}
             </font>
         </h4>
-        <h4>
-            <font color="#F0A0FF">
-                Ingredients: {{drink.ingredients}}
-            </font>
-        </h4>
-        <h4>
-            <font color="#F0A0FF">
-                Measures: {{drink.quantities}}
-            </font>
-        </h4>
+        Ingredients: {{drink.ingredients}}
+        Measures: {{drink.quantities}}
     </div>
     <div id="profile-info">
         <h5>
