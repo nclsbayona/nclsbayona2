@@ -71,14 +71,14 @@ async function getCocktail() {
                 quantities: Array()
             };
             let tot = Object.keys(DATA.drink.full_drink);
-            tot.forEach((key, index) => {
-                
-                if (key.includes("Ingredient"))
-                    DATA.drink.ingredients.push(tot[index])
+            tot.forEach((key) => {
+                if (DATA.drink.full_drink[key] != null) {
+                    if (key.includes("Ingredient"))
+                        drink.ingredients.push(DATA.drink.full_drink[key])
 
-                else if (key.includes("Measure"))
-                    DATA.drink.quantities.push(tot[index])
-
+                    else if (key.includes("Measure"))
+                        drink.quantities.push(DATA.drink.full_drink[key])
+                }
             });
         });
 }
