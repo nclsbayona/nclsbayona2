@@ -83,8 +83,10 @@ async function getCocktail() {
             });
             tot=quantities.length;
             for (let i=0; i<tot; ++i){
-                ingString+=`${i}. ${ingredients[i]} \n`;
-                quanString+=`${i}. ${quantities[i]} \n`;
+                ingString+=`${i}. ${ingredients[i]}`;
+                ingString+='\n';
+                quanString+=`${i}. ${quantities[i]}`;
+                quanString+='\n';
             }
             DATA.drink.ingredients=ingString;
             DATA.drink.quantities=quanString;
