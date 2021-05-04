@@ -11,51 +11,39 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;u5f0pz1614007748.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ryvtsu1441253851.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Winter Paloma
+                Name: Coffee Liqueur
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic name: Alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Homemade Liqueur
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Everyone’s favourite Paloma gets a delicious Indian makeover. Tequila reposado infused with “Timur Pepper” which has citrusy &amp; grapefruit notes and is grown at the foothills of Himalaya. It also produces a slightly numbing and tingling sensation on your lip when consumed. We have also spiced up the fresh grapefruit juice with the warming spice blend from Himalaya. The combination of all these interesting elements has allowed us to elevate your Paloma sipping experience.
+                Instructions: Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks.
             </font>
         </h4>
-        <h4>
-            <font color="#F0A0FF">
-                Ingredients: 0. Tequila 
-1. Grapefruit Juice 
-2. Lime Juice 
-3. Agave Syrup 
-4. Pepper 
-5.  
-6.  
+        Ingredients: 0. Coffee 
+1. Vanilla extract 
+2. Sugar 
+3. Vodka 
+4. Water 
 
-            </font>
-        </h4>
-        <h4>
-            <font color="#F0A0FF">
-                Measures: 0. 2 shots 
-1. Top 
-2. Juice of 1 
-3. 1 tsp 
-4. Dash 
-5.  
-6.  
+        Measures: 0. 10 tblsp instant  
+1. 4 tblsp  
+2. 2 1&#x2F;2 cups  
+3. 1 qt  
+4. 2 1&#x2F;2 cups  
 
-            </font>
-        </h4>
     </div>
     <div id="profile-info">
         <h5>
@@ -256,21 +244,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
