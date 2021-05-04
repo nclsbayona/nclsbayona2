@@ -11,10 +11,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;utqwpu1478820348.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qrot6j1504369425.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Kentucky Colonel
+                Name: Golden dream
             </font>
         </h4>
         <h4>
@@ -29,17 +29,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.
+                Instructions: Shake with cracked ice. Strain into glass and serve.
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: Bourbon,Benedictine,Lemon peel
+                Ingredients: Galliano,Triple Sec,orange juice,Cream
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures: 3 oz ,1&#x2F;2 oz ,1 twist of 
+                Measures: 2 parts,2 parts,2 parts,1 part
             </font>
         </h4>
     </div>
@@ -172,9 +172,9 @@
             posted on Instagram.
         </p>
         <p>
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX8Jfmwd%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D75fc5e2df22b9de00c6268a044cac097%26oe%3D60B55FED%26_nc_sid%3D7bff83" width="300">     
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C61495793_484987478938671_3919720426745936625_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DT6nDpEDj0Z4AX-7AorH%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dc5dc2a7f73dce18abfc7dfbdda4b3968%26oe%3D60B4EC8F%26_nc_sid%3D7bff83" width="300">
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C61571540_396967031028850_6263162807840286694_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3Dk6E1kY8jCSwAX-Ln-gm%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D12a6ee7373f334485564adc43d7426d2%26oe%3D60B3FF8A%26_nc_sid%3D7bff83" width="300">
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX8XToaP%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D170208a4eb9ecaa27ec9e2f744c3a244%26oe%3D60B55FED%26_nc_sid%3D7bff83" width="300">     
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C61495793_484987478938671_3919720426745936625_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DT6nDpEDj0Z4AX-DqPmM%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D373ebcf24477e03e3b6517d92b9d7d15%26oe%3D60B4EC8F%26_nc_sid%3D7bff83" width="300">
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C61571540_396967031028850_6263162807840286694_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DwPDbjD8n4lsAX_js00f%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da031d32150f55c217fc9e16973ce9da1%26oe%3D60B78ECA%26_nc_sid%3D7bff83" width="300">
         </p>
     </div-->
     <div id="contact">
@@ -242,21 +242,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
