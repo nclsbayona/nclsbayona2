@@ -39,7 +39,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Quantities: {{drink.quantities}}
+                Measures: {{drink.quantities}}
             </font>
         </h4>
     </div>
