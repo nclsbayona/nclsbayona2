@@ -11,10 +11,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ewjxui1504820428.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;stwiva1619704025.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sidecar Cocktail
+                Name: Mountain Bramble
             </font>
         </h4>
         <h4>
@@ -24,22 +24,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Muddle the blackberries in a tumbler glass. Mix the Gin, lemon juice and sugar syrup in a shaker and strain over chopped ice. Top with Soda water and garnish with more blackberries and some mint
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: strIngredient1,strIngredient2,strIngredient3,strIngredient4,strIngredient5,strIngredient6,strIngredient7,strIngredient8,strIngredient9,strIngredient10,strIngredient11,strIngredient12,strIngredient13,strIngredient14,strIngredient15
+                Ingredients: Gin,Lemon Juice,Sugar Syrup,Blackberries,Soda Water,Mint,
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures: strMeasure1,strMeasure2,strMeasure3,strMeasure4,strMeasure5,strMeasure6,strMeasure7,strMeasure8,strMeasure9,strMeasure10,strMeasure11,strMeasure12,strMeasure13,strMeasure14,strMeasure15
+                Measures: 2 oz,0.75 oz,0.75 oz,Ground,Top,Garnish with,
             </font>
         </h4>
     </div>
@@ -172,9 +172,9 @@
             posted on Instagram.
         </p>
         <p>
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX8Jfmwd%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D75fc5e2df22b9de00c6268a044cac097%26oe%3D60B55FED%26_nc_sid%3D7bff83" width="300">     
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C61495793_484987478938671_3919720426745936625_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DT6nDpEDj0Z4AX-7AorH%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dc5dc2a7f73dce18abfc7dfbdda4b3968%26oe%3D60B4EC8F%26_nc_sid%3D7bff83" width="300">
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C61571540_396967031028850_6263162807840286694_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3Dk6E1kY8jCSwAX-Ln-gm%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D12a6ee7373f334485564adc43d7426d2%26oe%3D60B3FF8A%26_nc_sid%3D7bff83" width="300">
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX8XToaP%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D170208a4eb9ecaa27ec9e2f744c3a244%26oe%3D60B55FED%26_nc_sid%3D7bff83" width="300">     
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C61495793_484987478938671_3919720426745936625_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DT6nDpEDj0Z4AX-DqPmM%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D373ebcf24477e03e3b6517d92b9d7d15%26oe%3D60B4EC8F%26_nc_sid%3D7bff83" width="300">
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C61571540_396967031028850_6263162807840286694_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DwPDbjD8n4lsAX_js00f%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da031d32150f55c217fc9e16973ce9da1%26oe%3D60B78ECA%26_nc_sid%3D7bff83" width="300">
         </p>
     </div-->
     <div id="contact">
@@ -205,7 +205,7 @@
         <p>
             <b> 
                 12°C, 
-                <i>moderate rain</i>
+                <i>light rain</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -245,15 +245,15 @@
 
 Week: 26 April, 2021 - 03 May, 2021
 
-JavaScript   2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
+JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
 
-Markdown     1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
+Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
 
-YAML         1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
 
-Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 
 <!--END_SECTION:waka-->
