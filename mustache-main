@@ -154,6 +154,12 @@
             </font>
         </h5>
         <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
+        <h5>
+            <font color="#679000">
+                Life-Time Stats Overview
+            </font>
+        </h5>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=dark">
     </div>
     <div id="languages">
         <h4 align="left">
@@ -255,4 +261,3 @@
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
    <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
 </a>
-{{r}}

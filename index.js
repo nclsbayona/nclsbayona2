@@ -51,6 +51,12 @@ async function getAffirmation() {
         .then(r => {
             DATA.affirmation=r.affirmation;
         });
+    await fetch(
+        `https://api.funtranslations.com/translate/yoda.json?text=${DATA.affirmation}`
+    ).then (r => r.json)
+    .then (r => {
+        DATA.affirmation=r.contents.translated;
+    })
 };
 
 async function setInstagramPosts() {
