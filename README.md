@@ -2,11 +2,9 @@
     <div id="greetings" align="center">
         <h2>👋 Hey there 👋</h2> 
         <h3>I'm really grateful that you came here 😎</h3>
-        <h5>
-            <i color="#008040">
-                
-            </i>
-        </h5>
+        <i color="#008040">
+            
+        </i>
         <!--Old One-->
         <!--img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
@@ -18,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vaukir1606772580.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;2dwae41504885321.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Angel Face
+                Name: Malibu Twister
             </font>
         </h4>
         <h4>
@@ -31,22 +29,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Apricot brandy  -- Apple brandy  -- Gin  
+                Ingredients:  Malibu rum  -- Tropicana  -- Cranberry juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 oz   
+                Measures:  2 parts   -- 2 parts   -- 1 part   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients with ice and strain contents into a cocktail glass.
+                Instructions: Add rum &amp; trister then, add cranberry jucie,stir
             </font>
         </h4>        
     </div>
@@ -212,7 +210,7 @@
         <p>
             <b> 
                 18°C, 
-                <i>scattered clouds</i>
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
