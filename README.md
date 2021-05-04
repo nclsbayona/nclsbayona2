@@ -11,35 +11,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yutxtv1473344210.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;utqwpu1478820348.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Wine Cooler
+                Name: Kentucky Colonel
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic name: Optional alcohol
+                Alcoholic name: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix wine and soft drink. Pour into glass. Add ice.
+                Instructions: In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: Red wine,Lemon-lime soda,Ice
+                Ingredients: Bourbon,Benedictine,Lemon peel
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures: 2 oz white or ,5 oz ,cubes
+                Measures: 3 oz ,1&#x2F;2 oz ,1 twist of 
             </font>
         </h4>
     </div>
@@ -204,8 +204,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
-                <i>moderate rain</i>
+                11°C, 
+                <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -242,21 +242,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-
-Markdown     1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
-
-YAML         1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-
-Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
-
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
