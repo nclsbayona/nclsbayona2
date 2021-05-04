@@ -11,35 +11,37 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vdp2do1487603520.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uqqvsp1468924228.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Mango Orange Smoothie
+                Name: Sweet Sangria
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic name: Non alcoholic
+                Alcoholic name: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other&#x2F;Unknown
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Throw everything into a blender and liquify.
+                Instructions: Dissolve the sugar in hot water and cool. Peel the citrus fruits and break into wedges. Mix the wine, sugar syrup, fruit, and Fresca in a pitcher and put in the fridge for a few hours. Serve in tall glasses with a straw.
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: Mango,Orange
+                Ingredients: Red wine,Sugar,Water,Apple,Orange,Lime,Lemon,Fresca
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures: 1 ,2 
+                Measures: 2 bottles ,1 cup ,2 cups hot ,1 cup, wedges
+, wedges
+
             </font>
         </h4>
     </div>
@@ -242,21 +244,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
