@@ -11,10 +11,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;txustu1473344310.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pg8iw31593351601.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Wine Punch
+                Name: Pineapple Paloma
             </font>
         </h4>
         <h4>
@@ -24,12 +24,25 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine all of the ingredients and pour over a block of ice.
+                Instructions: Rub the rim of each glass with lime slice and dip into salt.
+Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
+Give it a quick stir.
+Garnish with fresh pineapple or lime.
+            </font>
+        </h4>
+        <h4>
+            <font color="#F0A0FF">
+                Ingredients: 
+            </font>
+        </h4>
+        <h4>
+            <font color="#F0A0FF">
+                Quantities: 
             </font>
         </h4>
     </div>
@@ -195,7 +208,7 @@
         <p>
             <b> 
                 12°C, 
-                <i>overcast clouds</i>
+                <i>moderate rain</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -232,21 +245,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-
-Markdown     1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
-
-YAML         1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-
-Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
-
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
