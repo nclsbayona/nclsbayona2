@@ -66,20 +66,29 @@ async function getCocktail() {
                 category: r.drinks[0].strCategory,
                 instructions: r.drinks[0].strInstructions,
                 image: r.drinks[0].strDrinkThumb,
-                //Missing array for ingredients
-                ingredients: Array(),
-                quantities: Array()
+                ingredients
             };
+            let ingredients=Array();
+            let ingString=""
+            let quantities=Array();
+            let quanString=""
             let tot = Object.keys(DATA.drink.full_drink);
             tot.forEach((key) => {
                 if (DATA.drink.full_drink[key] != null) {
                     if (key.includes("Ingredient"))
-                        DATA.drink.ingredients.push(DATA.drink.full_drink[key])
+                        ingredients.push(DATA.drink.full_drink[key])
 
                     else if (key.includes("Measure"))
-                        DATA.drink.quantities.push(DATA.drink.full_drink[key])
+                        quantities.push(DATA.drink.full_drink[key])
                 }
             });
+            tot=DATA.drink.quantities.length;
+            for (let i=0; i<tot; ++i){
+                ingString+=`${i}. ${DATA.drink.ingredients[i]} \n`
+                quanString+=`${i}. ${DATA.drink.quantities[i]} \n`
+            }
+            DATA.drink.ingredients=ingString;
+            DATA.Drink.quantities=quanString;
         });
 }
 
