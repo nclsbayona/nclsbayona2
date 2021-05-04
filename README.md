@@ -11,15 +11,15 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xrvxpp1441249280.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wpspsy1468875747.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sangria
+                Name: Egg Nog #4
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Optional alcohol
             </font>
         </h4>
         <h4>
@@ -29,19 +29,11 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.
+                Instructions: In a small mixer bowl beat egg yolks till blended. Gradually add 1&#x2F;4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1&#x2F;4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups.
             </font>
         </h4>
-        Ingredients: 0. Red wine
-1. Sugar
-2. Orange juice
-3. Lemon juice
-
-        Measures: 0. 1 bottle 
-1. 1&#x2F;2 cup 
-2. 1 cup 
-3. 1 cup 
-
+        Ingredients: * Egg yolk  * Sugar  * Milk  * Light rum  * Bourbon  * Vanilla extract  * Salt  * Whipping cream  * Egg white  * Sugar  * Nutmeg  
+        Measures: * 6   * 1&#x2F;4 cup   * 2 cups   * 1&#x2F;2 cup   * 1&#x2F;2 cup   * 1 tsp   * 1&#x2F;4 tsp   * 1 cup   * 6   * 1&#x2F;4 cup   * Ground   
     </div>
     <div id="profile-info">
         <h5>
@@ -242,21 +234,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
