@@ -11,35 +11,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ewjxui1504820428.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yutxtv1473344210.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sidecar Cocktail
+                Name: Wine Cooler
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic name: Alcoholic
+                Alcoholic name: Optional alcohol
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Mix wine and soft drink. Pour into glass. Add ice.
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: strIngredient1,strIngredient2,strIngredient3,strIngredient4,strIngredient5,strIngredient6,strIngredient7,strIngredient8,strIngredient9,strIngredient10,strIngredient11,strIngredient12,strIngredient13,strIngredient14,strIngredient15
+                Ingredients: Red wine,Lemon-lime soda,Ice
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures: strMeasure1,strMeasure2,strMeasure3,strMeasure4,strMeasure5,strMeasure6,strMeasure7,strMeasure8,strMeasure9,strMeasure10,strMeasure11,strMeasure12,strMeasure13,strMeasure14,strMeasure15
+                Measures: 2 oz white or ,5 oz ,cubes
             </font>
         </h4>
     </div>
@@ -242,21 +242,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   2 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-
-Markdown     1 hr 38 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 % 
-
-YAML         1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-
-Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
-
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
