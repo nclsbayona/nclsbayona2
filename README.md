@@ -5,8 +5,10 @@
         <!--Old One-->
         <!--img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
-        <h5 style="font-style:italic;">
-            We are all works in progress
+        <h5>
+            <i color ="#008040">
+                "You&#39;re an inspiration"
+            </i>
         </h5>
     </div>
     <hr>
@@ -16,10 +18,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yk70e31606771240.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vvpxwy1439907208.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Manhattan
+                Name: Sazerac
             </font>
         </h4>
         <h4>
@@ -29,22 +31,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Sweet Vermouth  -- Bourbon  -- Angostura bitters  -- Ice  -- Maraschino cherry  -- Orange peel  
+                Ingredients:  Ricard  -- Sugar  -- Peychaud bitters  -- Water  -- Bourbon  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3&#x2F;4 oz   -- 2 1&#x2F;2 oz Blended   -- dash   -- 2 or 3   -- 1   -- 1 twist of   
+                Measures:  1 tsp   -- 1&#x2F;2 tsp superfine   -- 2 dashes   -- 1 tsp   -- 2 oz   -- 1 twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stirred over ice, strained into a chilled glass, garnished, and served up.
+                Instructions: Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.
             </font>
         </h4>        
     </div>
