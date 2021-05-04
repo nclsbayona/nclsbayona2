@@ -11,10 +11,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uqqvsp1468924228.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;stwiva1619704025.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sweet Sangria
+                Name: Mountain Bramble
             </font>
         </h4>
         <h4>
@@ -24,24 +24,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Dissolve the sugar in hot water and cool. Peel the citrus fruits and break into wedges. Mix the wine, sugar syrup, fruit, and Fresca in a pitcher and put in the fridge for a few hours. Serve in tall glasses with a straw.
+                Instructions: Muddle the blackberries in a tumbler glass. Mix the Gin, lemon juice and sugar syrup in a shaker and strain over chopped ice. Top with Soda water and garnish with more blackberries and some mint
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: Red wine,Sugar,Water,Apple,Orange,Lime,Lemon,Fresca
+                Ingredients: Gin,Lemon Juice,Sugar Syrup,Blackberries,Soda Water,Mint,
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures: 2 bottles ,1 cup ,2 cups hot ,1 cup, wedges
-, wedges
-
+                Measures: 2 oz,0.75 oz,0.75 oz,Ground,Top,Garnish with,
             </font>
         </h4>
     </div>
@@ -207,7 +205,7 @@
         <p>
             <b> 
                 12°C, 
-                <i>light intensity drizzle</i>
+                <i>light rain</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -244,21 +242,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
