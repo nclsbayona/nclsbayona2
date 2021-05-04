@@ -74,10 +74,10 @@ async function getCocktail() {
             tot.forEach((key) => {
                 if (DATA.drink.full_drink[key] != null) {
                     if (key.includes("Ingredient"))
-                        drink.ingredients.push(DATA.drink.full_drink[key])
+                        DATA.drink.ingredients.push(DATA.drink.full_drink[key])
 
                     else if (key.includes("Measure"))
-                        drink.quantities.push(DATA.drink.full_drink[key])
+                        DATA.drink.quantities.push(DATA.drink.full_drink[key])
                 }
             });
         });
