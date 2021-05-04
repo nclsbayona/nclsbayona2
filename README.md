@@ -7,7 +7,7 @@
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
             <i color ="#008040">
-                "You&#39;re an inspiration"
+                "The progressive realization of a worthy goal,  success is"
             </i>
         </h5>
     </div>
@@ -18,10 +18,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vvpxwy1439907208.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;l2o6xu1582476870.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sazerac
+                Name: Broadside
             </font>
         </h4>
         <h4>
@@ -31,22 +31,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Ricard  -- Sugar  -- Peychaud bitters  -- Water  -- Bourbon  -- Lemon peel  
+                Ingredients:  151 proof rum  -- Scotch  -- Bitters  -- Wormwood  -- Ice  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 tsp   -- 1&#x2F;2 tsp superfine   -- 2 dashes   -- 1 tsp   -- 2 oz   -- 1 twist of   
+                Measures:  1 shot  -- 1&#x2F;2 shot  -- 3 drops  -- 1 Fresh  -- cubes  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.
+                Instructions: Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters, then serve!
             </font>
         </h4>        
     </div>
@@ -154,6 +154,12 @@
             </font>
         </h5>
         <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
+        <h5>
+            <font color="#679000">
+                Life-Time Stats Overview
+            </font>
+        </h5>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=dark">
     </div>
     <div id="languages">
         <h4 align="left">
@@ -211,7 +217,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
+                15°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -249,21 +255,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
