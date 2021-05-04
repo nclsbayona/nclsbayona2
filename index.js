@@ -81,7 +81,7 @@ async function getCocktail() {
                         quantities.push(DATA.drink.full_drink[key])
                 }
             });
-            tot=DATA.drink.quantities.length;
+            tot=quantities.length;
             for (let i=0; i<tot; ++i){
                 ingString+=`${i}. ${DATA.drink.ingredients[i]} \n`
                 quanString+=`${i}. ${DATA.drink.quantities[i]} \n`
