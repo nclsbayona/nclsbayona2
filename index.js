@@ -56,10 +56,20 @@ async function setInstagramPosts() {
 
 async function getCocktail() {
     await fetch(
-        `https://api.openweathermap.org/data/2.5/weather?q=${query}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+        `https://www.thecocktaildb.com/api/json/v1/1/random.php`
     ).then(r => r.json())
     .then(r => {
-        DATA.r=r
+        DATA.drink={
+            full_drink: r.drinks[0],
+            drink_name: r.drinks[0].strDrink,
+            alcoholic_name: r.drinks[0].strAlcoholic,
+            category: r.drinks[0].strCategory,
+            instructions: r.drinks[0].strInstructions,
+            image: r.drinks[0].strDrinkThumb,
+            //Missing array for ingredients
+            ingredients: Array(),
+            quantities: Array()
+        };
     });
 }
 

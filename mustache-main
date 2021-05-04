@@ -5,6 +5,34 @@
         <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark">
     </div>
     <hr>
+    <div id="drink">
+        <h5>
+            <font color="#670601">
+                A drink before we start
+            </font>
+        </h5>
+        <img src="{{drink.image}}">
+        <h4>
+            <font color="#F0A0FF">
+                Name: {{drink.drink_name}}
+            </font>
+        </h4>
+        <h4>
+            <font color="#F0A0FF">
+                Alcoholic name: {{drink.alcoholic_name}}
+            </font>
+        </h4>
+        <h4>
+            <font color="#F0A0FF">
+                Category: {{drink.category}}
+            </font>
+        </h4>
+        <h4>
+            <font color="#F0A0FF">
+                Instructions: {{drink.instructions}}
+            </font>
+        </h4>
+    </div>
     <div id="profile-info">
         <h5>
             <font color="#67d6b1">
