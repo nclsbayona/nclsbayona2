@@ -122,6 +122,9 @@ async function action() {
     //Get cocktail
     await getCocktail();
 
+    //Get affirmation
+    await getAffirmation();
+
     //Generate README
     await generateReadMe();
 
