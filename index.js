@@ -87,7 +87,7 @@ async function getCocktail() {
                 quanString+=`${i}. ${quantities[i]} \n`;
             }
             DATA.drink.ingredients=ingString;
-            DATA.Drink.quantities=quanString;
+            DATA.drink.quantities=quanString;
         });
 }
 
