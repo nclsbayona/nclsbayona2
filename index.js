@@ -53,7 +53,7 @@ async function getAffirmation() {
         });
     await fetch(
         `https://api.funtranslations.com/translate/yoda.json?text=${DATA.affirmation}`
-    ).then (r => r.json)
+    ).then (r => r.json())
     .then (r => {
         DATA.affirmation=r.contents.translated;
     })
