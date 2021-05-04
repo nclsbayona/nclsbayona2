@@ -11,10 +11,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pg8iw31593351601.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yxswtp1441253918.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Pineapple Paloma
+                Name: Creme de Menthe
             </font>
         </h4>
         <h4>
@@ -24,25 +24,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Homemade Liqueur
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Rub the rim of each glass with lime slice and dip into salt.
-Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
-Give it a quick stir.
-Garnish with fresh pineapple or lime.
+                Instructions: Bring sugar and water to a boil and simmer for 10 minutes. Cool. Add the remaining ingredients and stir. Cover and let ripen for 1 month.
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: 
+                Ingredients: strIngredient1,strIngredient2,strIngredient3,strIngredient4,strIngredient5,strIngredient6,strIngredient7,strIngredient8,strIngredient9,strIngredient10,strIngredient11,strIngredient12,strIngredient13,strIngredient14,strIngredient15
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Quantities: 
+                Measures: strMeasure1,strMeasure2,strMeasure3,strMeasure4,strMeasure5,strMeasure6,strMeasure7,strMeasure8,strMeasure9,strMeasure10,strMeasure11,strMeasure12,strMeasure13,strMeasure14,strMeasure15
             </font>
         </h4>
     </div>
@@ -208,7 +205,7 @@ Garnish with fresh pineapple or lime.
         <p>
             <b> 
                 12°C, 
-                <i>moderate rain</i>
+                <i>heavy intensity rain</i>
             </b>
             Today, the sun rises at 
             <b>
