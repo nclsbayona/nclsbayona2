@@ -2,12 +2,12 @@
     <div id="greetings" align="center">
         <h2>👋 Hey there 👋</h2> 
         <h3>I'm really grateful that you came here 😎</h3>
-        <h5 style="font-style:italic;">
-            It&#39;s not a mistake, it&#39;s a learning opportunity
-        </h5>
         <!--Old One-->
         <!--img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
+        <h5 style="font-style:italic;">
+            We are all works in progress
+        </h5>
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;kugu2m1504735473.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yk70e31606771240.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Kool-Aid Slammer
+                Name: Manhattan
             </font>
         </h4>
         <h4>
@@ -29,22 +29,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Kool-Aid  -- Vodka  
+                Ingredients:  Sweet Vermouth  -- Bourbon  -- Angostura bitters  -- Ice  -- Maraschino cherry  -- Orange peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz Grape   -- 1&#x2F;2 oz   
+                Measures:  3&#x2F;4 oz   -- 2 1&#x2F;2 oz Blended   -- dash   -- 2 or 3   -- 1   -- 1 twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill half the shot glass with the kool-aid first. Then put a paper towel over the top of the glass and slowly pour in the vodka. If you do it right, you should be able to see that the two liquids are separated, with the vodka on top. Now slam it! The last thing you&#39;ll taste is the kool-aid.
+                Instructions: Stirred over ice, strained into a chilled glass, garnished, and served up.
             </font>
         </h4>        
     </div>
