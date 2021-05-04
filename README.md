@@ -166,8 +166,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>broken clouds</i>
+                10°C, 
+                <i>light rain</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -224,3 +224,4 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
    <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
 </a>
+[object Object]
