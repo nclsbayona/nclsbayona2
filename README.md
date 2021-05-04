@@ -11,10 +11,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ryvtsu1441253851.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xrvxpp1441249280.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Coffee Liqueur
+                Name: Sangria
             </font>
         </h4>
         <h4>
@@ -24,25 +24,23 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Homemade Liqueur
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks.
+                Instructions: Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.
             </font>
         </h4>
-        Ingredients: 0. Coffee 
-1. Vanilla extract 
-2. Sugar 
-3. Vodka 
-4. Water 
+        Ingredients: 0. Red wine
+1. Sugar
+2. Orange juice
+3. Lemon juice
 
-        Measures: 0. 10 tblsp instant  
-1. 4 tblsp  
-2. 2 1&#x2F;2 cups  
-3. 1 qt  
-4. 2 1&#x2F;2 cups  
+        Measures: 0. 1 bottle 
+1. 1&#x2F;2 cup 
+2. 1 cup 
+3. 1 cup 
 
     </div>
     <div id="profile-info">
@@ -244,21 +242,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 April, 2021 - 03 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
