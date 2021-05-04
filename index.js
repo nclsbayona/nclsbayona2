@@ -58,19 +58,26 @@ async function getCocktail() {
     await fetch(
         `https://www.thecocktaildb.com/api/json/v1/1/random.php`
     ).then(r => r.json())
-    .then(r => {
-        DATA.drink={
-            full_drink: r.drinks[0],
-            drink_name: r.drinks[0].strDrink,
-            alcoholic_name: r.drinks[0].strAlcoholic,
-            category: r.drinks[0].strCategory,
-            instructions: r.drinks[0].strInstructions,
-            image: r.drinks[0].strDrinkThumb,
-            //Missing array for ingredients
-            ingredients: Array(),
-            quantities: Array()
-        };
-    });
+        .then(r => {
+            DATA.drink = {
+                full_drink: r.drinks[0],
+                drink_name: r.drinks[0].strDrink,
+                alcoholic_name: r.drinks[0].strAlcoholic,
+                category: r.drinks[0].strCategory,
+                instructions: r.drinks[0].strInstructions,
+                image: r.drinks[0].strDrinkThumb,
+                //Missing array for ingredients
+                ingredients: Array(),
+                quantities: Array()
+            };
+            let tot = Object.keys(r);
+            tot.forEach((key) => {
+                if (key.includes("strIngredient"))
+                    DATA.drink.ingredients.append(key)
+                else if (key.includes("strMeasure"))
+                    DATA.drink.quantities.append(key)
+            });
+        });
 }
 
 async function generateReadMe() {

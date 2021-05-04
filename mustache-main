@@ -32,6 +32,16 @@
                 Instructions: {{drink.instructions}}
             </font>
         </h4>
+        <h4>
+            <font color="#F0A0FF">
+                Ingredients: {{drink.ingredients}}
+            </font>
+        </h4>
+        <h4>
+            <font color="#F0A0FF">
+                Quantities: {{drink.quantities}}
+            </font>
+        </h4>
     </div>
     <div id="profile-info">
         <h5>
