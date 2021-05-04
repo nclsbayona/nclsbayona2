@@ -65,8 +65,7 @@ async function getCocktail() {
                 alcoholic_name: r.drinks[0].strAlcoholic,
                 category: r.drinks[0].strCategory,
                 instructions: r.drinks[0].strInstructions,
-                image: r.drinks[0].strDrinkThumb,
-                ingredients
+                image: r.drinks[0].strDrinkThumb
             };
             let ingredients=Array();
             let ingString=""
