@@ -2,13 +2,13 @@
     <div id="greetings" align="center">
         <h2>👋 Hey there 👋</h2> 
         <h3>I'm really grateful that you came here 😎</h3>
-        <!--Old One-->
-        <!--img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
+        <!--Old One>
+        <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "It out,  you&#39;ll figure"
+                "More than you knew yesterday,  you know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;861tzm1504784164.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ttsvwy1472668781.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Boozy Snickers Milkshake
+                Name: Arctic Fish
             </font>
         </h4>
         <h4>
@@ -34,25 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Milk &#x2F; Float &#x2F; Shake
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vanilla Ice-Cream  -- Milk  -- Godiva liqueur  -- Whipped Cream  -- caramel sauce  -- chocolate sauce  -- Mini-snickers bars  
+                Ingredients:  Vodka  -- Grape soda  -- Orange juice  -- Ice  -- Candy  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3 cups   -- 1 cup   -- 1&#x2F;2 cup   -- for topping  -- 4 tablespoons
-  -- 4 tablespoons
-  -- 15
-  
+                Measures:  1&#x2F;3 part   -- 1&#x2F;3 part   -- 1&#x2F;3 part   -- lots   -- 1 dash   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.
+                Instructions: Fill glass with ice and fish, add vodka, grape soda and orange juice. DO NOT STIR!!!!! Serve well chilled.
             </font>
         </h4>        
     </div>
@@ -147,15 +144,15 @@
                 General GitHub Stats 🌀
             </font>
         </h4>
-        <h5>
+        <!--h5>
             <font color="#679000">
                 😃 General Overview
             </font>
         </h5>
-        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats"-->
         <h5>
             <font color="#679000">
-                Life-Time Stats Overview
+                😃 Life-Time Stats Overview
             </font>
         </h5>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
@@ -178,15 +175,15 @@
     <!--div id="ig-photos">
         <p>
             Last 3 pictures 
-            <a href="https://www.instagram.com/cool_wallpapersbg/" target="_blank">
-                @cool_wallpapersbg
+            <a href="https://www.instagram.com//" target="_blank">
+                @
             </a>
             posted on Instagram.
         </p>
         <p>
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX_b3Wku%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dca1d8558344ecc8595375bc0037da18b%26oe%3D60B8EF2D%26_nc_sid%3D7bff83" width="300">     
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C61495793_484987478938671_3919720426745936625_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DbskbbtWhcRcAX-0gJNl%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D1e528154d155848a35799f2297b75c55%26oe%3D60B87BCF%26_nc_sid%3D7bff83" width="300">
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C61571540_396967031028850_6263162807840286694_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DwPDbjD8n4lsAX_fAAMV%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D7c96a4217f232a81941e32f001b7662c%26oe%3D60B78ECA%26_nc_sid%3D7bff83" width="300">
+            <img src="" width="300">     
+            <img src="" width="300">
+            <img src="" width="300">
         </p>
     </div-->
     <div id="contact">
@@ -216,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
-                <i>scattered clouds</i>
+                16°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -251,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 April, 2021 - 04 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.34 % 
-
-Other        4 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 % 
-
-YAML         2 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
-
-Markdown     1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
