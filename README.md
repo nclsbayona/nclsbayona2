@@ -21,36 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;lfeoe41504888925.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;twuptu1483388307.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Holloween Punch
+                Name: Scooter
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Grape juice  
+                Ingredients:  Brandy  -- Amaretto  -- Light cream  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  , orange
-  
+                Measures:  1 oz   -- 1 oz   -- 1 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Take a bunch of grape juice and a bunch of fizzy stuff (club soda, ginger ale, lemonlime, whatever). Mix them in a punch bowl. Take orange sherbet and lime sherbet. Scoop out scoops and float them in the punch, let them melt a little so that a nasty film spreads all over the top of the punch but there are still &quot;bubbles&quot; in it in the form of sherbet scoops. Looks horrible, tastes just fine.
+                Instructions: Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -249,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 April, 2021 - 04 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.34 % 
-
-Other        4 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 % 
-
-YAML         2 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
-
-Markdown     1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
