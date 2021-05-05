@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "More than you knew yesterday,  you know"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ttsvwy1472668781.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;54z5h71487603583.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Arctic Fish
+                Name: Grape lemon pineapple Smoothie
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Other&#x2F;Unknown
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Grape soda  -- Orange juice  -- Ice  -- Candy  
+                Ingredients:  Grapes  -- Lemon  -- Pineapple  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;3 part   -- 1&#x2F;3 part   -- 1&#x2F;3 part   -- lots   -- 1 dash   
+                Measures:  1 cup   -- 1&#x2F;4   -- 1&#x2F;2   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill glass with ice and fish, add vodka, grape soda and orange juice. DO NOT STIR!!!!! Serve well chilled.
+                Instructions: Throw everything into a blender and liquify.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 April, 2021 - 04 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.34 % 
-
-Other        4 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 % 
-
-YAML         2 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
-
-Markdown     1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
