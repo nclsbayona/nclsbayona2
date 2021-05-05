@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Part of learning,  struggling is"
+                "It out,  you&#39;ll figure"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jntghf1606771886.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;861tzm1504784164.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Alabama Slammer
+                Name: Boozy Snickers Milkshake
             </font>
         </h4>
         <h4>
@@ -34,22 +34,25 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Milk &#x2F; Float &#x2F; Shake
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Southern Comfort  -- Amaretto  -- Sloe gin  -- Lemon juice  
+                Ingredients:  Vanilla Ice-Cream  -- Milk  -- Godiva liqueur  -- Whipped Cream  -- caramel sauce  -- chocolate sauce  -- Mini-snickers bars  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   -- 1&#x2F;2 oz   -- 1 dash   
+                Measures:  3 cups   -- 1 cup   -- 1&#x2F;2 cup   -- for topping  -- 4 tablespoons
+  -- 4 tablespoons
+  -- 15
+  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.
+                Instructions: Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.
             </font>
         </h4>        
     </div>
@@ -135,12 +138,6 @@
                 </tr>
             </tbody>
         </table-->
-        <h5>
-            <font color="#67d6b1">
-                Latest blog posts
-            </font>
-        </h5>
-        <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=nclsbayona&type=horizontal">
     </div>
     <hr>
     <h2> 🐣 Some of my stats 🐣 </h2>
@@ -245,9 +242,6 @@
                     ⌚General Weekly-Stats 
                 </font>
             </h5>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&theme=tokyonight" alt="nclsbayona's Weekly Stats">
-        </p>
-        <p>
             <h4>
                 <font color="#679000">
                     Overview ✨
