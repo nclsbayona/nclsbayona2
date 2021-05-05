@@ -135,12 +135,6 @@
                 </tr>
             </tbody>
         </table-->
-        <h5>
-            <font color="#67d6b1">
-                Latest blog posts
-            </font>
-        </h5>
-        <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=nclsbayona&type=horizontal">
     </div>
     <hr>
     <h2> 🐣 Some of my stats 🐣 </h2>
@@ -245,9 +239,6 @@
                     ⌚General Weekly-Stats 
                 </font>
             </h5>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nclsbayona&theme=tokyonight" alt="nclsbayona's Weekly Stats">
-        </p>
-        <p>
             <h4>
                 <font color="#679000">
                     Overview ✨
