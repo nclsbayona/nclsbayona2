@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "About to be incredible,  your life is"
+                "You&#39;re a smart cookie"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;h5za6y1582477994.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sk3lr91493068595.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Affair
+                Name: After Five
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Strawberry schnapps  -- Orange juice  -- Cranberry juice  
+                Ingredients: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 2 oz   -- 2 oz   
+                Measures: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.
+                Instructions: 1. Pour Kahlua into shot glass to about 1&#x2F;2 full. 2. Using a spoon(inverted), slowly pour in the Peppermint Schnapps until glass is about 3&#x2F;4 full. Done correctly, the Schnapps will flow under the Kahlua for a clear layer. 3. Again using a spoon, but this time right side up, slowly top off the glass with a layer of Bailey&#39;s. Be careful to place the spoon right at the top of the Kahlua layer and to raise it as the glass fills up. Done correctly, this will provide a layer of Bailey&#39;s floating over the Kahlua. 4. Toss it down all at once for something like a Peppermint Pattie, WITH A BANG!!! NOTE: Best if all ingredients are chilled
             </font>
         </h4>        
     </div>
@@ -188,9 +188,9 @@
             posted on Instagram.
         </p>
         <p>
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX8XToaP%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D170208a4eb9ecaa27ec9e2f744c3a244%26oe%3D60B55FED%26_nc_sid%3D7bff83" width="300">     
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C61495793_484987478938671_3919720426745936625_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DT6nDpEDj0Z4AX-DqPmM%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D373ebcf24477e03e3b6517d92b9d7d15%26oe%3D60B4EC8F%26_nc_sid%3D7bff83" width="300">
-            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C61571540_396967031028850_6263162807840286694_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DwPDbjD8n4lsAX_js00f%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da031d32150f55c217fc9e16973ce9da1%26oe%3D60B78ECA%26_nc_sid%3D7bff83" width="300">
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C64251841_140263243823625_4697698331538278568_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D109%26_nc_ohc%3DlWYGwweOE5sAX_b3Wku%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dca1d8558344ecc8595375bc0037da18b%26oe%3D60B8EF2D%26_nc_sid%3D7bff83" width="300">     
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C61495793_484987478938671_3919720426745936625_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DbskbbtWhcRcAX-0gJNl%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D1e528154d155848a35799f2297b75c55%26oe%3D60B87BCF%26_nc_sid%3D7bff83" width="300">
+            <img src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C61571540_396967031028850_6263162807840286694_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DwPDbjD8n4lsAX_fAAMV%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D7c96a4217f232a81941e32f001b7662c%26oe%3D60B78ECA%26_nc_sid%3D7bff83" width="300">
         </p>
     </div-->
     <div id="contact">
@@ -221,7 +221,7 @@
         <p>
             <b> 
                 13°C, 
-                <i>broken clouds</i>
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -258,21 +258,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 April, 2021 - 04 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
