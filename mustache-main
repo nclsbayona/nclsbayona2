@@ -140,9 +140,8 @@
                 Latest blog posts
             </font>
         </h5>
+        <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=nclsbayona&type=horizontal">
     </div>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
     <hr>
     <h2> 🐣 Some of my stats 🐣 </h2>
     <div id="general">
