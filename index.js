@@ -4,7 +4,7 @@ const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
 var unirest = require("unirest");
-const puppeteerService = require('./puppeteer-service');
+//const puppeteerService = require('./puppeteer-service');
 const MUSTACHE_MAIN_DIR = './mustache-main';
 //This might be modified
 var query = "Bogota,CO,"
@@ -49,17 +49,17 @@ async function getAffirmation() {
         `https://www.affirmations.dev/`
     ).then(r => r.json())
         .then(r => {
-            DATA.affirmation=r.affirmation;
+            DATA.affirmation = r.affirmation;
         });
     await fetch(
         `https://api.funtranslations.com/translate/yoda.json?text=${DATA.affirmation}`
-    ).then (r => r.json())
-    .then (r => {
-        DATA.affirmation=r.contents.translated;
-    })
+    ).then(r => r.json())
+        .then(r => {
+            DATA.affirmation = r.contents.translated;
+        })
 };
 
-async function setInstagramPosts() {
+/* async function setInstagramPosts() {
     const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(
         igAccount, 3
     );
@@ -67,7 +67,7 @@ async function setInstagramPosts() {
     DATA.img1 = instagramImages[0];
     DATA.img2 = instagramImages[1];
     DATA.img3 = instagramImages[2];
-}
+} */
 
 async function getCocktail() {
     await fetch(
@@ -82,10 +82,10 @@ async function getCocktail() {
                 instructions: r.drinks[0].strInstructions,
                 image: r.drinks[0].strDrinkThumb
             };
-            let ingredients=Array();
-            let ingString=""
-            let quantities=Array();
-            let quanString=""
+            let ingredients = Array();
+            let ingString = ""
+            let quantities = Array();
+            let quanString = ""
             let tot = Object.keys(DATA.drink.full_drink);
             tot.forEach((key) => {
                 if (DATA.drink.full_drink[key] != null) {
@@ -96,17 +96,17 @@ async function getCocktail() {
                         quantities.push(DATA.drink.full_drink[key])
                 }
             });
-            tot=quantities.length;
-            for (let i=0; i<tot; ++i){
-                ingString+=` ${ingredients[i]}  `;
-                quanString+=` ${quantities[i]}  `;
-                if (i<tot-1){
-                    ingString+="--";
-                    quanString+="--";
+            tot = quantities.length;
+            for (let i = 0; i < tot; ++i) {
+                ingString += ` ${ingredients[i]}  `;
+                quanString += ` ${quantities[i]}  `;
+                if (i < tot - 1) {
+                    ingString += "--";
+                    quanString += "--";
                 }
             }
-            DATA.drink.ingredients=ingString;
-            DATA.drink.quantities=quanString;
+            DATA.drink.ingredients = ingString;
+            DATA.drink.quantities = quanString;
         });
 }
 
@@ -123,7 +123,7 @@ async function action() {
     await setWeatherInformation();
 
     //Get pictures
-    await setInstagramPosts();
+    //await setInstagramPosts();
 
     //Get cocktail
     await getCocktail();
@@ -135,7 +135,7 @@ async function action() {
     await generateReadMe();
 
     //Close resources
-    await puppeteerService.close();
+    //await puppeteerService.close();
 }
 
 action();
