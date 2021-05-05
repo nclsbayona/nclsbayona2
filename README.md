@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "To take massive,  the path to success is,Determined action"
+                "Still progress,  small progress is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wrh44j1504390609.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;u5f0pz1614007748.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Royal Fizz
+                Name: Winter Paloma
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Sweet and sour  -- Egg  
+                Ingredients:  Tequila  -- Grapefruit Juice  -- Lime Juice  -- Agave Syrup  -- Pepper  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 2 oz   -- 1 whole   
+                Measures:  2 shots  -- Top  -- Juice of 1  -- 1 tsp  -- Dash  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.
+                Instructions: Everyone’s favourite Paloma gets a delicious Indian makeover. Tequila reposado infused with “Timur Pepper” which has citrusy &amp; grapefruit notes and is grown at the foothills of Himalaya. It also produces a slightly numbing and tingling sensation on your lip when consumed. We have also spiced up the fresh grapefruit juice with the warming spice blend from Himalaya. The combination of all these interesting elements has allowed us to elevate your Paloma sipping experience.
             </font>
         </h4>        
     </div>
@@ -162,7 +162,7 @@
                 Life-Time Stats Overview
             </font>
         </h5>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=dark">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
     </div>
     <div id="languages">
         <h4 align="left">
@@ -258,21 +258,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 April, 2021 - 04 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
