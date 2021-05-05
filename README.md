@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re a smart cookie"
+                "Part of learning,  struggling is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sk3lr91493068595.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jntghf1606771886.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: After Five
+                Name: Alabama Slammer
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: 
+                Ingredients:  Southern Comfort  -- Amaretto  -- Sloe gin  -- Lemon juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures: 
+                Measures:  1 oz   -- 1 oz   -- 1&#x2F;2 oz   -- 1 dash   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: 1. Pour Kahlua into shot glass to about 1&#x2F;2 full. 2. Using a spoon(inverted), slowly pour in the Peppermint Schnapps until glass is about 3&#x2F;4 full. Done correctly, the Schnapps will flow under the Kahlua for a clear layer. 3. Again using a spoon, but this time right side up, slowly top off the glass with a layer of Bailey&#39;s. Be careful to place the spoon right at the top of the Kahlua layer and to raise it as the glass fills up. Done correctly, this will provide a layer of Bailey&#39;s floating over the Kahlua. 4. Toss it down all at once for something like a Peppermint Pattie, WITH A BANG!!! NOTE: Best if all ingredients are chilled
+                Instructions: Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.
             </font>
         </h4>        
     </div>
@@ -140,9 +140,8 @@
                 Latest blog posts
             </font>
         </h5>
+        <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=nclsbayona&type=horizontal">
     </div>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
     <hr>
     <h2> 🐣 Some of my stats 🐣 </h2>
     <div id="general">
@@ -220,8 +219,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>overcast clouds</i>
+                18°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -258,21 +257,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 April, 2021 - 04 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.34 % 
-
-Other        4 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 % 
-
-YAML         2 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
-
-Markdown     1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
