@@ -46,9 +46,3 @@ jobs:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
             COMMIT_MESSAGE: Updated user activity graph with week's activity
             SHOW_TITLE: true
-        
-        - name: Blog posts
-          uses: gautamkrishnar/blog-post-workflow@master
-          with: 
-            max_post_count: "3"
-            feed_list: "https://medium.com/feed/@nclsbayona"
