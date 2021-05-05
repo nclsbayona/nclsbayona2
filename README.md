@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re learning,  struggling means"
+                "About to be incredible,  your life is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;94psp81504350690.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;h5za6y1582477994.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Monkey Gland
+                Name: Affair
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Benedictine  -- Orange juice  -- Grenadine  
+                Ingredients:  Strawberry schnapps  -- Orange juice  -- Cranberry juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 1 tsp   -- 1&#x2F;2 oz   -- 1 tsp   
+                Measures:  2 oz   -- 2 oz   -- 2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.
+                Instructions: Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.
             </font>
         </h4>        
     </div>
@@ -221,7 +221,7 @@
         <p>
             <b> 
                 13°C, 
-                <i>scattered clouds</i>
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -258,21 +258,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 April, 2021 - 04 May, 2021
-
-JavaScript   4 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 % 
-
-Other        3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-
-YAML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
-
-Markdown     1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
