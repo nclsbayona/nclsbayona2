@@ -8,11 +8,11 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You less capable,  mistakes don&#39;t make"
+                "The most difficult step - but you can do it,  starting is"
             </i>
             <(-_-)>
         </h5>
-        <img src="https://i.redd.it/ccew7mn13v141.jpg">
+        <!--This is a Yoda Image img src="https://i.redd.it/ccew7mn13v141.jpg"-->
     </div>
     <hr>
     <div id="drink">
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;n0sx531504372951.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;2ahv791504352433.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Espresso Martini
+                Name: Stinger
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Kahlua  -- Sugar syrup  
+                Ingredients:  Brandy  -- White Creme de Menthe  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  5 cl  -- 1 cl  -- 1 dash  
+                Measures:  1 1&#x2F;2 oz   -- 1&#x2F;2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass
+                Instructions: Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
-                <i>light intensity drizzle</i>
+                17°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 28 April, 2021 - 05 May, 2021
-
-C++          7 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 % 
-
-JavaScript   5 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
-
-Other        4 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-
-YAML         2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-
-Markdown     2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
