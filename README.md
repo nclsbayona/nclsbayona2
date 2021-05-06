@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The first step towards being good at something,  sucking at something is"
+                "Learning valuable lessons from yourself every day,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;twuptu1483388307.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uuqqrv1439907068.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Scooter
+                Name: Jack Rose Cocktail
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Brandy  -- Amaretto  -- Light cream  
+                Ingredients:  Apple brandy  -- Grenadine  -- Lime  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   -- 1 oz   
+                Measures:  1 1&#x2F;2 oz   -- 1 tsp   -- Juice of 1&#x2F;2   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.
+                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
+                13°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 April, 2021 - 04 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.34 % 
-
-Other        4 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 % 
-
-YAML         2 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
-
-Markdown     1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
