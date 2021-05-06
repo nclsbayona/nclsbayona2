@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Myself permission to do what is right for me,  I give"
+                "It&#39;s not a mistake,It&#39;s a learning opportunity"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;u5f0pz1614007748.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;t8bgxl1596018175.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Winter Paloma
+                Name: Bounty Hunter
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Tequila  -- Grapefruit Juice  -- Lime Juice  -- Agave Syrup  -- Pepper  --   --   
+                Ingredients:  Rum  -- Coconut Liqueur  -- Blueberries  -- Pineapple Juice  -- Prosecco  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 shots  -- Top  -- Juice of 1  -- 1 tsp  -- Dash  --   --   
+                Measures:  1 shot  -- 1 shot  -- Garnish with  -- Dash  -- Top  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Everyone’s favourite Paloma gets a delicious Indian makeover. Tequila reposado infused with “Timur Pepper” which has citrusy &amp; grapefruit notes and is grown at the foothills of Himalaya. It also produces a slightly numbing and tingling sensation on your lip when consumed. We have also spiced up the fresh grapefruit juice with the warming spice blend from Himalaya. The combination of all these interesting elements has allowed us to elevate your Paloma sipping experience.
+                Instructions: Add the spirits into a shaker as well as the pineapple juice, strain into a Margarita glass. Top with Prosecco and garnish with Blueberries.
             </font>
         </h4>        
     </div>
@@ -213,12 +213,12 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>drizzle</i>
+                12°C, 
+                <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
-                05:44 a. m.
+                05:43 a. m.
             </b> 
             and sets at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 28 April, 2021 - 05 May, 2021
-
-C++          7 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 % 
-
-JavaScript   5 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
-
-Other        4 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-
-YAML         2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-
-Markdown     2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
