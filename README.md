@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "It&#39;s not a mistake,It&#39;s a learning opportunity"
+                "You less capable,  mistakes don&#39;t make"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;t8bgxl1596018175.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;n0sx531504372951.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bounty Hunter
+                Name: Espresso Martini
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Rum  -- Coconut Liqueur  -- Blueberries  -- Pineapple Juice  -- Prosecco  --   --   
+                Ingredients:  Vodka  -- Kahlua  -- Sugar syrup  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot  -- 1 shot  -- Garnish with  -- Dash  -- Top  --   --   
+                Measures:  5 cl  -- 1 cl  -- 1 dash  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add the spirits into a shaker as well as the pineapple juice, strain into a Margarita glass. Top with Prosecco and garnish with Blueberries.
+                Instructions: Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 28 April, 2021 - 05 May, 2021
-
-C++          7 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 % 
-
-JavaScript   5 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
-
-Other        4 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-
-YAML         2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-
-Markdown     2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
