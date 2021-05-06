@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Learning valuable lessons from yourself every day,  you are"
+                "Myself permission to do what is right for me,  I give"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uuqqrv1439907068.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;u5f0pz1614007748.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Jack Rose Cocktail
+                Name: Winter Paloma
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Apple brandy  -- Grenadine  -- Lime  
+                Ingredients:  Tequila  -- Grapefruit Juice  -- Lime Juice  -- Agave Syrup  -- Pepper  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 tsp   -- Juice of 1&#x2F;2   
+                Measures:  2 shots  -- Top  -- Juice of 1  -- 1 tsp  -- Dash  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Everyone’s favourite Paloma gets a delicious Indian makeover. Tequila reposado infused with “Timur Pepper” which has citrusy &amp; grapefruit notes and is grown at the foothills of Himalaya. It also produces a slightly numbing and tingling sensation on your lip when consumed. We have also spiced up the fresh grapefruit juice with the warming spice blend from Himalaya. The combination of all these interesting elements has allowed us to elevate your Paloma sipping experience.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 13°C, 
-                <i>broken clouds</i>
+                <i>drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 28 April, 2021 - 05 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.34 % 
-
-Other        4 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 % 
-
-YAML         2 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
-
-Markdown     1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
