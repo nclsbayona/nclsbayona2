@@ -8,7 +8,7 @@ var unirest = require("unirest");
 const MUSTACHE_MAIN_DIR = './mustache-main';
 //This might be modified
 var query = "Bogota,CO,"
-var igAccount = 'cool_wallpapersbg'
+//var igAccount = 'cool_wallpapersbg'
 var localeString = 'es-CO'
 var timeZone = "America/Bogota"
 //
