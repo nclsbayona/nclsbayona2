@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The most difficult step - but you can do it,  starting is"
+                "Worthy and deserving of respect,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;2ahv791504352433.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;0bkwca1492975553.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Stinger
+                Name: Highland Fling Cocktail
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Brandy  -- White Creme de Menthe  
+                Ingredients:  Scotch  -- Sweet Vermouth  -- Orange bitters  -- Olive  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1&#x2F;2 oz   
+                Measures:  1 1&#x2F;2 oz   -- 3&#x2F;4 oz   -- 2 dashes   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.
+                Instructions: Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.
             </font>
         </h4>        
     </div>
@@ -144,15 +144,15 @@
                 General GitHub Stats 🌀
             </font>
         </h4>
-        <!--h5>
+        <h5>
             <font color="#679000">
                 😃 General Overview
             </font>
         </h5>
-        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats"-->
+        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
         <h5>
             <font color="#679000">
-                😃 Life-Time Stats Overview
+                Life-Time Stats Overview 🤪
             </font>
         </h5>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 28 April, 2021 - 05 May, 2021
-
-C++          7 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 % 
-
-JavaScript   5 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
-
-Other        4 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-
-YAML         2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-
-Markdown     2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
