@@ -35,7 +35,7 @@ jobs:
             OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
 
         - name: Push new README.md
-          uses: nclsbayona/publish-to-github-action@master
+          uses: mikeal/publish-to-github-action@master
           env:
             GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
