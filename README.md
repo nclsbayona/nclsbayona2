@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sp8hkp1596017787.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vysuyq1441206297.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: The Philosopher
+                Name: Balmoral
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Melon Liqueur  -- Orange Bitters  -- Lemon Juice  -- Prosecco  --   --   
+                Ingredients:  Scotch  -- Sweet Vermouth  -- Dry Vermouth  -- Bitters  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot  -- 1 shot  -- 1 dash  -- 1 dash  -- Top  --   --   
+                Measures:  1 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 2 dashes   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.
+                Instructions: In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 29 April, 2021 - 06 May, 2021
-
-C++          8 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.05 % 
-
-JavaScript   5 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-
-Other        4 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
-
-Python       2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-
-YAML         2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
