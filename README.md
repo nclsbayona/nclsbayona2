@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "This,  you got"
+                "If you find flaws in your past creations,  don&#39;t worry,It&#39;s because you&#39;ve evolved"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wywrtw1472720227.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;iuwi6h1504735724.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Baby Eskimo
+                Name: Mulled Wine
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Milk &#x2F; Float &#x2F; Shake
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Kahlua  -- Milk  -- Vanilla ice-cream  
+                Ingredients:  Water  -- Sugar  -- Cloves  -- Cinnamon  -- Lemon peel  -- Red wine  -- Brandy  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 8 oz   -- 2 scoops   
+                Measures:  3 cups   -- 1 cup   -- 12   -- 2   -- 1   -- 750 ml   -- 1&#x2F;4 cup   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.
+                Instructions: Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a &quot;coffee temperature&quot; (DO NOT BOIL) then add the brandy.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                14°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 29 April, 2021 - 06 May, 2021
-
-C++          7 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 % 
-
-JavaScript   5 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
-
-Other        4 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-
-YAML         2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-
-Markdown     2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
