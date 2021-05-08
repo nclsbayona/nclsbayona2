@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The first step towards being good at something,  sucking at something is"
+                "Still progress,  small progress is"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;1bw6sd1487603816.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sywsqw1439906999.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Lassi - Mango
+                Name: Irish Coffee
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other&#x2F;Unknown
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Mango  -- Yoghurt  -- Sugar  -- Water  
+                Ingredients:  Irish whiskey  -- Coffee  -- Sugar  -- Whipped cream  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2   -- 2 cups   -- 1&#x2F;2 cup   -- 1 cup iced   
+                Measures:  1 1&#x2F;2 oz   -- 8 oz   -- 1 tsp   -- 1 tblsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas.
+                Instructions: Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
+                17°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -222,7 +222,7 @@
             </b> 
             and sets at 
             <b>
-                06:01 p. m.
+                06:02 p. m.
             </b>
             .
         </p>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 30 April, 2021 - 07 May, 2021
-
-C++          8 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.05 % 
-
-JavaScript   5 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-
-Other        4 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
-
-Python       2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-
-YAML         2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
