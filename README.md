@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Still progress,  small progress is"
+                "To enjoy the journey,  don&#39;t forget"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sywsqw1439906999.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ssxvww1472669166.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Irish Coffee
+                Name: A Furlong Too Late
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee &#x2F; Tea
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Irish whiskey  -- Coffee  -- Sugar  -- Whipped cream  
+                Ingredients:  Light rum  -- Ginger beer  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 8 oz   -- 1 tsp   -- 1 tblsp   
+                Measures:  2 oz   -- 4 oz   -- 1 twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.
+                Instructions: Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 30 April, 2021 - 07 May, 2021
-
-C++          8 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-
-JavaScript   6 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
-
-Other        5 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-
-Python       3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-
-YAML         2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
