@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not equal the future,  the past does"
+                "The first step towards being good at something,  sucking at something is"
             </i>
             <(-_-)>
         </h5>
@@ -21,47 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;5yhd3n1571687385.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;1bw6sd1487603816.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bloody Punch
+                Name: Lassi - Mango
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Other&#x2F;Unknown
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Strawberries  -- Lime Juice  -- Lemon-lime soda  -- Lemon-lime soda  -- Raisins  -- Blueberries  
+                Ingredients:  Mango  -- Yoghurt  -- Sugar  -- Water  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  10 shots  -- 3 cups  -- 1&#x2F;2 cup  -- 12 oz  -- 12 oz  -- 1 cup  -- 1 cup  
+                Measures:  2   -- 2 cups   -- 1&#x2F;2 cup   -- 1 cup iced   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place the thawed strawberries in a large bowl. Mash them with a fork to ensure no large chunks.
-
-Step
-2
-
- 
-In a punch bowl or pitcher, combine mashed strawberries, lime pulp and soda. Mix well.
-
-Step
-3
-
- 
-Add blueberries and raisins. They will float and look like bugs in the punch.
+                Instructions: Put it all in a blender and pour over crushed ice. You can also use other fruits like strawberries and bananas.
             </font>
         </h4>        
     </div>
@@ -260,21 +248,7 @@ Add blueberries and raisins. They will float and look like bugs in the punch.
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 30 April, 2021 - 07 May, 2021
-
-C++          8 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.05 % 
-
-JavaScript   5 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-
-Other        4 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
-
-Python       2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-
-YAML         2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
