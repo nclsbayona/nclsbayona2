@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re an inspiration"
+                "Not equal the future,  the past does"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,47 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rtwwsx1472720307.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;5yhd3n1571687385.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Banana Milk Shake
+                Name: Bloody Punch
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Milk &#x2F; Float &#x2F; Shake
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Milk  -- Orange juice  -- Sugar syrup  -- Banana  
+                Ingredients:  Vodka  -- Strawberries  -- Lime Juice  -- Lemon-lime soda  -- Lemon-lime soda  -- Raisins  -- Blueberries  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  10 cl cold   -- 4 cl   -- 2 tsp   -- 1&#x2F;2   
+                Measures:  10 shots  -- 3 cups  -- 1&#x2F;2 cup  -- 12 oz  -- 12 oz  -- 1 cup  -- 1 cup  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.
+                Instructions: Place the thawed strawberries in a large bowl. Mash them with a fork to ensure no large chunks.
+
+Step
+2
+
+ 
+In a punch bowl or pitcher, combine mashed strawberries, lime pulp and soda. Mix well.
+
+Step
+3
+
+ 
+Add blueberries and raisins. They will float and look like bugs in the punch.
             </font>
         </h4>        
     </div>
@@ -213,7 +225,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                20°C, 
+                14°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +260,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 29 April, 2021 - 06 May, 2021
-
-C++          8 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.05 % 
-
-JavaScript   5 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-
-Other        4 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
-
-Python       2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-
-YAML         2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
