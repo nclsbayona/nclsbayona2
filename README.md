@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A myth,  10x engineers are"
+                "Not a sprint,  it is,A marathon,  it is.One step at a time"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,36 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;u5f0pz1614007748.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rqpypv1441245650.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Winter Paloma
+                Name: Thai Iced Coffee
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Tequila  -- Grapefruit Juice  -- Lime Juice  -- Agave Syrup  -- Pepper  --   --   
+                Ingredients:  Coffee  -- Sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 shots  -- Top  -- Juice of 1  -- 1 tsp  -- Dash  --   --   
+                Measures:  black  --  pods
+  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Everyone’s favourite Paloma gets a delicious Indian makeover. Tequila reposado infused with “Timur Pepper” which has citrusy &amp; grapefruit notes and is grown at the foothills of Himalaya. It also produces a slightly numbing and tingling sensation on your lip when consumed. We have also spiced up the fresh grapefruit juice with the warming spice blend from Himalaya. The combination of all these interesting elements has allowed us to elevate your Paloma sipping experience.
+                Instructions: Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee.
             </font>
         </h4>        
     </div>
@@ -213,7 +214,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                18°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +249,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 30 April, 2021 - 07 May, 2021
-
-C++          8 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-
-JavaScript   6 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
-
-Other        5 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-
-Python       3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-
-YAML         2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
