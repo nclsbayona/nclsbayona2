@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The progressive realization of a worthy goal,  success is"
+                "A capable human,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tx8ne41582475326.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xk79al1493069655.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bee&#39;s Knees
+                Name: Amaretto Shake
             </font>
         </h4>
         <h4>
@@ -34,24 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gold rum  -- Orange Juice  -- Lime Juice  -- Triple Sec  --   --   --   
+                Ingredients:  Chocolate ice-cream  -- Brandy  -- Amaretto  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  6 cl  -- 2 cl  -- 2 cl  -- 2 jiggers  --   --   --   
+                Measures:  2 scoops   -- 2 oz   -- 2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake ingredients with crushed ice
-Garnish with orange peel
-
+                Instructions: Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.
             </font>
         </h4>        
     </div>
@@ -216,7 +214,7 @@ Garnish with orange peel
         <p>
             <b> 
                 18°C, 
-                <i>scattered clouds</i>
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -250,21 +248,7 @@ Garnish with orange peel
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 01 May, 2021 - 08 May, 2021
-
-Python       8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-
-C++          8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-
-JavaScript   6 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
-
-Other        5 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-
-YAML         2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
