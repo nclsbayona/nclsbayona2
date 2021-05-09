@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
+                "The progressive realization of a worthy goal,  success is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rswqpy1441246518.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tx8ne41582475326.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Talos Coffee
+                Name: Bee&#39;s Knees
             </font>
         </h4>
         <h4>
@@ -34,22 +34,24 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee &#x2F; Tea
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Grand Marnier  -- Coffee  
+                Ingredients:  Gold rum  -- Orange Juice  -- Lime Juice  -- Triple Sec  --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3 parts   -- 1 part   
+                Measures:  6 cl  -- 2 cl  -- 2 cl  -- 2 jiggers  --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add your GM and then add your coffee.
+                Instructions: Shake ingredients with crushed ice
+Garnish with orange peel
+
             </font>
         </h4>        
     </div>
@@ -248,21 +250,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 01 May, 2021 - 08 May, 2021
-
-Python       8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-
-C++          8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-
-JavaScript   6 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
-
-Other        5 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-
-YAML         2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
