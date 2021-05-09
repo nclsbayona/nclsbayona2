@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A difference in the world by simply existing in it,  you make"
+                "A capable human,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;mx31hv1487602979.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qyxrqw1439906528.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Lemon Shot
+                Name: Vodka Martini
             </font>
         </h4>
         <h4>
@@ -34,23 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Galliano  -- Absolut Citron  -- Lemon  -- Sugar  
+                Ingredients:  Vodka  -- Dry Vermouth  -- Olive  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   --  wedge
-  -- Bacardi   
+                Measures:  1 1&#x2F;2 oz   -- 3&#x2F;4 oz   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade.
+                Instructions: Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve.
             </font>
         </h4>        
     </div>
@@ -214,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>overcast clouds</i>
+                13°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -249,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 01 May, 2021 - 08 May, 2021
-
-C++          8 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-
-JavaScript   6 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
-
-Other        5 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-
-Python       3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-
-YAML         2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
