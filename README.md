@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Just another way to learn how to do something right,  failure is"
+                "You&#39;re resourceful and clever"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yvxrwv1472669728.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ql7bmx1503565106.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Absolutly Screwed Up
+                Name: Damned if you do
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Absolut Citron  -- Orange juice  -- Triple sec  -- Ginger ale  
+                Ingredients:  Whiskey  -- Hot Damn  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot   -- 1 shot   -- 1 shot   -- Fill to top   
+                Measures:  0.75 oz   -- 0.25 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.
+                Instructions: Pour into shot glass. Put in mouth. Repeat as deemed necessary.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 02 May, 2021 - 09 May, 2021
-
-Python       9 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
-
-C++          8 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-
-JavaScript   4 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-
-Other        4 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-
-YAML         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
