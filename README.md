@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A capable human,  you are"
+                "All works in progress,  we are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xk79al1493069655.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qrryvq1478820428.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto Shake
+                Name: Sherry Flip
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Chocolate ice-cream  -- Brandy  -- Amaretto  
+                Ingredients:  Sherry  -- Light cream  -- Powdered sugar  -- Egg  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 scoops   -- 2 oz   -- 2 oz   
+                Measures:  1 1&#x2F;2 oz cream   -- 2 tsp   -- 1 tsp   -- 1 whole   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.
+                Instructions: Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
+                14°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 01 May, 2021 - 08 May, 2021
-
-Python       8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-
-C++          8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-
-JavaScript   6 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
-
-Other        5 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-
-YAML         2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
