@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re resourceful and clever"
+                "Worthy and deserving of respect,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ql7bmx1503565106.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uuytrp1474039804.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Damned if you do
+                Name: Jam Donut
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Whiskey  -- Hot Damn  
+                Ingredients:  Baileys irish cream  -- Chambord raspberry liqueur  -- Sugar syrup  -- Sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  0.75 oz   -- 0.25 oz   
+                Measures:  2&#x2F;3 oz  -- 1&#x2F;3 oz  -- 1 tsp  -- 2 pinches  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour into shot glass. Put in mouth. Repeat as deemed necessary.
+                Instructions: Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 02 May, 2021 - 09 May, 2021
-
-Python       9 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
-
-C++          8 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-
-JavaScript   4 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-
-Other        4 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-
-YAML         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
