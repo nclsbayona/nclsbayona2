@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re resourceful and clever"
+                "Just another way to learn how to do something right,  failure is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;upusyu1472667977.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yvxrwv1472669728.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: H.D.
+                Name: Absolutly Screwed Up
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee &#x2F; Tea
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Whisky  -- Baileys irish cream  
+                Ingredients:  Absolut Citron  -- Orange juice  -- Triple sec  -- Ginger ale  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4 cl   -- 8 cl   
+                Measures:  1 shot   -- 1 shot   -- 1 shot   -- Fill to top   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.
+                Instructions: Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
+                16°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 02 May, 2021 - 09 May, 2021
-
-Python       8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-
-C++          8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-
-JavaScript   6 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
-
-Other        5 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-
-YAML         2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
