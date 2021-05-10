@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "All works in progress,  we are"
+                "You&#39;re resourceful and clever"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qrryvq1478820428.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;upusyu1472667977.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sherry Flip
+                Name: H.D.
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Sherry  -- Light cream  -- Powdered sugar  -- Egg  
+                Ingredients:  Whisky  -- Baileys irish cream  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz cream   -- 2 tsp   -- 1 tsp   -- 1 whole   
+                Measures:  4 cl   -- 8 cl   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
+                Instructions: Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 02 May, 2021 - 09 May, 2021
-
-Python       8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-
-C++          8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-
-JavaScript   6 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
-
-Other        5 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-
-YAML         2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
