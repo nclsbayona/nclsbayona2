@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "I &#39;m rooting for you"
+                "You&#39;re doing a great job"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;869qr81487603278.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qsyqqq1441553437.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Tomato Tang
+                Name: Ruby Tuesday
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other&#x2F;Unknown
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Tomato juice  -- Lemon juice  -- Celery salt  
+                Ingredients:  Gin  -- Cranberry juice  -- Grenadine  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cups   -- 1-2 tblsp   -- 1 dash   
+                Measures:  2 oz   -- 5 oz   -- 2 splashes   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
+                Instructions: Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 03 May, 2021 - 10 May, 2021
-
-Python       9 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.33 % 
-
-C++          8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.90 % 
-
-JavaScript   2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-
-Other        2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-
-HTML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
