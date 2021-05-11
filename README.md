@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not a sprint,  it is,A marathon,  it is.One step at a time"
+                "I &#39;m rooting for you"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;squyyq1439907312.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;869qr81487603278.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Mint Julep
+                Name: Tomato Tang
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Other&#x2F;Unknown
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Mint  -- Bourbon  -- Powdered sugar  -- Water  
+                Ingredients:  Tomato juice  -- Lemon juice  -- Celery salt  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4 fresh   -- 2 1&#x2F;2 oz   -- 1 tsp   -- 2 tsp   
+                Measures:  2 cups   -- 1-2 tblsp   -- 1 dash   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.
+                Instructions: Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 03 May, 2021 - 10 May, 2021
-
-Python       9 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.33 % 
-
-C++          8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.90 % 
-
-JavaScript   2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-
-Other        2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-
-HTML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
