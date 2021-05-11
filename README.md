@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re learning,  struggling means"
+                "Not a sprint,  it is,A marathon,  it is.One step at a time"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;3pylqc1504370988.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;squyyq1439907312.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Moscow Mule
+                Name: Mint Julep
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Lime juice  -- Ginger ale  
+                Ingredients:  Mint  -- Bourbon  -- Powdered sugar  -- Water  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 2 oz   -- 8 oz   
+                Measures:  4 fresh   -- 2 1&#x2F;2 oz   -- 1 tsp   -- 2 tsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.
+                Instructions: In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>scattered clouds</i>
+                18°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 03 May, 2021 - 10 May, 2021
-
-Python       9 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
-
-C++          8 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-
-JavaScript   4 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-
-Other        4 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-
-YAML         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
