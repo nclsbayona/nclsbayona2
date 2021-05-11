@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Myself permission to do what is right for me,  I give"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wqstwv1478963735.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;3pylqc1504370988.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Arctic Mouthwash
+                Name: Moscow Mule
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Maui  -- Mountain Dew  -- Ice  
+                Ingredients:  Vodka  -- Lime juice  -- Ginger ale  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  5 oz blue   -- 5 oz   -- cubes  
+                Measures:  2 oz   -- 2 oz   -- 8 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Blend all ingredients in a blender on high until ice is finely crushed. It should be of a slushy consistency. Pour immediately and serve.
+                Instructions: Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>broken clouds</i>
+                13°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 03 May, 2021 - 10 May, 2021
-
-Python       9 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
-
-C++          8 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-
-JavaScript   4 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-
-Other        4 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-
-YAML         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
