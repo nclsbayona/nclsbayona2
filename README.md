@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re a smart cookie"
+                "To take massive,  the path to success is,Determined action"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;p5r0tr1503564636.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;lyloe91487602877.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Gideon&#39;s Green Dinosaur
+                Name: Gagliardo
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Dark rum  -- Vodka  -- Triple sec  -- Tequila  -- Melon liqueur  -- Mountain Dew  
+                Ingredients:  Peach Vodka  -- Lemon juice  -- Galliano  -- Sirup of roses  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- Fill with   
+                Measures:  5 parts   -- 3 parts   -- 1 part   -- 1 part   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add all ingredients in collins glass with ice and stir.
+                Instructions: Shake well and serve in a cocktail glass. This is a home cocktail of American&#x2F;Internet Bar del Pozzo, Pavia, Italy.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>broken clouds</i>
+                13°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 04 May, 2021 - 11 May, 2021
-
-Python       9 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.33 % 
-
-C++          8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.90 % 
-
-JavaScript   2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-
-Other        2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-
-HTML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
