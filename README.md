@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re doing a great job"
+                "You&#39;re a smart cookie"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qsyqqq1441553437.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;p5r0tr1503564636.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Ruby Tuesday
+                Name: Gideon&#39;s Green Dinosaur
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Cranberry juice  -- Grenadine  
+                Ingredients:  Dark rum  -- Vodka  -- Triple sec  -- Tequila  -- Melon liqueur  -- Mountain Dew  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 5 oz   -- 2 splashes   
+                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- Fill with   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.
+                Instructions: Add all ingredients in collins glass with ice and stir.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
+                14°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 03 May, 2021 - 10 May, 2021
-
-Python       9 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.33 % 
-
-C++          8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.90 % 
-
-JavaScript   2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-
-Other        2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-
-HTML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
