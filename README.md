@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "To take massive,  the path to success is,Determined action"
+                "A difference in the world by simply existing in it,  you make"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;lyloe91487602877.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tqxyxx1472719737.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Gagliardo
+                Name: A Piece of Ass
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Other&#x2F;Unknown
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Peach Vodka  -- Lemon juice  -- Galliano  -- Sirup of roses  
+                Ingredients:  Amaretto  -- Southern Comfort  -- Ice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  5 parts   -- 3 parts   -- 1 part   -- 1 part   
+                Measures:  1 shot   -- 1 shot   -- cubes  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake well and serve in a cocktail glass. This is a home cocktail of American&#x2F;Internet Bar del Pozzo, Pavia, Italy.
+                Instructions: Put ice in glass. Pour in shots. Fill with Sour Mix.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>scattered clouds</i>
+                0°C, 
+                <i>light snow</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 04 May, 2021 - 11 May, 2021
-
-Python       9 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.33 % 
-
-C++          8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.90 % 
-
-JavaScript   2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-
-Other        2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-
-HTML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
