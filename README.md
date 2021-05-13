@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "To take massive,  the path to success is,Determined action"
+                "A myth,  10x engineers are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;apictz1493069760.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;6vigjx1503564007.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto Sunset
+                Name: Pink Penocha
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Triple sec  -- Amaretto  -- Cider  -- Ice  
+                Ingredients:  Everclear  -- Vodka  -- Peach schnapps  -- Orange juice  -- Cranberry juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 jigger   -- 3 shots   -- 1&#x2F;2 cup   -- Add 1&#x2F;2 cup   
+                Measures:  750 ml   -- 1750 ml   -- 1750 ml   -- 1 gal   -- 1 gal   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake ingredients in bartender&#39;s mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.
+                Instructions: mix all ingredients into bowl keep iced stir frequently
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                -1°C, 
+                10°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 05 May, 2021 - 12 May, 2021
-
-C++          12 hrs 7 mins   ███████████░░░░░░░░░░░░░░   43.69 % 
-
-Python       9 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 % 
-
-JavaScript   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-
-Other        1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-
-HTML         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
