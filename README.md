@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "I &#39;m rooting for you"
+                "Not a sprint,  it is,A marathon,  it is.One step at a time"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qruprq1441553976.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;spvvxp1468924425.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Port Wine Cocktail
+                Name: Strawberry Lemonade
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Port  -- Brandy  
+                Ingredients:  Lemon  -- Sugar  -- Strawberries  -- Water  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 1&#x2F;2 oz   -- 1&#x2F;2 tsp   
+                Measures:  Juice of 1   -- 1 tblsp   -- 8-10 ripe   -- 1 cup   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Throw everything into a blender and mix until fairly smooth. Serve over ice.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 13°C, 
-                <i>light rain</i>
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 05 May, 2021 - 12 May, 2021
-
-Python       9 hrs 37 mins   ████████████▒░░░░░░░░░░░░   49.16 % 
-
-C++          4 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 % 
-
-JavaScript   1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-
-Other        58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-
-HTML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
