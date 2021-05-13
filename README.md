@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Part of learning,  struggling is"
+                "To take massive,  the path to success is,Determined action"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ytsxxw1441167732.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;apictz1493069760.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Orangeade
+                Name: Amaretto Sunset
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Lemon juice  -- Orange juice  -- Sugar syrup  
+                Ingredients:  Triple sec  -- Amaretto  -- Cider  -- Ice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  5 cl   -- 15 cl   -- 2-3 cl   
+                Measures:  1&#x2F;2 jigger   -- 3 shots   -- 1&#x2F;2 cup   -- Add 1&#x2F;2 cup   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.
+                Instructions: Shake ingredients in bartender&#39;s mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                0°C, 
+                -1°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 04 May, 2021 - 11 May, 2021
-
-C++          12 hrs 7 mins   ███████████░░░░░░░░░░░░░░   43.69 % 
-
-Python       9 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 % 
-
-JavaScript   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-
-Other        1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-
-HTML         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
