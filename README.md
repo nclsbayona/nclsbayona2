@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re doing a great job"
+                "I &#39;m rooting for you"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ypxsqy1483387829.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qruprq1441553976.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Alfie Cocktail
+                Name: Port Wine Cocktail
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Lemon vodka  -- Triple sec  -- Pineapple juice  
+                Ingredients:  Port  -- Brandy  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 dash   -- 1 tblsp   
+                Measures:  2 1&#x2F;2 oz   -- 1&#x2F;2 tsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Stir ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 13°C, 
-                <i>overcast clouds</i>
+                <i>light rain</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 05 May, 2021 - 12 May, 2021
-
-Python       9 hrs 37 mins   ████████████▒░░░░░░░░░░░░   49.16 % 
-
-C++          4 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 % 
-
-JavaScript   1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-
-Other        58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-
-HTML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
