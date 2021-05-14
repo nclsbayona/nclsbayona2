@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re a smart cookie"
+                "Learning valuable lessons from yourself every day,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ssxvww1472669166.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tqxyxx1472719737.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: A Furlong Too Late
+                Name: A Piece of Ass
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Other&#x2F;Unknown
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Light rum  -- Ginger beer  -- Lemon peel  
+                Ingredients:  Amaretto  -- Southern Comfort  -- Ice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 4 oz   -- 1 twist of   
+                Measures:  1 shot   -- 1 shot   -- cubes  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
+                Instructions: Put ice in glass. Pour in shots. Fill with Sour Mix.
             </font>
         </h4>        
     </div>
@@ -213,12 +213,12 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
-                <i>few clouds</i>
+                17°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
-                05:43 a. m.
+                05:42 a. m.
             </b> 
             and sets at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 06 May, 2021 - 13 May, 2021
-
-Python       9 hrs 37 mins   ████████████▒░░░░░░░░░░░░   49.16 % 
-
-C++          4 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 % 
-
-JavaScript   1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-
-Other        58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-
-HTML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
