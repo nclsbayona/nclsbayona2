@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;ll sort it out,  I know"
+                "If you find flaws in your past creations,  don&#39;t worry,It&#39;s because you&#39;ve evolved"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ido1j01493068134.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ypxsqy1483387829.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Arizona Twister
+                Name: Alfie Cocktail
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Malibu rum  -- Gold tequila  -- Orange juice  -- Pineapple juice  -- Cream of coconut  -- Grenadine  -- Ice  -- Pineapple  
+                Ingredients:  Lemon vodka  -- Triple sec  -- Pineapple juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot   -- 1 shot   -- 1 shot   -- 1 splash   -- 1 splash   -- 1 splash   -- 1 dash   -- crushed   -- 1 wedge   
+                Measures:  1 1&#x2F;2 oz   -- 1 dash   -- 1 tblsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Just mix in the shots of rum, vodka, and tequila. Add splashes of the three juices, heavy on the pineapple. Top off with grenadine. Crushed ice should already be in glass. Top off the glass with a pineapple wedge.
+                Instructions: Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 06 May, 2021 - 13 May, 2021
-
-Python       8 hrs 39 mins   ████████████░░░░░░░░░░░░░   48.41 % 
-
-C++          3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 % 
-
-JavaScript   1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-
-Other        1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-
-Markdown     1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
