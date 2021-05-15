@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A way,  you&#39;ll find"
+                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;4u0nbl1504352551.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;bry4qh1582751040.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Tuxedo Cocktail
+                Name: Blue Margarita
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Dry Vermouth  -- Gin  -- Maraschino liqueur  -- Anis  -- Orange bitters  -- Cherry  
+                Ingredients:  Tequila  -- Blue Curacao  -- Lime juice  -- Salt  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 1&#x2F;2 oz   -- 1&#x2F;4 tsp   -- 1&#x2F;4 tsp   -- 2 dashes   -- 1   
+                Measures:  1 1&#x2F;2 oz   -- 1 oz   -- 1 oz   -- Coarse   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.
+                Instructions: Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>scattered clouds</i>
+                19°C, 
+                <i>light rain</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 07 May, 2021 - 14 May, 2021
-
-Python       8 hrs 39 mins   ████████████░░░░░░░░░░░░░   48.41 % 
-
-C++          3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 % 
-
-JavaScript   1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-
-Other        1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-
-Markdown     1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
