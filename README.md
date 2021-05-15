@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "If you find flaws in your past creations,  don&#39;t worry,It&#39;s because you&#39;ve evolved"
+                "I &#39;m rooting for you"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ypxsqy1483387829.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vr6kle1504886114.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Alfie Cocktail
+                Name: Orgasm
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Lemon vodka  -- Triple sec  -- Pineapple juice  
+                Ingredients:  Creme de Cacao  -- Amaretto  -- Triple sec  -- Vodka  -- Light cream  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 dash   -- 1 tblsp   
+                Measures:  1&#x2F;2 oz white   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                15°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 06 May, 2021 - 13 May, 2021
-
-Python       8 hrs 39 mins   ████████████░░░░░░░░░░░░░   48.41 % 
-
-C++          3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 % 
-
-JavaScript   1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-
-Other        1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-
-Markdown     1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
