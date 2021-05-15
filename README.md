@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "I &#39;m rooting for you"
+                "A way,  you&#39;ll find"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vr6kle1504886114.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;4u0nbl1504352551.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Orgasm
+                Name: Tuxedo Cocktail
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Creme de Cacao  -- Amaretto  -- Triple sec  -- Vodka  -- Light cream  
+                Ingredients:  Dry Vermouth  -- Gin  -- Maraschino liqueur  -- Anis  -- Orange bitters  -- Cherry  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz white   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 oz   
+                Measures:  1 1&#x2F;2 oz   -- 1 1&#x2F;2 oz   -- 1&#x2F;4 tsp   -- 1&#x2F;4 tsp   -- 2 dashes   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
+                Instructions: Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
+                14°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 07 May, 2021 - 14 May, 2021
-
-Python       8 hrs 39 mins   ████████████░░░░░░░░░░░░░   48.41 % 
-
-C++          3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 % 
-
-JavaScript   1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-
-Other        1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-
-Markdown     1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
