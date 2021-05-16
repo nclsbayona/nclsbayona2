@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "More than you knew yesterday,  you know"
+                "Easy you&#39;d be bored,  if everything was"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rwsyyu1483388181.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ejozd71504351060.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Almeria
+                Name: Paradise
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Dark rum  -- Kahlua  -- Egg white  
+                Ingredients:  Gin  -- Apricot Brandy  -- Orange Juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 1 oz   -- 1   
+                Measures:  7 parts  -- 4 parts  -- 3 parts   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
+                Instructions: Shake together over ice. Strain into cocktail glass and serve chilled.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19°C, 
+                15°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 07 May, 2021 - 14 May, 2021
-
-Python     8 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.22 % 
-
-C++        8 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   43.28 % 
-
-Other      1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-
-Markdown   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-
-YAML       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
