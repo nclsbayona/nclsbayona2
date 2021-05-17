@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You less capable,  mistakes don&#39;t make"
+                "You&#39;ll sort it out,  I know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qruprq1441553976.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;x8lhp41513703167.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Port Wine Cocktail
+                Name: French Negroni
             </font>
         </h4>
         <h4>
@@ -34,22 +34,24 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Port  -- Brandy  
+                Ingredients:  Gin  -- Lillet  -- Sweet Vermouth  -- Orange Peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 1&#x2F;2 oz   -- 1&#x2F;2 tsp   
+                Measures:  1 oz  -- 1 oz  -- 1 oz  -- 1  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Add ice to a shaker and pour in all ingredients.
+Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
+Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.
             </font>
         </h4>        
     </div>
@@ -213,8 +215,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>broken clouds</i>
+                18°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +250,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 09 May, 2021 - 16 May, 2021
-
-C++        10 hrs 58 mins  ██████████████████▒░░░░░░   72.82 % 
-
-Python     2 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 % 
-
-Markdown   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-
-Other      34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-
-YAML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
