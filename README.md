@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not equal the future,  the past does"
+                "Not a sprint,  it is,A marathon,  it is.One step at a time"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vqwptt1441247711.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wsyryt1483387720.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Cafe Savoy
+                Name: Alaska Cocktail
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee &#x2F; Tea
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Coffee  -- Milk  
+                Ingredients:  Orange bitters  -- Gin  -- Yellow Chartreuse  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   
+                Measures:  2 dashes   -- 1 1&#x2F;2 oz   -- 3&#x2F;4 oz   -- Twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.
+                Instructions: Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
+                19°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 09 May, 2021 - 16 May, 2021
-
-C++          13 hrs 48 mins  ████████████████████▓░░░░   82.94 % 
-
-Python       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-
-Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
