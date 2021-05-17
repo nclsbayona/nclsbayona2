@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "About to be incredible,  your life is"
+                "This,  you got"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;3k9qic1493068931.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;b522ek1521761610.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Avalon
+                Name: Tipperary
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Pisang Ambon  -- Apple juice  -- Lemon juice  
+                Ingredients:  Irish Whiskey  -- Sweet Vermouth  -- Green Chartreuse  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3 parts  -- 1 part   -- 6 parts   -- 1 1&#x2F;2 part   
+                Measures:  2 oz  -- 1 oz  -- 1&#x2F;2 oz  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.
+                Instructions: Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and express the orange oils over the drink. Discard orange twist.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
+                14°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 08 May, 2021 - 15 May, 2021
-
-Python     8 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.22 % 
-
-C++        8 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   43.28 % 
-
-Other      1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-
-Markdown   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-
-YAML       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
