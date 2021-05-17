@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;ll sort it out,  I know"
+                "Not equal the future,  the past does"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;x8lhp41513703167.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vqwptt1441247711.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: French Negroni
+                Name: Cafe Savoy
             </font>
         </h4>
         <h4>
@@ -34,24 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Lillet  -- Sweet Vermouth  -- Orange Peel  
+                Ingredients:  Coffee  -- Milk  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz  -- 1 oz  -- 1 oz  -- 1  
+                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add ice to a shaker and pour in all ingredients.
-Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
-Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.
+                Instructions: Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.
             </font>
         </h4>        
     </div>
@@ -250,19 +248,7 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 09 May, 2021 - 16 May, 2021
-
-C++          13 hrs 48 mins  ████████████████████▓░░░░   82.94 % 
-
-Python       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-
-Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
