@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not cowardice,  the opposite of courage in our society is...Conformity,  it is"
+                "If you find flaws in your past creations,  don&#39;t worry,It&#39;s because you&#39;ve evolved"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;lvzl3r1504372526.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;0108c41576797064.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bramble
+                Name: Spice 75
             </font>
         </h4>
         <h4>
@@ -34,22 +34,24 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- lemon juice  -- Sugar syrup  -- Creme de Mure  
+                Ingredients:  Sugar  -- Allspice  -- Rum  -- Lime Juice  -- Champagne  -- Orange spiral  --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4 cl  -- 1.5 cl  -- 1 cl  -- 1.5 cl  
+                Measures:  60 ml  -- 1 tblsp  -- 20 cl  -- 90 ml  -- 6 cl  -- Garnish with  --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.
+                Instructions: Gently warm 60g golden caster sugar in a pan with 30ml water and 1 tbsp allspice. Cook gently until the sugar has dissolved, then leave the mixture to cool. Strain through a sieve lined with a coffee filter (or a double layer of kitchen paper).
+
+Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90ml lime juice. Shake with ice and strain between six flute glasses. Top up with 600ml champagne and garnish each with an orange twist.
             </font>
         </h4>        
     </div>
@@ -248,19 +250,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 10 May, 2021 - 17 May, 2021
-
-C++          13 hrs 48 mins  ████████████████████▓░░░░   82.94 % 
-
-Python       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-
-Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
