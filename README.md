@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "More than you think,  you know"
+                "Easy you&#39;d be bored,  if everything was"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7os4gs1606854357.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;bsvmlg1515792693.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Harvey Wallbanger
+                Name: Oatmeal Cookie
             </font>
         </h4>
         <h4>
@@ -34,22 +34,25 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Galliano  -- Orange juice  
+                Ingredients:  Kahlua  -- Bailey  -- Butterscotch schnapps  -- Jagermeister  -- Goldschlager  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1&#x2F;2 oz   -- 4 oz   
+                Measures:  2 parts  -- 2 parts  -- 4 parts  -- 1 part  -- 1&#x2F;2 part  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.
+                Instructions: Just mix it all together.
+It&#39;s meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
+
+Tastes like an oatmeal cookie.
             </font>
         </h4>        
     </div>
@@ -248,19 +251,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 10 May, 2021 - 17 May, 2021
-
-C++          13 hrs 48 mins  ████████████████████▓░░░░   82.94 % 
-
-Python       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-
-Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
