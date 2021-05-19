@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The most difficult step - but you can do it,  starting is"
+                "Just another way to learn how to do something right,  failure is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rwqxrv1461866023.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;90etyl1504884699.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: B-53
+                Name: Irish Cream
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Homemade Liqueur
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Kahlua  -- Sambuca  -- Grand Marnier  
+                Ingredients:  Scotch  -- Half-and-half  -- Condensed milk  -- Coconut syrup  -- Chocolate syrup  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;3 shot   -- 1&#x2F;3 shot   -- 1&#x2F;3 shot   
+                Measures:  1 cup   -- 1 1&#x2F;4 cup   -- 1 can sweetened   -- 3 drops   -- 1 tblsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52
+                Instructions: Mix scotch and milk. Add half-and-half. Add rest.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 19°C, 
-                <i>few clouds</i>
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 11 May, 2021 - 18 May, 2021
-
-C++          10 hrs 38 mins  ███████████████████▓░░░░░   78.99 % 
-
-Python       1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
