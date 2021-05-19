@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Just another way to learn how to do something right,  failure is"
+                "The most difficult step - but you can do it,  starting is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;km84qi1513705868.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rwqxrv1461866023.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Boulevardier
+                Name: B-53
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Campari  -- Sweet Vermouth  -- Rye whiskey  -- Orange Peel  
+                Ingredients:  Kahlua  -- Sambuca  -- Grand Marnier  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz  -- 1 oz  -- 1 1&#x2F;4 oz  -- 1  
+                Measures:  1&#x2F;3 shot   -- 1&#x2F;3 shot   -- 1&#x2F;3 shot   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir with ice, strain, garnish and serve.
+                Instructions: Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52
             </font>
         </h4>        
     </div>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 11 May, 2021 - 18 May, 2021
-
-C++          10 hrs 38 mins  ███████████████████▓░░░░░   78.99 % 
-
-Python       1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
