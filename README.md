@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re a smart cookie"
+                "Just another way to learn how to do something right,  failure is"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yswuwp1469090992.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;km84qi1513705868.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Ipamena
+                Name: Boulevardier
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Lime  -- Brown sugar  -- Passion fruit juice  -- Ginger ale  -- Ice  
+                Ingredients:  Campari  -- Sweet Vermouth  -- Rye whiskey  -- Orange Peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  ½  -- 2 tsp  -- 4 cl  -- top up with  -- fill  
+                Measures:  1 oz  -- 1 oz  -- 1 1&#x2F;4 oz  -- 1  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime
+                Instructions: Stir with ice, strain, garnish and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
+                19°C, 
                 <i>few clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 11 May, 2021 - 18 May, 2021
-
-C++          13 hrs 48 mins  ████████████████████▓░░░░   82.94 % 
-
-Python       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-
-Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
