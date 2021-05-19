@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;ll sort it out,  I know"
+                "Not cowardice,  the opposite of courage in our society is...Conformity,  it is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;8oxlqf1606772765.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;bje5401485619578.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Black Russian
+                Name: Zambeer
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Soft Drink &#x2F; Soda
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Coffee liqueur  -- Vodka  
+                Ingredients:  Sambuca  -- Root beer  -- Ice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3&#x2F;4 oz   -- 1 1&#x2F;2 oz   
+                Measures:  1 1&#x2F;2 oz   -- Add 10 oz   -- cubes  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.
+                Instructions: Mix sambuca with rootbeer and stir. Add ice
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
-                <i>broken clouds</i>
+                14°C, 
+                <i>few clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 10 May, 2021 - 17 May, 2021
-
-C++          13 hrs 48 mins  ████████████████████▓░░░░   82.94 % 
-
-Python       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-
-Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
