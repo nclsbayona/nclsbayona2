@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The most difficult step - but you can do it,  starting is"
+                "To enjoy the journey,  don&#39;t forget"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uxxtrt1472667197.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;mr30ob1582479875.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Absinthe #2
+                Name: Abbey Cocktail
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Homemade Liqueur
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Sugar  -- Anise  -- Licorice root  -- Wormwood  
+                Ingredients:  Gin  -- Orange bitters  -- Orange  -- Cherry  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 bottle   -- 50 gr   -- 50 ml pure   -- 1 tblsp   -- 1   
+                Measures:  1 1&#x2F;2 oz   -- 1 dash   -- Juice of 1&#x2F;4   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.
+                Instructions: Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>few clouds</i>
+                11°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 12 May, 2021 - 19 May, 2021
-
-C++          10 hrs 38 mins  ███████████████████▓░░░░░   78.99 % 
-
-Python       1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
