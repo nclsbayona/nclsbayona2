@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Just another way to learn how to do something right,  failure is"
+                "The most difficult step - but you can do it,  starting is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;90etyl1504884699.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uxxtrt1472667197.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Irish Cream
+                Name: Absinthe #2
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Scotch  -- Half-and-half  -- Condensed milk  -- Coconut syrup  -- Chocolate syrup  
+                Ingredients:  Vodka  -- Sugar  -- Anise  -- Licorice root  -- Wormwood  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 cup   -- 1 1&#x2F;4 cup   -- 1 can sweetened   -- 3 drops   -- 1 tblsp   
+                Measures:  1 bottle   -- 50 gr   -- 50 ml pure   -- 1 tblsp   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix scotch and milk. Add half-and-half. Add rest.
+                Instructions: Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19°C, 
-                <i>broken clouds</i>
+                15°C, 
+                <i>few clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 11 May, 2021 - 18 May, 2021
-
-C++          10 hrs 38 mins  ███████████████████▓░░░░░   78.99 % 
-
-Python       1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
