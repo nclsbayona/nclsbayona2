@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not a sprint,  it is,A marathon,  it is.One step at a time"
+                "More than you knew yesterday,  you know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7if5kq1503564209.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7dozeg1582578095.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bruised Heart
+                Name: Singapore Sling
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Chambord raspberry liqueur  -- Peachtree schnapps  -- Cranberry juice  
+                Ingredients:  Cherry brandy  -- Grenadine  -- Gin  -- Sweet and sour  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   
+                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 oz   -- 2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients in a mixing tin over ice, stir, and strain into shot glass
+                Instructions: Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
-                <i>scattered clouds</i>
+                18°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 13 May, 2021 - 20 May, 2021
-
-C++        10 hrs 36 mins  ████████████████████░░░░░   79.34 % 
-
-Python     1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-
-Other      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-
-Markdown   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
