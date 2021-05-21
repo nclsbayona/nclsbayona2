@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Just another way to learn how to do something right,  failure is"
+                "To take massive,  the path to success is,Determined action"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;6ck9yi1589574317.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uxywyw1468877224.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Dry Martini
+                Name: 1-900-FUK-MEUP
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Dry Vermouth  -- Olive  
+                Ingredients:  Absolut Kurant  -- Grand Marnier  -- Chambord raspberry liqueur  -- Midori melon liqueur  -- Malibu rum  -- Amaretto  -- Cranberry juice  -- Pineapple juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 2&#x2F;3 oz   -- 1&#x2F;3 oz   -- 1   
+                Measures:  1&#x2F;2 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;2 oz   -- 1&#x2F;4 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.
+                Instructions: Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19°C, 
-                <i>scattered clouds</i>
+                17°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 12 May, 2021 - 19 May, 2021
-
-C++        10 hrs 36 mins  ████████████████████░░░░░   79.34 % 
-
-Python     1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-
-Other      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-
-Markdown   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
