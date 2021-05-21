@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "More than you knew yesterday,  you know"
+                "It,  you can do"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7dozeg1582578095.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7cll921606854636.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Singapore Sling
+                Name: Tom Collins
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Cherry brandy  -- Grenadine  -- Gin  -- Sweet and sour  
+                Ingredients:  Gin  -- Lemon juice  -- Sugar  -- Club soda  -- Maraschino cherry  -- Orange  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 oz   -- 2 oz   
+                Measures:  2 oz   -- 1 oz   -- 1 tsp superfine   -- 3 oz   -- 1   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.
+                Instructions: In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.
             </font>
         </h4>        
     </div>
@@ -248,15 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 13 May, 2021 - 20 May, 2021
-
-C++        10 hrs 36 mins  ████████████████████████▓   98.62 % 
-
-Python     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
