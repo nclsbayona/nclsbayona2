@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "It,  you can do"
+                "All works in progress,  we are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7cll921606854636.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rpttur1454515129.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Tom Collins
+                Name: Vodka Russian
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Lemon juice  -- Sugar  -- Club soda  -- Maraschino cherry  -- Orange  
+                Ingredients:  Vodka  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 1 oz   -- 1 tsp superfine   -- 3 oz   -- 1   -- 1   
+                Measures:  2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.
+                Instructions: Mix it as a ordinary drink .
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
+                19°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,15 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 13 May, 2021 - 20 May, 2021
-
-C++        10 hrs 36 mins  ████████████████████████▓   98.62 % 
-
-Python     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
