@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Still progress,  small progress is"
+                "More than you think,  you know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;2en3jk1509557725.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jofsaz1504352991.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Zombie
+                Name: White Lady
             </font>
         </h4>
         <h4>
@@ -34,31 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Rum  -- Gold rum  -- 151 proof rum  -- Pernod  -- Grenadine  -- Lime Juice  -- Angostura Bitters  
+                Ingredients:  Gin  -- Triple Sec  -- Lemon Juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz  -- 1 1&#x2F;2 oz  -- 1 oz  -- 1 tsp  -- 1 tsp  -- 1 tsp  -- 1 drop  
+                Measures:  4cl  -- 3cl  -- 2cl  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: 
-Blend at high speed for no more than 5 seconds.
-
-Pour into a glass, add ice cubes to fill, then add the garnish.
-
-*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
-
-Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
-
-Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.
+                Instructions: Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
             </font>
         </h4>        
     </div>
@@ -222,7 +213,7 @@ Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                15°C, 
                 <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
@@ -257,15 +248,7 @@ Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 14 May, 2021 - 21 May, 2021
-
-C++        10 hrs 36 mins  ████████████████████████▓   98.62 % 
-
-Python     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
