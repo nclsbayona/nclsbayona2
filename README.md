@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "More than you think,  you know"
+                "The first step towards being good at something,  sucking at something is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jofsaz1504352991.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uxywyw1468877224.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: White Lady
+                Name: 1-900-FUK-MEUP
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Triple Sec  -- Lemon Juice  
+                Ingredients:  Absolut Kurant  -- Grand Marnier  -- Chambord raspberry liqueur  -- Midori melon liqueur  -- Malibu rum  -- Amaretto  -- Cranberry juice  -- Pineapple juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4cl  -- 3cl  -- 2cl  
+                Measures:  1&#x2F;2 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;2 oz   -- 1&#x2F;4 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
+                Instructions: Shake ingredients in a mixing tin filled with ice cubes. Strain into a rocks glass.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>overcast clouds</i>
+                17°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,15 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 14 May, 2021 - 21 May, 2021
-
-C++    8 hrs 37 mins   █████████████████████████   99.37 % 
-
-Text   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
