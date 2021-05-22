@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The first step towards being good at something,  sucking at something is"
+                "Not cowardice,  the opposite of courage in our society is...Conformity,  it is"
             </i>
             <(-_-)>
         </h5>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
-                <i>broken clouds</i>
+                19°C, 
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,15 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 14 May, 2021 - 21 May, 2021
-
-C++    8 hrs 37 mins   █████████████████████████   99.37 % 
-
-Text   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
