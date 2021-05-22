@@ -257,7 +257,15 @@ Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+Week: 14 May, 2021 - 21 May, 2021
+
+C++        10 hrs 36 mins  ████████████████████████▓   98.62 % 
+
+Python     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+
+
+<!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
