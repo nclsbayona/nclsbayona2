@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A myth,  10x engineers are"
+                "In you,  I believe"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xuyqrw1472811825.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;dj8n0r1504375018.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Absolut Stress #2
+                Name: Amaretto And Cream
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Absolut Vodka  -- Peach schnapps  -- Coconut liqueur  -- Cranberry juice  -- Pineapple juice  
+                Ingredients:  Amaretto  -- Light cream  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 1&#x2F;2 oz   -- 1 1&#x2F;2 oz   
+                Measures:  1 1&#x2F;2 oz   -- 1 1&#x2F;2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix well. Garnish with Orange and Cherry. Enjoy
+                Instructions: Shake well with cracked ice, strain contents into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                15°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,15 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 15 May, 2021 - 22 May, 2021
-
-C++    8 hrs 37 mins   █████████████████████████   99.37 % 
-
-Text   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
