@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Part of learning,  struggling is"
+                "Worthy and deserving of respect,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xutuqs1483388296.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xwrpsv1478820541.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Almond Joy
+                Name: Sherry Eggnog
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Amaretto  -- Creme de Cacao  -- Light cream  
+                Ingredients:  Sherry  -- Powdered sugar  -- Egg  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz white   -- 2 oz   
+                Measures:  2 oz cream   -- 1 tsp   -- 1 whole   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Shake sherry, powdered sugar, and egg with ice and strain into a collins glass. Fill with milk and stir. Sprinkle nutmeg on top and serve.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 15 May, 2021 - 22 May, 2021
-
-C++          5 hrs 52 mins   ██████████████▓░░░░░░░░░░   58.60 % 
-
-JavaScript   3 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.59 % 
-
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
