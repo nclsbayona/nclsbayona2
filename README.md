@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "In you,  I believe"
+                "Part of learning,  struggling is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;dj8n0r1504375018.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xutuqs1483388296.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto And Cream
+                Name: Almond Joy
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Amaretto  -- Light cream  
+                Ingredients:  Amaretto  -- Creme de Cacao  -- Light cream  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 1&#x2F;2 oz   
+                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz white   -- 2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake well with cracked ice, strain contents into a cocktail glass, and serve.
+                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>scattered clouds</i>
+                18°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,15 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 15 May, 2021 - 22 May, 2021
-
-C++    8 hrs 37 mins   █████████████████████████   99.37 % 
-
-Text   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
