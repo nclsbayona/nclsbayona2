@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Worthy and deserving of respect,  you are"
+                "If you find flaws in your past creations,  don&#39;t worry,It&#39;s because you&#39;ve evolved"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,41 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xwrpsv1478820541.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qxuppv1468875308.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sherry Eggnog
+                Name: Egg Nog - Healthy
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Optional alcohol
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Sherry  -- Powdered sugar  -- Egg  
+                Ingredients:  Egg  -- Sugar  -- Condensed milk  -- Milk  -- Vanilla extract  -- Rum  -- Nutmeg  -- undefined  -- undefined  -- undefined  -- undefined  -- undefined  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz cream   -- 1 tsp   -- 1 whole   
+                Measures:  1&#x2F;2 cup   -- 3 tblsp   -- 13 oz skimmed   -- 3&#x2F;4 cup skimmed   -- 1 tsp   -- 1 tsp   -- 
+  -- 
+  -- 
+  -- 
+  -- 
+  -- 
+  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake sherry, powdered sugar, and egg with ice and strain into a collins glass. Fill with milk and stir. Sprinkle nutmeg on top and serve.
+                Instructions: Whip egg substitute and sugar together, combine with the two kinds of milk, vanilla, and rum. Mix well. Chill over night. Sprinkle with nutmeg. Makes 6 servings.
             </font>
         </h4>        
     </div>
@@ -213,8 +219,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
-                <i>broken clouds</i>
+                16°C, 
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +254,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 15 May, 2021 - 22 May, 2021
-
-C++          5 hrs 52 mins   ██████████████▓░░░░░░░░░░   58.60 % 
-
-JavaScript   3 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.59 % 
-
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
