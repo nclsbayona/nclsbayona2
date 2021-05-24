@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Myself permission to do what is right for me,  I give"
+                "It,  you can do"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xspupx1441248014.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;spxtqp1478963398.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Nutty Irishman
+                Name: Quentin
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Milk &#x2F; Float &#x2F; Shake
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Baileys irish cream  -- Frangelico  -- Milk  
+                Ingredients:  Dark rum  -- Kahlua  -- Light cream  -- Nutmeg  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 part   -- 1 part   -- 1 part   
+                Measures:  1 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 oz   -- 1&#x2F;8 tsp grated   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Serve over ice
+                Instructions: In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>scattered clouds</i>
+                12°C, 
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 16 May, 2021 - 23 May, 2021
-
-C++          5 hrs 52 mins   ██████████████▓░░░░░░░░░░   58.60 % 
-
-JavaScript   3 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.59 % 
-
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
