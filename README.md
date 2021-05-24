@@ -248,7 +248,21 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+Week: 16 May, 2021 - 23 May, 2021
+
+JavaScript   5 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.28 % 
+
+C++          3 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   40.23 % 
+
+HTML         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+
+Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
+
+<!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
