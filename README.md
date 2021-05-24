@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Full of brilliant ideas,  your mind is"
+                "Myself permission to do what is right for me,  I give"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yrtypx1473344625.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xspupx1441248014.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Brave Bull Shooter
+                Name: Nutty Irishman
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Milk &#x2F; Float &#x2F; Shake
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Tequila  -- Tabasco sauce  
+                Ingredients:  Baileys irish cream  -- Frangelico  -- Milk  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   
+                Measures:  1 part   -- 1 part   -- 1 part   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour Tabasco into bottom of shot glass and fill with tequila.
+                Instructions: Serve over ice
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
-                <i>light rain</i>
+                14°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 16 May, 2021 - 23 May, 2021
-
-C++          5 hrs 52 mins   ██████████████▓░░░░░░░░░░   58.60 % 
-
-JavaScript   3 hrs 45 mins   █████████▒░░░░░░░░░░░░░░░   37.59 % 
-
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
