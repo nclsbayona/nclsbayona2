@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "It,  you can do"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;spxtqp1478963398.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tqxyxx1472719737.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Quentin
+                Name: A Piece of Ass
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Other&#x2F;Unknown
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Dark rum  -- Kahlua  -- Light cream  -- Nutmeg  
+                Ingredients:  Amaretto  -- Southern Comfort  -- Ice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 oz   -- 1&#x2F;8 tsp grated   
+                Measures:  1 shot   -- 1 shot   -- cubes  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.
+                Instructions: Put ice in glass. Pour in shots. Fill with Sour Mix.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
-                <i>overcast clouds</i>
+                19°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 16 May, 2021 - 23 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.28 % 
-
-C++          3 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   40.23 % 
-
-HTML         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
