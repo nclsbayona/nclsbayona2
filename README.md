@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Part of learning,  struggling is"
+                "You&#39;re an inspiration"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rsxuyr1472719526.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tpxurs1454513016.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: California Root Beer
+                Name: Adam Bomb
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Soft Drink &#x2F; Soda
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Kahlua  -- Galliano  -- Soda water  
+                Ingredients:  Rum  -- Vodka  -- Tequila  -- Triple sec  -- Fruit  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3&#x2F;4 oz   -- 3&#x2F;4 oz   -- Fill with   
+                Measures:  1 part   -- 1 part   -- 1 part   -- 1&#x2F;2 part   -- 1-3 pint   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put Kahlua and Galliano in highball glass fill with soda
+                Instructions: Add ice to blender (or to glass if prefer on the rocks) then fruit, and fruite juice depending on personal prefference then add the Rum, Vodka, Tequila, and triple sec. blend till smooth, rim glass with sugar or salt and pour mixture in. garnish with lemon or lime slice.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 17 May, 2021 - 24 May, 2021
-
-C++          7 hrs           ████████████▓░░░░░░░░░░░░   51.24 % 
-
-JavaScript   5 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.69 % 
-
-Text         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-
-HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
