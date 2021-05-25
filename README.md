@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "This,  you got"
+                "Part of learning,  struggling is"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ytsxxw1441167732.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rsxuyr1472719526.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Orangeade
+                Name: California Root Beer
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Soft Drink &#x2F; Soda
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Lemon juice  -- Orange juice  -- Sugar syrup  
+                Ingredients:  Kahlua  -- Galliano  -- Soda water  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  5 cl   -- 15 cl   -- 2-3 cl   
+                Measures:  3&#x2F;4 oz   -- 3&#x2F;4 oz   -- Fill with   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.
+                Instructions: Put Kahlua and Galliano in highball glass fill with soda
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
+                19°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -222,7 +222,7 @@
             </b> 
             and sets at 
             <b>
-                06:03 p. m.
+                06:04 p. m.
             </b>
             .
         </p>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 17 May, 2021 - 24 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.28 % 
-
-C++          3 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   40.23 % 
-
-HTML         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
