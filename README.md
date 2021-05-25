@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re learning,  struggling means"
+                "This,  you got"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tqxyxx1472719737.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ytsxxw1441167732.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: A Piece of Ass
+                Name: Orangeade
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other&#x2F;Unknown
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Amaretto  -- Southern Comfort  -- Ice  
+                Ingredients:  Lemon juice  -- Orange juice  -- Sugar syrup  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot   -- 1 shot   -- cubes  
+                Measures:  5 cl   -- 15 cl   -- 2-3 cl   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put ice in glass. Pour in shots. Fill with Sour Mix.
+                Instructions: Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19°C, 
-                <i>scattered clouds</i>
+                13°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 17 May, 2021 - 24 May, 2021
-
-JavaScript   5 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.28 % 
-
-C++          3 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   40.23 % 
-
-HTML         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
