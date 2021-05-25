@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re an inspiration"
+                "You&#39;re resourceful and clever"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tpxurs1454513016.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;hdzwrh1487603131.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Adam Bomb
+                Name: Orange Scented Hot Chocolate
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Cocoa
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Rum  -- Vodka  -- Tequila  -- Triple sec  -- Fruit  
+                Ingredients:  Milk  -- Chocolate  -- Orange peel  -- Espresso  -- Nutmeg  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 part   -- 1 part   -- 1 part   -- 1&#x2F;2 part   -- 1-3 pint   
+                Measures:  2 cups   -- 4 oz chopped bittersweet or semi-sweet   -- 3 2-inch strips   -- 1&#x2F;2 tsp instant   -- 1&#x2F;8 tsp ground   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add ice to blender (or to glass if prefer on the rocks) then fruit, and fruite juice depending on personal prefference then add the Rum, Vodka, Tequila, and triple sec. blend till smooth, rim glass with sugar or salt and pour mixture in. garnish with lemon or lime slice.
+                Instructions: Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 17 May, 2021 - 24 May, 2021
-
-C++          7 hrs           ████████████▓░░░░░░░░░░░░   51.24 % 
-
-JavaScript   5 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.69 % 
-
-Text         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-
-HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
