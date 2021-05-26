@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re resourceful and clever"
+                "You&#39;re doing a great job"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;hdzwrh1487603131.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xxsxqy1472668106.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Orange Scented Hot Chocolate
+                Name: 747
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocoa
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Milk  -- Chocolate  -- Orange peel  -- Espresso  -- Nutmeg  
+                Ingredients:  Kahlua  -- Baileys irish cream  -- Frangelico  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cups   -- 4 oz chopped bittersweet or semi-sweet   -- 3 2-inch strips   -- 1&#x2F;2 tsp instant   -- 1&#x2F;8 tsp ground   
+                Measures:  1&#x2F;3 part   -- 1&#x2F;3 part   -- 1&#x2F;3 part   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.
+                Instructions: pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19°C, 
+                14°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 17 May, 2021 - 24 May, 2021
-
-C++          7 hrs           ████████████▓░░░░░░░░░░░░   51.24 % 
-
-JavaScript   5 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.69 % 
-
-Text         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-
-HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
