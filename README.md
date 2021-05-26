@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Magical when it&#39;s working,  it&#39;ll feel"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;678xt11582481163.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;smb2oe1582479072.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Gin Cooler
+                Name: Abilene
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  
+                Ingredients:  Dark rum  -- Peach nectar  -- Orange juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   
+                Measures:  1 1&#x2F;2 oz   -- 2 oz   -- 3 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.
+                Instructions: Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
+                18°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 18 May, 2021 - 25 May, 2021
-
-C++          7 hrs           ████████████▓░░░░░░░░░░░░   51.24 % 
-
-JavaScript   5 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.69 % 
-
-Text         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-
-HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
