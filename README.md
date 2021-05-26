@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re an inspiration"
+                "Worthy and deserving of respect,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yvvwys1461867858.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xuxpxt1479209317.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Whisky Mac
+                Name: ACID
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Scotch  -- Wine  
+                Ingredients:  151 proof rum  -- Wild Turkey  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 oz Green Ginger   
+                Measures:  1 oz Bacardi   -- 1 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour both of the ingredients into a wine goblet with no ice.
+                Instructions: Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 18 May, 2021 - 25 May, 2021
-
-C++          10 hrs 19 mins  ███████████████▒░░░░░░░░░   60.75 % 
-
-JavaScript   5 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.32 % 
-
-Text         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-
-HTML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
