@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re doing a great job"
+                "Magical when it&#39;s working,  it&#39;ll feel"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xxsxqy1472668106.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;678xt11582481163.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 747
+                Name: Gin Cooler
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Kahlua  -- Baileys irish cream  -- Frangelico  
+                Ingredients:  Gin  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;3 part   -- 1&#x2F;3 part   -- 1&#x2F;3 part   
+                Measures:  2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!
+                Instructions: Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
+                12°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 18 May, 2021 - 25 May, 2021
-
-C++          7 hrs           ████████████▓░░░░░░░░░░░░   51.24 % 
-
-JavaScript   5 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.69 % 
-
-Text         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-
-HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
