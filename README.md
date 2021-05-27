@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Part of learning,  struggling is"
+                "It&#39;s not a mistake,It&#39;s a learning opportunity"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xwuqvw1473201811.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;nkwr4c1606770558.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bora Bora
+                Name: Long Island Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Pineapple juice  -- Passion fruit juice  -- Lemon juice  -- Grenadine  
+                Ingredients:  Vodka  -- Light rum  -- Gin  -- Tequila  -- Lemon  -- Coca-Cola  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  10 cl   -- 6 cl   -- 1 cl   -- 1 cl   
+                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- Juice of 1&#x2F;2   -- 1 splash   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.
+                Instructions: Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>broken clouds</i>
+                15°C, 
+                <i>light rain</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 19 May, 2021 - 26 May, 2021
-
-C++          10 hrs 19 mins  ███████████████▒░░░░░░░░░   60.75 % 
-
-JavaScript   5 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.32 % 
-
-Text         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-
-HTML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
