@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Worthy and deserving of respect,  you are"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xuxpxt1479209317.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uwryxx1483387873.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: ACID
+                Name: Algonquin
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  151 proof rum  -- Wild Turkey  
+                Ingredients:  Blended whiskey  -- Dry Vermouth  -- Pineapple juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz Bacardi   -- 1 oz   
+                Measures:  1 1&#x2F;2 oz   -- 1 oz   -- 1 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.
+                Instructions: Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
-                <i>broken clouds</i>
+                16°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 18 May, 2021 - 25 May, 2021
-
-C++          10 hrs 19 mins  ███████████████▒░░░░░░░░░   60.75 % 
-
-JavaScript   5 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.32 % 
-
-Text         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-
-HTML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
