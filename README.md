@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "It&#39;s not a mistake,It&#39;s a learning opportunity"
+                "Part of learning,  struggling is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;nkwr4c1606770558.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yyrwty1468877498.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Long Island Tea
+                Name: 24k nightmare
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Light rum  -- Gin  -- Tequila  -- Lemon  -- Coca-Cola  
+                Ingredients:  Goldschlager  -- Jägermeister  -- Rumple Minze  -- 151 proof rum  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- Juice of 1&#x2F;2   -- 1 splash   
+                Measures:  1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz Bacardi   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.
+                Instructions: Add over ice,shake and pour.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 19 May, 2021 - 26 May, 2021
-
-C++          21 hrs 39 mins  ██████████████████▓░░░░░░   74.42 % 
-
-JavaScript   5 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.72 % 
-
-Text         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
