@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
+                "To enjoy the journey,  don&#39;t forget"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;zvoics1504885926.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qupuyr1441210090.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Orange Crush
+                Name: Royal Bitch
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Triple sec  -- Orange juice  
+                Ingredients:  Frangelico  -- Crown Royal  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   -- 1 oz   
+                Measures:  1 part   -- 1 part   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add all ingredients to tumbler-Pour as shot
+                Instructions: Into a shot glass layer the Crown Royal on top of the Frangelico.
             </font>
         </h4>        
     </div>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 20 May, 2021 - 27 May, 2021
-
-C++          24 hrs 18 mins  ███████████████████░░░░░░   75.73 % 
-
-JavaScript   5 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-
-Text         2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
