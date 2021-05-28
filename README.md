@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "To enjoy the journey,  don&#39;t forget"
+                "You&#39;re a smart cookie"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qupuyr1441210090.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qxrvqw1472718959.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Royal Bitch
+                Name: Bailey&#39;s Dream Shake
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Soft Drink &#x2F; Soda
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Frangelico  -- Crown Royal  
+                Ingredients:  Baileys irish cream  -- Vanilla ice-cream  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 part   -- 1 part   
+                Measures:  2 oz   -- 2 scoops   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Into a shot glass layer the Crown Royal on top of the Frangelico.
+                Instructions: Blend ingredients for 30 seconds. Definitely refreshing for a hot summer&#39;s day !
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                18°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 20 May, 2021 - 27 May, 2021
-
-C++          24 hrs 18 mins  ███████████████████░░░░░░   75.73 % 
-
-JavaScript   5 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-
-Text         2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
