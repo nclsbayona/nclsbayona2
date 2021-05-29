@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re a smart cookie"
+                "You&#39;ll sort it out,  I know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qxrvqw1472718959.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wysqut1461867176.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bailey&#39;s Dream Shake
+                Name: A Gilligan&#39;s Island
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Soft Drink &#x2F; Soda
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Baileys irish cream  -- Vanilla ice-cream  
+                Ingredients:  Vodka  -- Peach schnapps  -- Orange juice  -- Cranberry juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 2 scoops   
+                Measures:  1 oz   -- 1 oz   -- 3 oz   -- 3 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Blend ingredients for 30 seconds. Definitely refreshing for a hot summer&#39;s day !
+                Instructions: Shaken, not stirred!
             </font>
         </h4>        
     </div>
@@ -213,12 +213,12 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
-                <i>broken clouds</i>
+                16°C, 
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
-                05:42 a. m.
+                05:43 a. m.
             </b> 
             and sets at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 21 May, 2021 - 28 May, 2021
-
-C++          24 hrs 18 mins  ███████████████████░░░░░░   75.73 % 
-
-JavaScript   5 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-
-Text         2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
