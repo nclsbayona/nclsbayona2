@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;ll sort it out,  I know"
+                "The first step towards being good at something,  sucking at something is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wysqut1461867176.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;43uhr51551451311.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: A Gilligan&#39;s Island
+                Name: Tequila Slammer
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Peach schnapps  -- Orange juice  -- Cranberry juice  
+                Ingredients:  Tequila  -- 7-up  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   -- 3 oz   -- 3 oz   
+                Measures:  1 shot  -- 1 part  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shaken, not stirred!
+                Instructions: Mix carefully to avoid releasing the dissolved CO2.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
+                15°C, 
                 <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 21 May, 2021 - 28 May, 2021
-
-C++          21 hrs 39 mins  ██████████████████▒░░░░░░   73.69 % 
-
-JavaScript   5 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.54 % 
-
-Text         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
