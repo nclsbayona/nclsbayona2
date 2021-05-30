@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The plan,  all you need is,The roadmap,And the courage to press on to your destination"
+                "In you,  I believe"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tsxpty1468923417.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;apneom1504370294.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Lone Tree Cocktail
+                Name: Kir
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Sweet Vermouth  -- Gin  
+                Ingredients:  Creme de Cassis  -- Champagne  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3&#x2F;4 oz   -- 1 1&#x2F;2 oz   
+                Measures:  1 part   -- 5 parts   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir ingredients with ice, strain into a cocktail glass, and serve.
+                Instructions: Add the crème de cassis to the bottom of the glass, then top up with wine.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                20°C, 
-                <i>scattered clouds</i>
+                15°C, 
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 22 May, 2021 - 29 May, 2021
-
-C++          21 hrs 39 mins  █████████████████████▒░░░   85.60 % 
-
-Text         1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-
-JavaScript   1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-
-C            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
