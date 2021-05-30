@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re a smart cookie"
+                "The plan,  all you need is,The roadmap,And the courage to press on to your destination"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qrryvq1478820428.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tsxpty1468923417.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sherry Flip
+                Name: Lone Tree Cocktail
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Sherry  -- Light cream  -- Powdered sugar  -- Egg  
+                Ingredients:  Sweet Vermouth  -- Gin  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz cream   -- 2 tsp   -- 1 tsp   -- 1 whole   
+                Measures:  3&#x2F;4 oz   -- 1 1&#x2F;2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
+                Instructions: Stir ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>broken clouds</i>
+                20°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -222,7 +222,7 @@
             </b> 
             and sets at 
             <b>
-                06:04 p. m.
+                06:05 p. m.
             </b>
             .
         </p>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 22 May, 2021 - 29 May, 2021
-
-C++          21 hrs 39 mins  ██████████████████▒░░░░░░   73.69 % 
-
-JavaScript   5 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.54 % 
-
-Text         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
