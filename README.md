@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The first step towards being good at something,  sucking at something is"
+                "You&#39;re a smart cookie"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;43uhr51551451311.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qrryvq1478820428.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Tequila Slammer
+                Name: Sherry Flip
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Tequila  -- 7-up  
+                Ingredients:  Sherry  -- Light cream  -- Powdered sugar  -- Egg  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot  -- 1 part  
+                Measures:  1 1&#x2F;2 oz cream   -- 2 tsp   -- 1 tsp   -- 1 whole   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix carefully to avoid releasing the dissolved CO2.
+                Instructions: Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>overcast clouds</i>
+                13°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 21 May, 2021 - 28 May, 2021
-
-C++          21 hrs 39 mins  ██████████████████▒░░░░░░   73.69 % 
-
-JavaScript   5 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.54 % 
-
-Text         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
