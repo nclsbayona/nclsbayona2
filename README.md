@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "It,  you can do"
+                "Learning valuable lessons from yourself every day,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;y7w0721493068255.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pfz3hz1582483111.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Arizona Stingers
+                Name: Dubonnet Cocktail
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Absolut Vodka  -- Iced tea  
+                Ingredients:  Dubonnet Rouge  -- Gin  -- Bitters  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 shots   -- 12 oz lemon   
+                Measures:  1 1&#x2F;2 oz   -- 3&#x2F;4 oz   -- 1 dash   -- 1 twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!
+                Instructions: Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                18°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,17 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 23 May, 2021 - 30 May, 2021
-
-C++     25 hrs 8 mins   ██████████████████████▓░░   91.27 % 
-
-Text    2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-
-C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
