@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "More than you think,  you know"
+                "It,  you can do"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tyb4a41515793339.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;y7w0721493068255.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bahama Mama
+                Name: Arizona Stingers
             </font>
         </h4>
         <h4>
@@ -39,19 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Rum  -- Dark Rum  -- Banana liqueur  -- Grenadine  -- Pineapple Juice  -- Orange Juice  -- Sweet and Sour  
+                Ingredients:  Absolut Vodka  -- Iced tea  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3 parts  -- 1 part  -- 1 part  -- 1 part  -- 2 parts  -- 2 parts  -- 1 part  
+                Measures:  2 shots   -- 12 oz lemon   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add 2 parts club soda or more or less to taste.
-
-Mix it all together and pour over a bunch of ice. Drink with a straw.
+                Instructions: Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!
             </font>
         </h4>        
     </div>
@@ -215,8 +213,8 @@ Mix it all together and pour over a bunch of ice. Drink with a straw.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>scattered clouds</i>
+                17°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -250,21 +248,7 @@ Mix it all together and pour over a bunch of ice. Drink with a straw.
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 23 May, 2021 - 30 May, 2021
-
-C++          21 hrs 39 mins  █████████████████████▒░░░   85.60 % 
-
-Text         1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-
-JavaScript   1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-
-C            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
