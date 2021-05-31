@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "In you,  I believe"
+                "More than you think,  you know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;apneom1504370294.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tyb4a41515793339.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Kir
+                Name: Bahama Mama
             </font>
         </h4>
         <h4>
@@ -34,22 +34,24 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Creme de Cassis  -- Champagne  
+                Ingredients:  Rum  -- Dark Rum  -- Banana liqueur  -- Grenadine  -- Pineapple Juice  -- Orange Juice  -- Sweet and Sour  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 part   -- 5 parts   
+                Measures:  3 parts  -- 1 part  -- 1 part  -- 1 part  -- 2 parts  -- 2 parts  -- 1 part  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add the crème de cassis to the bottom of the glass, then top up with wine.
+                Instructions: Add 2 parts club soda or more or less to taste.
+
+Mix it all together and pour over a bunch of ice. Drink with a straw.
             </font>
         </h4>        
     </div>
@@ -213,8 +215,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>overcast clouds</i>
+                13°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +250,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 22 May, 2021 - 29 May, 2021
-
-C++          21 hrs 39 mins  █████████████████████▒░░░   85.60 % 
-
-Text         1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-
-JavaScript   1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-
-C            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
