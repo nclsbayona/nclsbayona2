@@ -250,7 +250,21 @@ Mix it all together and pour over a bunch of ice. Drink with a straw.
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+Week: 23 May, 2021 - 30 May, 2021
+
+C++          21 hrs 39 mins  █████████████████████▒░░░   85.60 % 
+
+Text         1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+
+JavaScript   1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+
+HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+
+C            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+
+<!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
