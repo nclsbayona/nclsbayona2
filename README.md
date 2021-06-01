@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re learning,  struggling means"
+                "A capable human,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jqh2141572807327.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uwqpvv1461866378.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Gin Basil Smash
+                Name: Bumble Bee
             </font>
         </h4>
         <h4>
@@ -34,23 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Lemon Juice  -- Sugar Syrup  -- Basil  --   --   --   
+                Ingredients:  Baileys irish cream  -- Kahlua  -- Sambuca  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  6 cl  -- 2 cl  -- 2 cl  -- Whole  --   --   --   
+                Measures:  1&#x2F;3 oz   -- 1&#x2F;3 oz   -- 1&#x2F;3 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
-Filter and serve in a tumbler with ice
+                Instructions: This is a layered shot. First pour the Bailey&#39;s into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!
             </font>
         </h4>        
     </div>
@@ -214,8 +213,8 @@ Filter and serve in a tumbler with ice
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>drizzle</i>
+                17°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -249,17 +248,7 @@ Filter and serve in a tumbler with ice
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 24 May, 2021 - 31 May, 2021
-
-C++     25 hrs 8 mins   ██████████████████████▓░░   91.27 % 
-
-Text    2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-
-C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
