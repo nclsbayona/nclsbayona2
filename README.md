@@ -251,7 +251,17 @@ Tastes like an oatmeal cookie.
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+Week: 24 May, 2021 - 31 May, 2021
+
+C++     24 hrs 41 mins  ███████████████████████▒░   92.80 % 
+
+Text    1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+
+C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+
+<!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
