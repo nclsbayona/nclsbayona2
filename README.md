@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Learning valuable lessons from yourself every day,  you are"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pfz3hz1582483111.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jqh2141572807327.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Dubonnet Cocktail
+                Name: Gin Basil Smash
             </font>
         </h4>
         <h4>
@@ -34,22 +34,23 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Dubonnet Rouge  -- Gin  -- Bitters  -- Lemon peel  
+                Ingredients:  Gin  -- Lemon Juice  -- Sugar Syrup  -- Basil  --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 3&#x2F;4 oz   -- 1 dash   -- 1 twist of   
+                Measures:  6 cl  -- 2 cl  -- 2 cl  -- Whole  --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.
+                Instructions: Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
+Filter and serve in a tumbler with ice
             </font>
         </h4>        
     </div>
@@ -213,8 +214,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
-                <i>broken clouds</i>
+                13°C, 
+                <i>drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,17 +249,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 23 May, 2021 - 30 May, 2021
-
-C++     25 hrs 8 mins   ██████████████████████▓░░   91.27 % 
-
-Text    2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-
-C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
