@@ -249,7 +249,17 @@ Filter and serve in a tumbler with ice
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+Week: 24 May, 2021 - 31 May, 2021
+
+C++     25 hrs 8 mins   ██████████████████████▓░░   91.27 % 
+
+Text    2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+
+C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+
+<!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
