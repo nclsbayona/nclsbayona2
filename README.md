@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "If you find flaws in your past creations,  don&#39;t worry,It&#39;s because you&#39;ve evolved"
+                "It out,  you&#39;ll figure"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;bsvmlg1515792693.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;709s6m1613655124.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Oatmeal Cookie
+                Name: Americano
             </font>
         </h4>
         <h4>
@@ -34,25 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Kahlua  -- Bailey  -- Butterscotch schnapps  -- Jagermeister  -- Goldschlager  
+                Ingredients:  Campari  -- Sweet Vermouth  -- Lemon peel  -- Orange peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 parts  -- 2 parts  -- 4 parts  -- 1 part  -- 1&#x2F;2 part  
+                Measures:  1 oz   -- 1 oz red   -- Twist of   -- Twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Just mix it all together.
-It&#39;s meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
-
-Tastes like an oatmeal cookie.
+                Instructions: Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.
             </font>
         </h4>        
     </div>
@@ -216,7 +213,7 @@ Tastes like an oatmeal cookie.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19°C, 
+                14°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
@@ -251,17 +248,7 @@ Tastes like an oatmeal cookie.
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 24 May, 2021 - 31 May, 2021
-
-C++     24 hrs 41 mins  ███████████████████████▒░   92.80 % 
-
-Text    1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-
-C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
