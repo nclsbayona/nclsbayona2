@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re a smart cookie"
+                "Part of learning,  struggling is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vqws6t1504888857.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;urpyqs1439907531.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Rum Runner
+                Name: Mississippi Planters Punch
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Malibu rum  -- Blackberry brandy  -- Orange juice  -- Pineapple juice  -- Cranberry juice  
+                Ingredients:  Brandy  -- Light rum  -- Bourbon  -- Lemon  -- Powdered sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 oz   -- 3-4 oz   -- 3-4 oz   -- 3-4 oz   
+                Measures:  1 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- Juice of 1&#x2F;2  -- 1 tblsp  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix all ingredients in glass &amp; add ice.
+                Instructions: Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
-                <i>few clouds</i>
+                20°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,17 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 25 May, 2021 - 01 June, 2021
-
-C++     21 hrs 22 mins  ██████████████████████▓░░   90.05 % 
-
-Text    2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-
-C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
