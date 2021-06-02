@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "It out,  you&#39;ll figure"
+                "You&#39;re a smart cookie"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;709s6m1613655124.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vqws6t1504888857.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Americano
+                Name: Rum Runner
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Campari  -- Sweet Vermouth  -- Lemon peel  -- Orange peel  
+                Ingredients:  Malibu rum  -- Blackberry brandy  -- Orange juice  -- Pineapple juice  -- Cranberry juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz red   -- Twist of   -- Twist of   
+                Measures:  1 1&#x2F;2 oz   -- 1 oz   -- 3-4 oz   -- 3-4 oz   -- 3-4 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.
+                Instructions: Mix all ingredients in glass &amp; add ice.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>scattered clouds</i>
+                18°C, 
+                <i>few clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,17 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 25 May, 2021 - 01 June, 2021
-
-C++     24 hrs 41 mins  ███████████████████████▒░   92.80 % 
-
-Text    1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-
-C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
