@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "To take massive,  the path to success is,Determined action"
+                "You for taking this on,  I admire"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uxxtrt1472667197.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pra8vt1487603054.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Absinthe #2
+                Name: Spanish chocolate
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Homemade Liqueur
+                Category: Cocoa
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Sugar  -- Anise  -- Licorice root  -- Wormwood  
+                Ingredients:  Milk  -- Chocolate  -- Cinnamon  -- Egg yolk  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 bottle   -- 50 gr   -- 50 ml pure   -- 1 tblsp   -- 1   
+                Measures:  2 cups   -- 2 oz sweet   -- 1&#x2F;2 tsp   -- 2 beaten   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.
+                Instructions: Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                18°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 May, 2021 - 02 June, 2021
-
-C++     10 hrs 58 mins  ████████████████████▓░░░░   83.03 % 
-
-Text    1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-
-Java    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-HTML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
