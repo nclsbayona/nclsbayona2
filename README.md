@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not cowardice,  the opposite of courage in our society is...Conformity,  it is"
+                "To take massive,  the path to success is,Determined action"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xz8igv1504888995.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uxxtrt1472667197.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Radler
+                Name: Absinthe #2
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Homemade Liqueur
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Beer  -- 7-Up  
+                Ingredients:  Vodka  -- Sugar  -- Anise  -- Licorice root  -- Wormwood  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  12 oz   -- 12 oz   
+                Measures:  1 bottle   -- 50 gr   -- 50 ml pure   -- 1 tblsp   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour beer into large mug, slowly add the 7-up (or Sprite).
+                Instructions: Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
+                17°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,17 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 May, 2021 - 02 June, 2021
-
-C++     21 hrs 22 mins  ██████████████████████▓░░   90.05 % 
-
-Text    2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-
-C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
