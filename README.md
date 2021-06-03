@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Part of learning,  struggling is"
+                "Not cowardice,  the opposite of courage in our society is...Conformity,  it is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;urpyqs1439907531.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xz8igv1504888995.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Mississippi Planters Punch
+                Name: Radler
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Brandy  -- Light rum  -- Bourbon  -- Lemon  -- Powdered sugar  
+                Ingredients:  Beer  -- 7-Up  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- Juice of 1&#x2F;2  -- 1 tblsp  
+                Measures:  12 oz   -- 12 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.
+                Instructions: Pour beer into large mug, slowly add the 7-up (or Sprite).
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                20°C, 
+                14°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,17 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 25 May, 2021 - 01 June, 2021
-
-C++     21 hrs 22 mins  ██████████████████████▓░░   90.05 % 
-
-Text    2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-
-C       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
