@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "In you,  I believe"
+                "To take massive,  the path to success is,Determined action"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;m5p67n1582474609.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;noxp7e1606769224.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Banana Cream Pi
+                Name: Gin Sour
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Malibu Rum  -- Banana Liqueur  -- Pineapple Juice  --   --   --   --   
+                Ingredients:  Gin  -- Lemon juice  -- Sugar  -- Orange  -- Maraschino cherry  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz  -- 1 oz  -- Top  --   --   --   --   
+                Measures:  2 oz   -- 1 oz   -- 1&#x2F;2 tsp superfine   -- 1   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Serve over ice.
+                Instructions: In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>broken clouds</i>
+                19°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -222,7 +222,7 @@
             </b> 
             and sets at 
             <b>
-                06:05 p. m.
+                06:06 p. m.
             </b>
             .
         </p>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 May, 2021 - 03 June, 2021
-
-C++     10 hrs 58 mins  ████████████████████▓░░░░   83.03 % 
-
-Text    1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-
-Java    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-HTML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
