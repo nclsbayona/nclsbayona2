@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You for taking this on,  I admire"
+                "In you,  I believe"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pra8vt1487603054.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;m5p67n1582474609.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Spanish chocolate
+                Name: Banana Cream Pi
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocoa
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Milk  -- Chocolate  -- Cinnamon  -- Egg yolk  
+                Ingredients:  Malibu Rum  -- Banana Liqueur  -- Pineapple Juice  --   --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cups   -- 2 oz sweet   -- 1&#x2F;2 tsp   -- 2 beaten   
+                Measures:  1 oz  -- 1 oz  -- Top  --   --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.
+                Instructions: Serve over ice.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
+                15°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 26 May, 2021 - 02 June, 2021
-
-C++     10 hrs 58 mins  ████████████████████▓░░░░   83.03 % 
-
-Text    1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-
-Java    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-HTML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
