@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The progressive realization of a worthy goal,  success is"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yrhutv1503563730.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;2mcozt1504817403.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Irish Curdling Cow
+                Name: Abbey Martini
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Baileys irish cream  -- Bourbon  -- Vodka  -- Orange juice  
+                Ingredients:  Gin  -- Sweet Vermouth  -- Orange Juice  -- Angostura Bitters  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3&#x2F;4 oz   -- 3&#x2F;4 oz   -- 3&#x2F;4 oz   -- 2-3 oz   
+                Measures:  2 shots   -- 1 shot   -- 1 shot   -- 3 dashes   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.
+                Instructions: Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                20°C, 
-                <i>scattered clouds</i>
+                11°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 27 May, 2021 - 03 June, 2021
-
-C++     8 hrs 19 mins   ████████████████████▒░░░░   81.43 % 
-
-Text    1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-
-Java    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-
-HTML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
