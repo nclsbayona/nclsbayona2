@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;n0sx531504372951.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;59splc1504882899.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Espresso Martini
+                Name: Havana Cocktail
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Kahlua  -- Sugar syrup  
+                Ingredients:  Light rum  -- Pineapple juice  -- Lemon juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  5 cl  -- 1 cl  -- 1 dash  
+                Measures:  1 oz   -- 1 oz   -- 1 tsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass
+                Instructions: In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
             </font>
         </h4>        
     </div>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 28 May, 2021 - 04 June, 2021
-
-C++     7 hrs 56 mins   ████████████████████▒░░░░   80.71 % 
-
-Text    1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-
-Java    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-
-HTML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
