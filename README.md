@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re learning,  struggling means"
+                "You&#39;re an inspiration"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;2mcozt1504817403.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;n0sx531504372951.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Abbey Martini
+                Name: Espresso Martini
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Sweet Vermouth  -- Orange Juice  -- Angostura Bitters  
+                Ingredients:  Vodka  -- Kahlua  -- Sugar syrup  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 shots   -- 1 shot   -- 1 shot   -- 3 dashes   
+                Measures:  5 cl  -- 1 cl  -- 1 dash  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.
+                Instructions: Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                11°C, 
+                17°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 28 May, 2021 - 04 June, 2021
-
-C++     8 hrs 19 mins   ████████████████████▒░░░░   81.43 % 
-
-Text    1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-
-Java    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-
-HTML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
