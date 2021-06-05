@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re an inspiration"
+                "Still progress,  small progress is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;59splc1504882899.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;kpsajh1504368362.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Havana Cocktail
+                Name: Cosmopolitan
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Light rum  -- Pineapple juice  -- Lemon juice  
+                Ingredients:  Absolut Citron  -- Lime juice  -- Cointreau  -- Cranberry juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   -- 1 tsp   
+                Measures:  1 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 oz   -- 1&#x2F;4 cup   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
+                Instructions: Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
-                <i>broken clouds</i>
+                20°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,19 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 28 May, 2021 - 04 June, 2021
-
-C++     7 hrs 56 mins   ████████████████████▒░░░░   80.71 % 
-
-Text    1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-
-Java    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-
-HTML    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
