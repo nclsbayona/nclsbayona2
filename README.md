@@ -8,11 +8,11 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You less capable,  mistakes don&#39;t make"
+                "In you,  I believe"
             </i>
             <(-_-)>
         </h5>
-        <img src="https://i.redd.it/ccew7mn13v141.jpg">
+        <!--This is a Yoda Image img src="https://i.redd.it/ccew7mn13v141.jpg"-->
     </div>
     <hr>
     <div id="drink">
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;n0sx531504372951.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jylbrq1582580066.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Espresso Martini
+                Name: Belgian Blue
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Soft Drink &#x2F; Soda
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Kahlua  -- Sugar syrup  
+                Ingredients:  Vodka  -- Coconut liqueur  -- Blue Curacao  -- Sprite  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  5 cl  -- 1 cl  -- 1 dash  
+                Measures:  2 cl   -- 1 cl   -- 1 cl   -- Fill with   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass
+                Instructions: Just pour all ingredients in the glass and stir...
             </font>
         </h4>        
     </div>
@@ -144,15 +144,15 @@
                 General GitHub Stats 🌀
             </font>
         </h4>
-        <!--h5>
+        <h5>
             <font color="#679000">
                 😃 General Overview
             </font>
         </h5>
-        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats"-->
+        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
         <h5>
             <font color="#679000">
-                😃 Life-Time Stats Overview
+                Life-Time Stats Overview 🤪
             </font>
         </h5>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
-                <i>light intensity drizzle</i>
+                16°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -222,7 +222,7 @@
             </b> 
             and sets at 
             <b>
-                06:01 p. m.
+                06:06 p. m.
             </b>
             .
         </p>
@@ -249,17 +249,17 @@
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
 
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 May, 2021 - 05 June, 2021
 
-C++          7 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 % 
+C++          7 hrs 56 mins   ██████████████████▓░░░░░░   74.73 % 
 
-JavaScript   5 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
+Text         1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 
-Other        4 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+JavaScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
-YAML         2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Java         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
-Markdown     2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 
 <!--END_SECTION:waka-->
