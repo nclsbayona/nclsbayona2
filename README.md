@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Easy you&#39;d be bored,  if everything was"
+                "The plan,  all you need is,The roadmap,And the courage to press on to your destination"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wsyryt1483387720.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rrtssw1472668972.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Alaska Cocktail
+                Name: 3-Mile Long Island Iced Tea
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Orange bitters  -- Gin  -- Yellow Chartreuse  -- Lemon peel  
+                Ingredients:  Gin  -- Light rum  -- Tequila  -- Triple sec  -- Vodka  -- Coca-Cola  -- Sweet and sour  -- Bitters  -- Lemon  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 dashes   -- 1 1&#x2F;2 oz   -- 3&#x2F;4 oz   -- Twist of   
+                Measures:  1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1-2 dash   -- 1 wedge   -- Garnish with  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.
+                Instructions: Fill 14oz glass with ice and alcohol. Fill 2&#x2F;3 glass with cola and remainder with sweet &amp; sour. Top with dash of bitters and lemon wedge.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>light intensity drizzle</i>
+                13°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
