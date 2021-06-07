@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "In you,  I believe"
+                "Easy you&#39;d be bored,  if everything was"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jylbrq1582580066.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wsyryt1483387720.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Belgian Blue
+                Name: Alaska Cocktail
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Soft Drink &#x2F; Soda
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Coconut liqueur  -- Blue Curacao  -- Sprite  
+                Ingredients:  Orange bitters  -- Gin  -- Yellow Chartreuse  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cl   -- 1 cl   -- 1 cl   -- Fill with   
+                Measures:  2 dashes   -- 1 1&#x2F;2 oz   -- 3&#x2F;4 oz   -- Twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Just pour all ingredients in the glass and stir...
+                Instructions: Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
-                <i>broken clouds</i>
+                15°C, 
+                <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -248,21 +248,7 @@
     </div>
     <!--Credits to @athul-->
     <!--START_SECTION:waka-->
-
-Week: 29 May, 2021 - 05 June, 2021
-
-C++          7 hrs 56 mins   ██████████████████▓░░░░░░   74.73 % 
-
-Text         1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-
-JavaScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-
-Java         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <hr>
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
