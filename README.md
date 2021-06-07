@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The plan,  all you need is,The roadmap,And the courage to press on to your destination"
+                "You less capable,  mistakes don&#39;t make"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rrtssw1472668972.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vtyqrt1461866508.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 3-Mile Long Island Iced Tea
+                Name: Dirty Nipple
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Light rum  -- Tequila  -- Triple sec  -- Vodka  -- Coca-Cola  -- Sweet and sour  -- Bitters  -- Lemon  
+                Ingredients: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1&#x2F;2 oz  -- 1-2 dash   -- 1 wedge   -- Garnish with  
+                Measures: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill 14oz glass with ice and alcohol. Fill 2&#x2F;3 glass with cola and remainder with sweet &amp; sour. Top with dash of bitters and lemon wedge.
+                Instructions: This is a layered shot - the Bailey&#39;s must be on top
             </font>
         </h4>        
     </div>
@@ -213,12 +213,12 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
+                16°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
-                05:43 a. m.
+                05:44 a. m.
             </b> 
             and sets at 
             <b>
