@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "About to be incredible,  your life is"
+                "You&#39;ll sort it out,  I know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;samm5j1513706393.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7onfhz1493067921.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Paloma
+                Name: Arthur Tompkins
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Grape Soda  -- Tequila  
+                Ingredients:  Gin  -- Grand Marnier  -- Lemon juice  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3 oz  -- 1 1&#x2F;2 oz  
+                Measures:  2 oz   -- 1&#x2F;2 oz   -- 2 tsp   -- 1 twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir together and serve over ice.
+                Instructions: In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 13°C, 
-                <i>overcast clouds</i>
+                <i>light rain</i>
             </b>
             Today, the sun rises at 
             <b>
