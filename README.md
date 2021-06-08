@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Still progress,  small progress is"
+                "About to be incredible,  your life is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vrprxu1441553844.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;samm5j1513706393.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Port Wine Flip
+                Name: Paloma
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Port  -- Light cream  -- Powdered sugar  -- Egg  
+                Ingredients:  Grape Soda  -- Tequila  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 2 tsp   -- 1 tsp   -- 1 whole   
+                Measures:  3 oz  -- 1 1&#x2F;2 oz  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
+                Instructions: Stir together and serve over ice.
             </font>
         </h4>        
     </div>
