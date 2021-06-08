@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "In you,  I believe"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,15 +21,15 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tqxyxx1472719737.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xwqvur1468876473.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: A Piece of Ass
+                Name: Apple Berry Smoothie
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Amaretto  -- Southern Comfort  -- Ice  
+                Ingredients:  Berries  -- Apple  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot   -- 1 shot   -- cubes  
+                Measures:  1 cup   -- 2   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put ice in glass. Pour in shots. Fill with Sour Mix.
+                Instructions: Throw everything into a blender and liquify.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
-                <i>broken clouds</i>
+                15°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
