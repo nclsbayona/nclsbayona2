@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "I &#39;m rooting for you"
+                "Still progress,  small progress is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;w8cxqv1582485254.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vrprxu1441553844.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Classic Old-Fashioned
+                Name: Port Wine Flip
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Bitters  -- Water  -- Sugar  -- Bourbon  -- Orange  -- Maraschino cherry  
+                Ingredients:  Port  -- Light cream  -- Powdered sugar  -- Egg  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3 dashes   -- 1 tsp   -- 1   -- 3 oz   -- 1   -- 1   
+                Measures:  1 1&#x2F;2 oz   -- 2 tsp   -- 1 tsp   -- 1 whole   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick.
+                Instructions: Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 13°C, 
-                <i>scattered clouds</i>
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
