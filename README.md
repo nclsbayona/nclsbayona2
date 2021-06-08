@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re learning,  struggling means"
+                "I &#39;m rooting for you"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xwqvur1468876473.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;w8cxqv1582485254.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Apple Berry Smoothie
+                Name: Classic Old-Fashioned
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other&#x2F;Unknown
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Berries  -- Apple  
+                Ingredients:  Bitters  -- Water  -- Sugar  -- Bourbon  -- Orange  -- Maraschino cherry  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 cup   -- 2   
+                Measures:  3 dashes   -- 1 tsp   -- 1   -- 3 oz   -- 1   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Throw everything into a blender and liquify.
+                Instructions: In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
+                13°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
