@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;fs6kiq1513708455.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vsrupw1472405732.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Martinez 2
+                Name: White Russian
             </font>
         </h4>
         <h4>
@@ -34,24 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Sweet Vermouth  -- Maraschino Liqueur  -- Angostura Bitters  
+                Ingredients:  Vodka  -- Coffee liqueur  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz  -- 1 1&#x2F;2 oz  -- 1 tsp  -- 2 dashes  
+                Measures:  2 oz   -- 1 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add all ingredients to a mixing glass and fill with ice.
-
-Stir until chilled, and strain into a chilled coupe glass.
+                Instructions: Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.
             </font>
         </h4>        
     </div>
