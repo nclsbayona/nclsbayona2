@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;ll sort it out,  I know"
+                "You&#39;re resourceful and clever"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7onfhz1493067921.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xtuyqv1472669026.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Arthur Tompkins
+                Name: 410 Gone
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Grand Marnier  -- Lemon juice  -- Lemon peel  
+                Ingredients:  Peach Vodka  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 1&#x2F;2 oz   -- 2 tsp   -- 1 twist of   
+                Measures:  2-3 oz  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.
+                Instructions: 
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>light rain</i>
+                12°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
