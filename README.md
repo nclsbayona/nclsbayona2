@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not a sprint,  it is,A marathon,  it is.One step at a time"
+                "More than you think,  you know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jgvn7p1582484435.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;fs6kiq1513708455.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Caipirinha
+                Name: Martinez 2
             </font>
         </h4>
         <h4>
@@ -34,22 +34,24 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Sugar  -- Lime  -- Cachaca  
+                Ingredients:  Gin  -- Sweet Vermouth  -- Maraschino Liqueur  -- Angostura Bitters  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 tsp  -- 1   -- 2 1&#x2F;2 oz   
+                Measures:  1 1&#x2F;2 oz  -- 1 1&#x2F;2 oz  -- 1 tsp  -- 2 dashes  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça.
+                Instructions: Add all ingredients to a mixing glass and fill with ice.
+
+Stir until chilled, and strain into a chilled coupe glass.
             </font>
         </h4>        
     </div>
@@ -213,8 +215,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                10°C, 
-                <i>overcast clouds</i>
+                15°C, 
+                <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -222,7 +224,7 @@
             </b> 
             and sets at 
             <b>
-                06:06 p. m.
+                06:07 p. m.
             </b>
             .
         </p>
