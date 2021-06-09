@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re resourceful and clever"
+                "Not a sprint,  it is,A marathon,  it is.One step at a time"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xtuyqv1472669026.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jgvn7p1582484435.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 410 Gone
+                Name: Caipirinha
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Peach Vodka  
+                Ingredients:  Sugar  -- Lime  -- Cachaca  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2-3 oz  
+                Measures:  2 tsp  -- 1   -- 2 1&#x2F;2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: 
+                Instructions: Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
-                <i>broken clouds</i>
+                10°C, 
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
