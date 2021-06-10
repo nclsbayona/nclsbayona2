@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Full of brilliant ideas,  your mind is"
+                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sot8v41504884783.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;lnjoc81619696191.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Irish Spring
+                Name: Pink Moon
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Irish whiskey  -- Peach brandy  -- Orange juice  -- Sweet and sour  -- Orange  -- Cherry  
+                Ingredients:  Gin  -- Coconut Liqueur  -- Elderflower cordial  -- Lime Juice  -- Blackberries  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1&#x2F;2 oz   -- 1 oz   -- 1 oz   -- 1 slice   -- 1   
+                Measures:  1 shot  -- 1 shot  -- 25 ml  -- 30 ml  -- Garnish with  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve.
+                Instructions: Slowly shake in a shaker with ice, strain into a square whiskey glass. Top with fresh ice. Add the blackberries to garnish. Add flowers and a green leaf for a special look!
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>broken clouds</i>
+                14°C, 
+                <i>light rain</i>
             </b>
             Today, the sun rises at 
             <b>
