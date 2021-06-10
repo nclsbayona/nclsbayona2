@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Full of brilliant ideas,  your mind is"
+                "You&#39;ll sort it out,  I know"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;l9tgru1551439725.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vqwryq1441245927.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Slippery Nipple
+                Name: Frappé
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Sambuca  -- Irish cream  
+                Ingredients:  Coffee  -- Milk  -- Sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 part  -- 1 part  
+                Measures:  1&#x2F;2 cup black   -- 1&#x2F;2 cup   -- 1-2 tsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.
+                Instructions: Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw. Notes: This works best if everything is cold (if you make fresh coffee, mix it with the milk and let it sit in the fridge for 1&#x2F;2 hour. If it is not frothy, add more milk, or even just some more milk powder. The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1&#x2F;2 hour, with more iced coffee continually appearing at the bottom. Very refreshing.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
-                <i>overcast clouds</i>
+                13°C, 
+                <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
