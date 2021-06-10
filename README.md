@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "It out,  you&#39;ll figure"
+                "Full of brilliant ideas,  your mind is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;wywrtw1472720227.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sot8v41504884783.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Baby Eskimo
+                Name: Irish Spring
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Milk &#x2F; Float &#x2F; Shake
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Kahlua  -- Milk  -- Vanilla ice-cream  
+                Ingredients:  Irish whiskey  -- Peach brandy  -- Orange juice  -- Sweet and sour  -- Orange  -- Cherry  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 8 oz   -- 2 scoops   
+                Measures:  1 oz   -- 1&#x2F;2 oz   -- 1 oz   -- 1 oz   -- 1 slice   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.
+                Instructions: Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve.
             </font>
         </h4>        
     </div>
