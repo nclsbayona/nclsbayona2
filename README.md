@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Learning valuable lessons from yourself every day,  you are"
+                "A difference in the world by simply existing in it,  you make"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;y36z8c1503563911.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xuxpxt1479209317.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Downshift
+                Name: ACID
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Fruit punch  -- Sprite  -- Tequila  -- 151 proof rum  
+                Ingredients:  151 proof rum  -- Wild Turkey  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 part   -- 1 part   -- 2 shots   -- Float Bacardi   
+                Measures:  1 oz Bacardi   -- 1 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.
+                Instructions: Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.
             </font>
         </h4>        
     </div>
