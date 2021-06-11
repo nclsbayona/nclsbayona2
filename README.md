@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A difference in the world by simply existing in it,  you make"
+                "Not a sprint,  it is,A marathon,  it is.One step at a time"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xuxpxt1479209317.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7oyrj91504884412.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: ACID
+                Name: Frozen Daiquiri
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  151 proof rum  -- Wild Turkey  
+                Ingredients:  Light rum  -- Triple sec  -- Lime juice  -- Sugar  -- Cherry  -- Ice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz Bacardi   -- 1 oz   
+                Measures:  1 1&#x2F;2 oz   -- 1 tblsp   -- 1 1&#x2F;2 oz   -- 1 tsp   -- 1   -- 1 cup crushed   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.
+                Instructions: Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>overcast clouds</i>
+                17°C, 
+                <i>few clouds</i>
             </b>
             Today, the sun rises at 
             <b>
