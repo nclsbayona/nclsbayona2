@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not a sprint,  it is,A marathon,  it is.One step at a time"
+                "The most difficult step - but you can do it,  starting is"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7oyrj91504884412.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ytprxy1454513855.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Frozen Daiquiri
+                Name: Iced Coffee
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Light rum  -- Triple sec  -- Lime juice  -- Sugar  -- Cherry  -- Ice  
+                Ingredients:  Coffee  -- Sugar  -- Water  -- Milk  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 tblsp   -- 1 1&#x2F;2 oz   -- 1 tsp   -- 1   -- 1 cup crushed   
+                Measures:  1&#x2F;4 cup instant   -- 1&#x2F;4 cup   -- 1&#x2F;4 cup hot   -- 4 cups cold   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.
+                Instructions: Mix together until coffee and sugar is dissolved. Add milk. Shake well. Using a blender or milk shake maker produces a very foamy drink. Serve in coffee mug.
             </font>
         </h4>        
     </div>
