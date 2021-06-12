@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Cracks - that&#39;s how the light gets in,  everything has"
+                "Just another way to learn how to do something right,  failure is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;91oule1513702624.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;urpyqs1439907531.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: The Last Word
+                Name: Mississippi Planters Punch
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Green Chartreuse  -- Maraschino Liqueur  -- Lime Juice  
+                Ingredients:  Brandy  -- Light rum  -- Bourbon  -- Lemon  -- Powdered sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz  -- 1 oz  -- 1 oz  
+                Measures:  1 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- Juice of 1&#x2F;2  -- 1 tblsp  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake with ice and strain into a cocktail glass.
+                Instructions: Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19°C, 
-                <i>few clouds</i>
+                13°C, 
+                <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
