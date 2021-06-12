@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Just another way to learn how to do something right,  failure is"
+                "Not equal the future,  the past does"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;urpyqs1439907531.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;svsxsv1454511666.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Mississippi Planters Punch
+                Name: Caribbean Boilermaker
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Beer
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Brandy  -- Light rum  -- Bourbon  -- Lemon  -- Powdered sugar  
+                Ingredients:  Corona  -- Light rum  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- Juice of 1&#x2F;2  -- 1 tblsp  
+                Measures:  1 bottle   -- 1 shot   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.
+                Instructions: Pour the Corona into an 18oz beer glass pour the rum into the beer.
             </font>
         </h4>        
     </div>
