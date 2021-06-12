@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not equal the future,  the past does"
+                "Magical when it&#39;s working,  it&#39;ll feel"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;svsxsv1454511666.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;upxxpq1439907580.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Caribbean Boilermaker
+                Name: Cosmopolitan Martini
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Beer
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Corona  -- Light rum  
+                Ingredients:  Cointreau  -- Vodka  -- Lime  -- Cranberry juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 bottle   -- 1 shot   
+                Measures:  1&#x2F;2 oz   -- 1 oz   -- Juice of 1&#x2F;2   -- 1 splash   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour the Corona into an 18oz beer glass pour the rum into the beer.
+                Instructions: Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13°C, 
-                <i>light intensity drizzle</i>
+                17°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
