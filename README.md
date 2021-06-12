@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pg8iw31593351601.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yqvvqs1475667388.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Pineapple Paloma
+                Name: 155 Belmont
             </font>
         </h4>
         <h4>
@@ -39,20 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Tequila  -- Grapefruit Juice  -- Fresh Lime Juice  -- Pineapple Juice  -- Lime  -- Pepper  --   
+                Ingredients:  Dark rum  -- Light rum  -- Vodka  -- Orange juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4 oz  -- 4 oz  -- 1 oz  -- 8 oz  -- Garnish with  -- Rimmed  --   
+                Measures:  1 shot   -- 2 shots   -- 1 shot   -- 1 shot   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Rub the rim of each glass with lime slice and dip into salt.
-Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
-Give it a quick stir.
-Garnish with fresh pineapple or lime.
+                Instructions: Blend with ice. Serve in a wine glass. Garnish with carrot.
             </font>
         </h4>        
     </div>
@@ -216,7 +213,7 @@ Garnish with fresh pineapple or lime.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
+                18°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
