@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Magical when it&#39;s working,  it&#39;ll feel"
+                "If you find flaws in your past creations,  don&#39;t worry,It&#39;s because you&#39;ve evolved"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;upxxpq1439907580.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;utpxxq1483388370.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Cosmopolitan Martini
+                Name: Amaretto Mist
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Cointreau  -- Vodka  -- Lime  -- Cranberry juice  
+                Ingredients:  Amaretto  -- Lime  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 oz   -- 1 oz   -- Juice of 1&#x2F;2   -- 1 splash   
+                Measures:  1 1&#x2F;2 oz   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.
+                Instructions: Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)
             </font>
         </h4>        
     </div>
