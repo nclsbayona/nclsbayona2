@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "If you find flaws in your past creations,  don&#39;t worry,It&#39;s because you&#39;ve evolved"
+                "You for taking this on,  I admire"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;utpxxq1483388370.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pg8iw31593351601.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto Mist
+                Name: Pineapple Paloma
             </font>
         </h4>
         <h4>
@@ -34,22 +34,25 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Amaretto  -- Lime  
+                Ingredients:  Tequila  -- Grapefruit Juice  -- Fresh Lime Juice  -- Pineapple Juice  -- Lime  -- Pepper  --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1   
+                Measures:  4 oz  -- 4 oz  -- 1 oz  -- 8 oz  -- Garnish with  -- Rimmed  --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)
+                Instructions: Rub the rim of each glass with lime slice and dip into salt.
+Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
+Give it a quick stir.
+Garnish with fresh pineapple or lime.
             </font>
         </h4>        
     </div>
