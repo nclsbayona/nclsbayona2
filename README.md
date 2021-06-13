@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Cracks - that&#39;s how the light gets in,  everything has"
+                "You&#39;re an inspiration"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;eg9i1d1487603469.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yswuwp1469090992.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Pineapple Gingerale Smoothie
+                Name: Ipamena
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other&#x2F;Unknown
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Ginger  -- Pineapple  
+                Ingredients:  Lime  -- Brown sugar  -- Passion fruit juice  -- Ginger ale  -- Ice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;4 inch   -- 1&#x2F;2   
+                Measures:  ½  -- 2 tsp  -- 4 cl  -- top up with  -- fill  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Throw everything into a blender and liquify.
+                Instructions: Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
+                16°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
@@ -222,7 +222,7 @@
             </b> 
             and sets at 
             <b>
-                06:07 p. m.
+                06:08 p. m.
             </b>
             .
         </p>
