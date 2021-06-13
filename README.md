@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You for taking this on,  I admire"
+                "Part of learning,  struggling is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yqvvqs1475667388.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vruvtp1472719895.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 155 Belmont
+                Name: Stone Sour
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Dark rum  -- Light rum  -- Vodka  -- Orange juice  
+                Ingredients:  Apricot brandy  -- Orange juice  -- Sweet and sour  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot   -- 2 shots   -- 1 shot   -- 1 shot   
+                Measures:  1 oz   -- 1 oz   -- 1 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Blend with ice. Serve in a wine glass. Garnish with carrot.
+                Instructions: Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18°C, 
+                14°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
