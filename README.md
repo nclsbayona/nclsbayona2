@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Still progress,  small progress is"
+                "You&#39;re resourceful and clever"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xxyywq1454511117.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xxtxsu1472720505.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 110 in the shade
+                Name: Black Forest Shake
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Beer
+                Category: Milk &#x2F; Float &#x2F; Shake
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Lager  -- Tequila  
+                Ingredients:  Ice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  16 oz   -- 1.5 oz   
+                Measures:  cubes  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Drop shooter in glass. Fill with beer
+                Instructions: In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.
             </font>
         </h4>        
     </div>
