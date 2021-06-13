@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re an inspiration"
+                "Still progress,  small progress is"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yswuwp1469090992.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xxyywq1454511117.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Ipamena
+                Name: 110 in the shade
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Beer
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Lime  -- Brown sugar  -- Passion fruit juice  -- Ginger ale  -- Ice  
+                Ingredients:  Lager  -- Tequila  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  ½  -- 2 tsp  -- 4 cl  -- top up with  -- fill  
+                Measures:  16 oz   -- 1.5 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime
+                Instructions: Drop shooter in glass. Fill with beer
             </font>
         </h4>        
     </div>
