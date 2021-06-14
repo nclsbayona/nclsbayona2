@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The progressive realization of a worthy goal,  success is"
+                "Not a sprint,  it is,A marathon,  it is.One step at a time"
             </i>
             <(-_-)>
         </h5>
@@ -21,36 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uyrpww1441246384.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;dj8n0r1504375018.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Masala Chai
+                Name: Amaretto And Cream
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee &#x2F; Tea
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Water  -- Tea  -- Ginger  -- Cardamom  -- Cloves  -- Cinnamon  -- Black pepper  -- Sugar  
+                Ingredients:  Amaretto  -- Light cream  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cups   -- 3-4 tsp   -- 1 chunk dried   -- 3-4 crushed   -- 3   -- 1 piece   -- 1-2 whole   --  to taste
-  
+                Measures:  1 1&#x2F;2 oz   -- 1 1&#x2F;2 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That&#39;s IT.
+                Instructions: Shake well with cracked ice, strain contents into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -214,12 +213,12 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
+                16°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
-                05:44 a. m.
+                05:45 a. m.
             </b> 
             and sets at 
             <b>
