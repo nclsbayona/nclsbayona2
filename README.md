@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;dj8n0r1504375018.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;l0smzo1504884904.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto And Cream
+                Name: Jello shots
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Amaretto  -- Light cream  
+                Ingredients:  Vodka  -- Jello  -- Water  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 1&#x2F;2 oz   
+                Measures:  2 cups   -- 3 packages   -- 3 cups   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake well with cracked ice, strain contents into a cocktail glass, and serve.
+                Instructions: Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...
             </font>
         </h4>        
     </div>
