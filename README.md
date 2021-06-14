@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A myth,  10x engineers are"
+                "The progressive realization of a worthy goal,  success is"
             </i>
             <(-_-)>
         </h5>
@@ -21,40 +21,36 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;nwx02s1515795822.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uyrpww1441246384.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Blue Hurricane
+                Name: Masala Chai
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Rum  -- Dark Rum  -- Passoa  -- Blue Curacao  -- Sweet and Sour  -- Ice  
+                Ingredients:  Water  -- Tea  -- Ginger  -- Cardamom  -- Cloves  -- Cinnamon  -- Black pepper  -- Sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4 parts  -- 2 parts  -- 1 part  -- 1 part  -- 6 parts  -- cubes  
+                Measures:  2 cups   -- 3-4 tsp   -- 1 chunk dried   -- 3-4 crushed   -- 3   -- 1 piece   -- 1-2 whole   --  to taste
+  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: If each part is 1&#x2F;2 oz then use about 2.5 cups of ice.
-
-Blend it all together. 
-Drink it with a big straw if you have one.
-
-
+                Instructions: Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That&#39;s IT.
             </font>
         </h4>        
     </div>
@@ -218,8 +214,8 @@ Drink it with a big straw if you have one.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
-                <i>broken clouds</i>
+                14°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
