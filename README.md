@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not a sprint,  it is,A marathon,  it is.One step at a time"
+                "Magical when it&#39;s working,  it&#39;ll feel"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;l0smzo1504884904.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jofsaz1504352991.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Jello shots
+                Name: White Lady
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Jello  -- Water  
+                Ingredients:  Gin  -- Triple Sec  -- Lemon Juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cups   -- 3 packages   -- 3 cups   
+                Measures:  4cl  -- 3cl  -- 2cl  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...
+                Instructions: Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
             </font>
         </h4>        
     </div>
