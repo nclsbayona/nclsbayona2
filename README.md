@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Magical when it&#39;s working,  it&#39;ll feel"
+                "Not equal the future,  the past does"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jofsaz1504352991.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;09yd5f1493069852.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: White Lady
+                Name: Apple Slammer
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Triple Sec  -- Lemon Juice  
+                Ingredients:  7-Up  -- Apple schnapps  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4cl  -- 3cl  -- 2cl  
+                Measures:  1 part   -- 1 part   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
+                Instructions: pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 16°C, 
-                <i>scattered clouds</i>
+                <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
