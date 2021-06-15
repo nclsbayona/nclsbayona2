@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A myth,  10x engineers are"
+                "A difference in the world by simply existing in it,  you make"
             </i>
             <(-_-)>
         </h5>
@@ -21,15 +21,15 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xsqsxw1441553580.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yqsvtw1478252982.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Pysch Vitamin Light
+                Name: Rusty Nail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Orange juice  -- Apple juice  -- Pineapple juice  
+                Ingredients:  Scotch  -- Drambuie  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 part   -- 1 part   -- 1 part   
+                Measures:  1 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake with ice.
+                Instructions: Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>broken clouds</i>
+                16°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
