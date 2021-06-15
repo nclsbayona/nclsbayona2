@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "More than you knew yesterday,  you know"
+                "The progressive realization of a worthy goal,  success is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yrhutv1503563730.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sy7y6r1614775067.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Irish Curdling Cow
+                Name: The Galah
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Baileys irish cream  -- Bourbon  -- Vodka  -- Orange juice  
+                Ingredients:  Dark Rum  -- Campari  -- Creme De Banane  -- Pineapple Juice  -- Lime Juice  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  3&#x2F;4 oz   -- 3&#x2F;4 oz   -- 3&#x2F;4 oz   -- 2-3 oz   
+                Measures:  1 shot  -- 1 shot  -- 1&#x2F;2 shot  -- Top  -- Top  --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.
+                Instructions: Mix together the alcoholic portions and top with Pineapple and Lime juice.
             </font>
         </h4>        
     </div>
