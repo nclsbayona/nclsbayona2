@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The progressive realization of a worthy goal,  success is"
+                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;sy7y6r1614775067.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;7onfhz1493067921.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: The Galah
+                Name: Arthur Tompkins
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Dark Rum  -- Campari  -- Creme De Banane  -- Pineapple Juice  -- Lime Juice  --   --   
+                Ingredients:  Gin  -- Grand Marnier  -- Lemon juice  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot  -- 1 shot  -- 1&#x2F;2 shot  -- Top  -- Top  --   --   
+                Measures:  2 oz   -- 1&#x2F;2 oz   -- 2 tsp   -- 1 twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix together the alcoholic portions and top with Pineapple and Lime juice.
+                Instructions: In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
+                18°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
