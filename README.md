@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A difference in the world by simply existing in it,  you make"
+                "More than you knew yesterday,  you know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yqsvtw1478252982.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yrhutv1503563730.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Rusty Nail
+                Name: Irish Curdling Cow
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Scotch  -- Drambuie  -- Lemon peel  
+                Ingredients:  Baileys irish cream  -- Bourbon  -- Vodka  -- Orange juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 twist of   
+                Measures:  3&#x2F;4 oz   -- 3&#x2F;4 oz   -- 3&#x2F;4 oz   -- 2-3 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
+                Instructions: Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.
             </font>
         </h4>        
     </div>
