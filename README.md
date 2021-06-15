@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Not equal the future,  the past does"
+                "A myth,  10x engineers are"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;09yd5f1493069852.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;xsqsxw1441553580.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Apple Slammer
+                Name: Pysch Vitamin Light
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  7-Up  -- Apple schnapps  
+                Ingredients:  Orange juice  -- Apple juice  -- Pineapple juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 part   -- 1 part   
+                Measures:  1 part   -- 1 part   -- 1 part   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.
+                Instructions: Shake with ice.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
-                <i>light intensity drizzle</i>
+                14°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
