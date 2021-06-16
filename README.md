@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Easy you&#39;d be bored,  if everything was"
+                "Full of brilliant ideas,  your mind is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;1q7coh1504736227.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pg8iw31593351601.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Scotch Cobbler
+                Name: Pineapple Paloma
             </font>
         </h4>
         <h4>
@@ -34,22 +34,25 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Scotch  -- Brandy  -- Curacao  -- Orange  -- Mint  
+                Ingredients:  Tequila  -- Grapefruit Juice  -- Fresh Lime Juice  -- Pineapple Juice  -- Lime  -- Pepper  --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 4 dashes   -- 4 dashes   -- 1 slice   -- 1   
+                Measures:  4 oz  -- 4 oz  -- 1 oz  -- 8 oz  -- Garnish with  -- Rimmed  --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve.
+                Instructions: Rub the rim of each glass with lime slice and dip into salt.
+Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
+Give it a quick stir.
+Garnish with fresh pineapple or lime.
             </font>
         </h4>        
     </div>
