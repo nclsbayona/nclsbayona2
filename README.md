@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;ll sort it out,  I know"
+                "Myself permission to do what is right for me,  I give"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rhhwmp1493067619.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;808mxk1487602471.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: AT&amp;T
+                Name: Karsk
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Absolut Vodka  -- Gin  -- Tonic water  
+                Ingredients:  Coffee  -- Grain alcohol  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   -- 4 oz   
+                Measures:  1 part   -- 2 parts   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour Vodka and Gin over ice, add Tonic and Stir
+                Instructions: Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.
             </font>
         </h4>        
     </div>
