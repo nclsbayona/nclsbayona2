@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re a smart cookie"
+                "Easy you&#39;d be bored,  if everything was"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;m5p67n1582474609.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;1q7coh1504736227.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Banana Cream Pi
+                Name: Scotch Cobbler
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Malibu Rum  -- Banana Liqueur  -- Pineapple Juice  --   --   --   --   
+                Ingredients:  Scotch  -- Brandy  -- Curacao  -- Orange  -- Mint  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz  -- 1 oz  -- Top  --   --   --   --   
+                Measures:  2 oz   -- 4 dashes   -- 4 dashes   -- 1 slice   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Serve over ice.
+                Instructions: Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                11°C, 
-                <i>overcast clouds</i>
+                17°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
