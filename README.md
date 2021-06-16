@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Full of brilliant ideas,  your mind is"
+                "You&#39;ll sort it out,  I know"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;pg8iw31593351601.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rhhwmp1493067619.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Pineapple Paloma
+                Name: AT&amp;T
             </font>
         </h4>
         <h4>
@@ -34,25 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Tequila  -- Grapefruit Juice  -- Fresh Lime Juice  -- Pineapple Juice  -- Lime  -- Pepper  --   
+                Ingredients:  Absolut Vodka  -- Gin  -- Tonic water  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4 oz  -- 4 oz  -- 1 oz  -- 8 oz  -- Garnish with  -- Rimmed  --   
+                Measures:  1 oz   -- 1 oz   -- 4 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Rub the rim of each glass with lime slice and dip into salt.
-Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
-Give it a quick stir.
-Garnish with fresh pineapple or lime.
+                Instructions: Pour Vodka and Gin over ice, add Tonic and Stir
             </font>
         </h4>        
     </div>
