@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Myself permission to do what is right for me,  I give"
+                "You&#39;re a smart cookie"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;mr30ob1582479875.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;m5p67n1582474609.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Abbey Cocktail
+                Name: Banana Cream Pi
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Orange bitters  -- Orange  -- Cherry  
+                Ingredients:  Malibu Rum  -- Banana Liqueur  -- Pineapple Juice  --   --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- 1 dash   -- Juice of 1&#x2F;4   -- 1   
+                Measures:  1 oz  -- 1 oz  -- Top  --   --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.
+                Instructions: Serve over ice.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12°C, 
-                <i>light intensity drizzle</i>
+                11°C, 
+                <i>overcast clouds</i>
             </b>
             Today, the sun rises at 
             <b>
