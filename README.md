@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "This,  you got"
+                "Learning valuable lessons from yourself every day,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;x03td31521761009.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rhhwmp1493067619.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Old Pal
+                Name: AT&amp;T
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Rye whiskey  -- Campari  -- Dry Vermouth  
+                Ingredients:  Absolut Vodka  -- Gin  -- Tonic water  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz  -- 1 oz  -- 1 oz  
+                Measures:  1 oz   -- 1 oz   -- 4 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Chill cocktail glass. Add ingredients to a mixing glass, and fill 2&#x2F;3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.
+                Instructions: Pour Vodka and Gin over ice, add Tonic and Stir
             </font>
         </h4>        
     </div>
