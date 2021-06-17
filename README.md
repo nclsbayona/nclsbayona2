@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Myself permission to do what is right for me,  I give"
+                "This,  you got"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;808mxk1487602471.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;drtihp1606768397.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Karsk
+                Name: Gin Fizz
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Coffee  -- Grain alcohol  
+                Ingredients:  Gin  -- Lemon  -- Powdered sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 part   -- 2 parts   
+                Measures:  2 oz   -- Juice of 1&#x2F;2   -- 1 tsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.
+                Instructions: Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
-                <i>scattered clouds</i>
+                15°C, 
+                <i>moderate rain</i>
             </b>
             Today, the sun rises at 
             <b>
