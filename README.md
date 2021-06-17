@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "This,  you got"
+                "You&#39;re doing a great job"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;drtihp1606768397.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;z6e22f1582581155.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Gin Fizz
+                Name: Gin Daisy
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Lemon  -- Powdered sugar  
+                Ingredients:  Gin  -- Lemon juice  -- Sugar  -- Grenadine  -- Maraschino cherry  -- Orange  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- Juice of 1&#x2F;2   -- 1 tsp   
+                Measures:  2 oz   -- 1 oz   -- 1&#x2F;2 tsp superfine   -- 1&#x2F;2 tsp   -- 1   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.
+                Instructions: In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 15°C, 
-                <i>moderate rain</i>
+                <i>heavy intensity rain</i>
             </b>
             Today, the sun rises at 
             <b>
