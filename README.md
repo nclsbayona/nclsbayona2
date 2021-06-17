@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re doing a great job"
+                "This,  you got"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;z6e22f1582581155.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;x03td31521761009.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Gin Daisy
+                Name: Old Pal
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Lemon juice  -- Sugar  -- Grenadine  -- Maraschino cherry  -- Orange  
+                Ingredients:  Rye whiskey  -- Campari  -- Dry Vermouth  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 1 oz   -- 1&#x2F;2 tsp superfine   -- 1&#x2F;2 tsp   -- 1   -- 1   
+                Measures:  2 oz  -- 1 oz  -- 1 oz  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.
+                Instructions: Chill cocktail glass. Add ingredients to a mixing glass, and fill 2&#x2F;3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>heavy intensity rain</i>
+                16°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
