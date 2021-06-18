@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Worthy and deserving of respect,  you are"
+                "The progressive realization of a worthy goal,  success is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;s00d6f1504883945.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;yvxrwv1472669728.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Gin Rickey
+                Name: Absolutly Screwed Up
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Grenadine  -- lemon  -- Soda Water  -- Lime  
+                Ingredients:  Absolut Citron  -- Orange juice  -- Triple sec  -- Ginger ale  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 1 tsp   -- Juice of 1&#x2F;2   -- Top up with  -- Garnish  
+                Measures:  1 shot   -- 1 shot   -- 1 shot   -- Fill to top   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and&#x2F;or lemon slices.
+                Instructions: Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 17°C, 
-                <i>broken clouds</i>
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
