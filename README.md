@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "To take massive,  the path to success is,Determined action"
+                "Worthy and deserving of respect,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;iloasq1587661955.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;s00d6f1504883945.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Aperol Spritz
+                Name: Gin Rickey
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Aperol  -- Prosecco  -- Soda Water  --   --   --   --   
+                Ingredients:  Gin  -- Grenadine  -- lemon  -- Soda Water  -- Lime  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  100 ml  -- 150 ml  -- Top  --   --   --   --   
+                Measures:  2 oz   -- 1 tsp   -- Juice of 1&#x2F;2   -- Top up with  -- Garnish  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.
+                Instructions: Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and&#x2F;or lemon slices.
             </font>
         </h4>        
     </div>
