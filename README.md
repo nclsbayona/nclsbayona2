@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "The plan,  all you need is,The roadmap,And the courage to press on to your destination"
+                "To take massive,  the path to success is,Determined action"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;mokcas1604179977.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;iloasq1587661955.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Orange Rosemary Collins
+                Name: Aperol Spritz
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Orange Juice  -- Lemon Juice  -- Rosemary Syrup  -- Soda Water  -- Rosemary  -- Orange Peel  
+                Ingredients:  Aperol  -- Prosecco  -- Soda Water  --   --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 shot  -- Top  -- Top  -- 25 ml  -- Top  -- Garnish with  -- Garnish with  
+                Measures:  100 ml  -- 150 ml  -- Top  --   --   --   --   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add the spirits to the bottom of the glass and top equally with the mixer drinks. Garnish with orange slices inside the glass as well as some rosemary on top.
+                Instructions: Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.
             </font>
         </h4>        
     </div>
