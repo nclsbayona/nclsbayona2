@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Learning valuable lessons from yourself every day,  you are"
+                "Worthy and deserving of respect,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rhhwmp1493067619.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;37vzv11504884831.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: AT&amp;T
+                Name: Japanese Fizz
             </font>
         </h4>
         <h4>
@@ -39,17 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Absolut Vodka  -- Gin  -- Tonic water  
+                Ingredients:  Blended whiskey  -- Lemon  -- Powdered sugar  -- Port  -- Egg white  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   -- 4 oz   
+                Measures:  1 1&#x2F;2 oz   -- Juice of 1&#x2F;2   -- 1 tsp   -- 1 tblsp  -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour Vodka and Gin over ice, add Tonic and Stir
+                Instructions: Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
-                <i>broken clouds</i>
+                14°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
