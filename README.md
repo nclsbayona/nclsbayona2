@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Worthy and deserving of respect,  you are"
+                "The plan,  all you need is,The roadmap,And the courage to press on to your destination"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;37vzv11504884831.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;mokcas1604179977.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Japanese Fizz
+                Name: Orange Rosemary Collins
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Blended whiskey  -- Lemon  -- Powdered sugar  -- Port  -- Egg white  
+                Ingredients:  Gin  -- Orange Juice  -- Lemon Juice  -- Rosemary Syrup  -- Soda Water  -- Rosemary  -- Orange Peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz   -- Juice of 1&#x2F;2   -- 1 tsp   -- 1 tblsp  -- 1   
+                Measures:  1 shot  -- Top  -- Top  -- 25 ml  -- Top  -- Garnish with  -- Garnish with  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.
+                Instructions: Add the spirits to the bottom of the glass and top equally with the mixer drinks. Garnish with orange slices inside the glass as well as some rosemary on top.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>scattered clouds</i>
+                17°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
@@ -222,7 +222,7 @@
             </b> 
             and sets at 
             <b>
-                06:08 p. m.
+                06:09 p. m.
             </b>
             .
         </p>
