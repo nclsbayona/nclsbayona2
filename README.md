@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Just another way to learn how to do something right,  failure is"
+                "Cracks - that&#39;s how the light gets in,  everything has"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;isql6y1487602375.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;utypqq1441554367.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Spiking coffee
+                Name: Turf Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee &#x2F; Tea
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients: 
+                Ingredients:  Dry Vermouth  -- Gin  -- Anis  -- Bitters  -- Orange peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures: 
+                Measures:  1 oz   -- 1 oz   -- 1&#x2F;4 tsp   -- 2 dashes   -- Twist of   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.
+                Instructions: Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
+                17°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
