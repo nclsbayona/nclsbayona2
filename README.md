@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Worthy and deserving of respect,  you are"
+                "Just another way to learn how to do something right,  failure is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uyrpww1441246384.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;isql6y1487602375.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Masala Chai
+                Name: Spiking coffee
             </font>
         </h4>
         <h4>
@@ -39,18 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Water  -- Tea  -- Ginger  -- Cardamom  -- Cloves  -- Cinnamon  -- Black pepper  -- Sugar  
+                Ingredients: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cups   -- 3-4 tsp   -- 1 chunk dried   -- 3-4 crushed   -- 3   -- 1 piece   -- 1-2 whole   --  to taste
-  
+                Measures: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That&#39;s IT.
+                Instructions: Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.
             </font>
         </h4>        
     </div>
