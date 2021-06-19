@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Just another way to learn how to do something right,  failure is"
+                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rpvtpr1468923881.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;3h9wv51504389379.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Loch Lomond
+                Name: Bellini Martini
             </font>
         </h4>
         <h4>
@@ -39,17 +39,23 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Scotch  -- Drambuie  -- Dry Vermouth  -- Lemon peel  
+                Ingredients:  Ice  -- Vodka  -- Peach nectar  -- Peach schnapps  -- Lemon peel  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 oz   -- 1&#x2F;2 oz   -- 1&#x2F;2 oz   -- 1 twist of   
+                Measures:  8 cubes  -- 3 oz   -- 1.5 oz   -- 1.5 oz   -- 1   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.
+                Instructions: Add ice cubes to shaker.
+Add vodka.
+Add peach schnapps.
+Add peach nectar.
+Shake.
+Strain into glass.
+Add lemon twist peel.
             </font>
         </h4>        
     </div>
@@ -213,7 +219,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16°C, 
+                15°C, 
                 <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
