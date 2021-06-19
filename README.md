@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Still progress,  small progress is"
+                "Worthy and deserving of respect,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,36 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;5wm4zo1582579154.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uyrpww1441246384.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Blue Lagoon
+                Name: Masala Chai
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Vodka  -- Blue Curacao  
+                Ingredients:  Water  -- Tea  -- Ginger  -- Cardamom  -- Cloves  -- Cinnamon  -- Black pepper  -- Sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   
+                Measures:  2 cups   -- 3-4 tsp   -- 1 chunk dried   -- 3-4 crushed   -- 3   -- 1 piece   -- 1-2 whole   --  to taste
+  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.
+                Instructions: Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That&#39;s IT.
             </font>
         </h4>        
     </div>
