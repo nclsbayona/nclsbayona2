@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
+                "Still progress,  small progress is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;3h9wv51504389379.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;5wm4zo1582579154.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bellini Martini
+                Name: Blue Lagoon
             </font>
         </h4>
         <h4>
@@ -39,23 +39,17 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Ice  -- Vodka  -- Peach nectar  -- Peach schnapps  -- Lemon peel  
+                Ingredients:  Vodka  -- Blue Curacao  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  8 cubes  -- 3 oz   -- 1.5 oz   -- 1.5 oz   -- 1   
+                Measures:  1 oz   -- 1 oz   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add ice cubes to shaker.
-Add vodka.
-Add peach schnapps.
-Add peach nectar.
-Shake.
-Strain into glass.
-Add lemon twist peel.
+                Instructions: Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.
             </font>
         </h4>        
     </div>
@@ -219,12 +213,12 @@ Add lemon twist peel.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>scattered clouds</i>
+                16°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
-                05:45 a. m.
+                05:46 a. m.
             </b> 
             and sets at 
             <b>
