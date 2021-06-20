@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Cracks - that&#39;s how the light gets in,  everything has"
+                "Magical when it&#39;s working,  it&#39;ll feel"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;utypqq1441554367.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;vysywu1468924264.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Turf Cocktail
+                Name: Sangria The  Best
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Dry Vermouth  -- Gin  -- Anis  -- Bitters  -- Orange peel  
+                Ingredients:  Red wine  -- Sugar  -- Lemon  -- Orange  -- Apple  -- Brandy  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 oz   -- 1 oz   -- 1&#x2F;4 tsp   -- 2 dashes   -- Twist of   
+                Measures:  1 1&#x2F;2 L   -- 1 cup   -- 1 large   -- 1 large   -- 1 large   -- 3-4 oz plain   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir all ingredients (except orange peel) with ice and strain into a cocktail glass. Add the twist of orange peel and serve.
+                Instructions: Mix wine, sugar and fruit, and let sit in the fridge for 18-24 hours. The mixture will have a somewhat syrupy consistency. Before serving stir in brandy and cut the mixture with soda water until it have a thinner, more wine like consistency. Serve from a pitcher in wine glasses.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
-                <i>broken clouds</i>
+                16°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
