@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Still progress,  small progress is"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;syusvw1468876634.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jrhn1q1504884469.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Apple Karate
+                Name: Frozen Mint Daiquiri
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Apple juice  -- Carrot  
+                Ingredients:  Light rum  -- Lime juice  -- Mint  -- Sugar  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cups   -- 1 large   
+                Measures:  2 oz   -- 1 tblsp   -- 6   -- 1 tsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
+                Instructions: Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into an old-fashioned glass and serve.
             </font>
         </h4>        
     </div>
