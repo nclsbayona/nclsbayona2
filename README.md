@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "More than you think,  you know"
+                "This,  you got"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qrryvq1478820428.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;869qr81487603278.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sherry Flip
+                Name: Tomato Tang
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Other&#x2F;Unknown
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Sherry  -- Light cream  -- Powdered sugar  -- Egg  
+                Ingredients:  Tomato juice  -- Lemon juice  -- Celery salt  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 1&#x2F;2 oz cream   -- 2 tsp   -- 1 tsp   -- 1 whole   
+                Measures:  2 cups   -- 1-2 tblsp   -- 1 dash   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
+                Instructions: Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14°C, 
-                <i>drizzle</i>
+                15°C, 
+                <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
             <b>
