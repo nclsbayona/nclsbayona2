@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re doing a great job"
+                "Cracks - that&#39;s how the light gets in,  everything has"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;3nbu4a1487603196.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;ywxwqs1461867097.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Castillian Hot Chocolate
+                Name: 501 Blue
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocoa
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Cocoa powder  -- Sugar  -- Cornstarch  -- Water  -- Milk  
+                Ingredients: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;2 cup   -- 1 cup   -- 7 tsp   -- 1&#x2F;2 cup   -- 1 qt   
+                Measures: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six.
+                Instructions: Mix equal amounts into a glass with ice.
             </font>
         </h4>        
     </div>
@@ -214,7 +214,7 @@
         <p>
             <b> 
                 12°C, 
-                <i>light intensity drizzle</i>
+                <i>moderate rain</i>
             </b>
             Today, the sun rises at 
             <b>
