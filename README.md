@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "This,  you got"
+                "You&#39;re doing a great job"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;869qr81487603278.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;3nbu4a1487603196.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Tomato Tang
+                Name: Castillian Hot Chocolate
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other&#x2F;Unknown
+                Category: Cocoa
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Tomato juice  -- Lemon juice  -- Celery salt  
+                Ingredients:  Cocoa powder  -- Sugar  -- Cornstarch  -- Water  -- Milk  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 cups   -- 1-2 tblsp   -- 1 dash   
+                Measures:  1&#x2F;2 cup   -- 1 cup   -- 7 tsp   -- 1&#x2F;2 cup   -- 1 qt   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
+                Instructions: Shift the cocoa and sugar together into a medium-sized saucepan. Dissolve the cornstarch in the water, and stir into the cocoa and sugar until it is a smooth paste. Begin heating the mixture, stirring it with a whisk, and gradually pour in the milk. Continue stirring with the whisk as you bring the liquid to a simmer. Allow the chocolate to simmer for about 10 minutes, stirring often, until it is thick, glossy and completely smooth. Serve steaming hot in coffee mug. Serves six.
             </font>
         </h4>        
     </div>
@@ -213,7 +213,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
+                12°C, 
                 <i>light intensity drizzle</i>
             </b>
             Today, the sun rises at 
