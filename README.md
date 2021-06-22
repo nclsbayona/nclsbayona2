@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "You&#39;re learning,  struggling means"
+                "A capable human,  you are"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tuxxtp1472668667.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;isql6y1487602375.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Apricot punch
+                Name: Spiking coffee
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Coffee &#x2F; Tea
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Apricot brandy  -- Champagne  -- Vodka  -- 7-Up  -- Orange juice  
+                Ingredients: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1 qt   -- 4 fifth   -- 1 fifth   -- 4 L   -- 1&#x2F;2 gal   
+                Measures: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are peeled and divided.
+                Instructions: Incidentally, a pinch of cinnamon is indeed a nice addition to coffee but true heaven is a cardamom seed. Of course, you serve it in a coffee mug.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>broken clouds</i>
+                16°C, 
+                <i>scattered clouds</i>
             </b>
             Today, the sun rises at 
             <b>
