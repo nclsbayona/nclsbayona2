@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
+                "A way,  you&#39;ll find"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,38 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qxvypq1468924331.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uwstrx1472406058.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Spiced Peach Punch
+                Name: Dark Caipirinha
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Peach nectar  -- Orange juice  -- Brown sugar  -- Cinnamon  -- Cloves  -- Lime juice  
+                Ingredients:  demerara Sugar  -- Lime  -- Cachaca  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  46 oz   -- 20 oz   -- 1&#x2F;2 cup   -- 3 3-inch   -- 1&#x2F;2 tsp   -- 2 tblsp   
+                Measures:  2 tsp   -- 1  -- 2 1&#x2F;2 oz  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.
+                Instructions: Muddle the sugar into the lime wedges in an old-fashioned glass.
+Fill the glass with ice cubes.
+Pour the cachaca into the glass.
+Stir well.
             </font>
         </h4>        
     </div>
@@ -213,8 +216,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15°C, 
-                <i>few clouds</i>
+                9°C, 
+                <i>broken clouds</i>
             </b>
             Today, the sun rises at 
             <b>
