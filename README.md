@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "To enjoy the journey,  don&#39;t forget"
+                "Already a miracle of chance waiting for you to shape its destiny,  your life is"
             </i>
             <(-_-)>
         </h5>
@@ -21,35 +21,35 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;iloasq1587661955.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;qxvypq1468924331.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Aperol Spritz
+                Name: Spiced Peach Punch
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Aperol  -- Prosecco  -- Soda Water  --   --   --   --   
+                Ingredients:  Peach nectar  -- Orange juice  -- Brown sugar  -- Cinnamon  -- Cloves  -- Lime juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  100 ml  -- 150 ml  -- Top  --   --   --   --   
+                Measures:  46 oz   -- 20 oz   -- 1&#x2F;2 cup   -- 3 3-inch   -- 1&#x2F;2 tsp   -- 2 tblsp   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.
+                Instructions: Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.
             </font>
         </h4>        
     </div>
@@ -213,8 +213,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17°C, 
-                <i>broken clouds</i>
+                15°C, 
+                <i>few clouds</i>
             </b>
             Today, the sun rises at 
             <b>
