@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "A way,  you&#39;ll find"
+                "Just another way to learn how to do something right,  failure is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;uwstrx1472406058.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rx8k8e1504365812.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Dark Caipirinha
+                Name: Smut
             </font>
         </h4>
         <h4>
@@ -34,25 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  demerara Sugar  -- Lime  -- Cachaca  
+                Ingredients:  Red wine  -- Peach schnapps  -- Pepsi Cola  -- Orange juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  2 tsp   -- 1  -- 2 1&#x2F;2 oz  
+                Measures:  1&#x2F;3 part   -- 1 shot   -- 1&#x2F;3 part   -- 1&#x2F;3 part   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Muddle the sugar into the lime wedges in an old-fashioned glass.
-Fill the glass with ice cubes.
-Pour the cachaca into the glass.
-Stir well.
+                Instructions: Throw it all together and serve real cold.
             </font>
         </h4>        
     </div>
@@ -216,7 +213,7 @@ Stir well.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                9°C, 
+                15°C, 
                 <i>broken clouds</i>
             </b>
             Today, the sun rises at 
