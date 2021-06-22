@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Just another way to learn how to do something right,  failure is"
+                "Still progress,  small progress is"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;rx8k8e1504365812.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jofsaz1504352991.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Smut
+                Name: White Lady
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch &#x2F; Party Drink
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Red wine  -- Peach schnapps  -- Pepsi Cola  -- Orange juice  
+                Ingredients:  Gin  -- Triple Sec  -- Lemon Juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  1&#x2F;3 part   -- 1 shot   -- 1&#x2F;3 part   -- 1&#x2F;3 part   
+                Measures:  4cl  -- 3cl  -- 2cl  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Throw it all together and serve real cold.
+                Instructions: Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
             </font>
         </h4>        
     </div>
