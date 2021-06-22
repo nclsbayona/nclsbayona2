@@ -8,7 +8,7 @@
         <h5>
             <(-_-)>
             <i color ="#008040">
-                "Still progress,  small progress is"
+                "You&#39;re learning,  struggling means"
             </i>
             <(-_-)>
         </h5>
@@ -21,10 +21,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;jofsaz1504352991.jpg">
+        <img src="https:&#x2F;&#x2F;www.thecocktaildb.com&#x2F;images&#x2F;media&#x2F;drink&#x2F;tuxxtp1472668667.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: White Lady
+                Name: Apricot punch
             </font>
         </h4>
         <h4>
@@ -34,22 +34,22 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch &#x2F; Party Drink
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Ingredients:  Gin  -- Triple Sec  -- Lemon Juice  
+                Ingredients:  Apricot brandy  -- Champagne  -- Vodka  -- 7-Up  -- Orange juice  
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Measures:  4cl  -- 3cl  -- 2cl  
+                Measures:  1 qt   -- 4 fifth   -- 1 fifth   -- 4 L   -- 1&#x2F;2 gal   
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
+                Instructions: Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are peeled and divided.
             </font>
         </h4>        
     </div>
